@@ -1,0 +1,2001 @@
+customer_id,first_name,last_name,email,city,state,country,signup_date,is_premium
+CUST00001,Patricia,Smith,patricia.smith1@email.com,Austin,TX,USA,2021-07-17 07:14:00,True
+CUST00002,Patricia,Williams,patricia.williams2@email.com,Seattle,WA,USA,2023-04-24 13:02:00,True
+CUST00003,Michael,Davis,michael.davis3@email.com,Los Angeles,CA,USA,2022-10-31 19:01:00,True
+CUST00004,Emma,White,emma.white4@email.com,Seattle,WA,USA,2021-03-27 14:37:00,False
+CUST00005,James,Garcia,james.garcia5@email.com,Denver,CO,USA,2023-11-30 13:21:00,False
+CUST00006,Michael,Taylor,michael.taylor6@email.com,Chicago,IL,USA,2020-07-28 02:24:00,True
+CUST00007,Susan,Wilson,susan.wilson7@email.com,Philadelphia,PA,USA,2020-03-29 23:29:00,True
+CUST00008,Richard,Williams,richard.williams8@email.com,Nashville,TN,USA,2023-02-04 09:53:00,False
+CUST00009,Michael,Williams,michael.williams9@email.com,San Jose,CA,USA,2020-04-03 21:14:00,False
+CUST00010,Linda,Brown,linda.brown10@email.com,Los Angeles,CA,USA,2022-02-17 08:29:00,False
+CUST00011,Susan,Thomas,susan.thomas11@email.com,Chicago,IL,USA,2021-03-05 21:17:00,True
+CUST00012,Emma,Garcia,emma.garcia12@email.com,San Jose,CA,USA,2022-12-29 23:15:00,True
+CUST00013,Richard,Wilson,richard.wilson13@email.com,San Diego,CA,USA,2023-08-03 22:35:00,True
+CUST00014,David,Johnson,david.johnson14@email.com,Austin,TX,USA,2021-04-14 01:51:00,False
+CUST00015,William,Williams,william.williams15@email.com,San Antonio,TX,USA,2021-03-08 18:56:00,False
+CUST00016,Emma,Martin,emma.martin16@email.com,Houston,TX,USA,2022-03-21 20:29:00,True
+CUST00017,Robert,Davis,robert.davis17@email.com,Phoenix,AZ,USA,2023-02-23 17:16:00,False
+CUST00018,Charles,Jackson,charles.jackson18@email.com,Nashville,TN,USA,2022-01-11 07:08:00,False
+CUST00019,Ava,Johnson,ava.johnson19@email.com,Los Angeles,CA,USA,2020-08-12 04:40:00,True
+CUST00020,Noah,White,noah.white20@email.com,Denver,CO,USA,2023-05-06 02:24:00,False
+CUST00021,Joseph,Wilson,joseph.wilson21@email.com,San Jose,CA,USA,2023-02-07 00:43:00,True
+CUST00022,Karen,Wilson,karen.wilson22@email.com,Austin,TX,USA,2023-08-05 10:07:00,False
+CUST00023,Jennifer,Harris,jennifer.harris23@email.com,San Antonio,TX,USA,2020-01-07 23:56:00,False
+CUST00024,Ava,Garcia,ava.garcia24@email.com,Dallas,TX,USA,2022-11-05 03:55:00,False
+CUST00025,Emma,Miller,emma.miller25@email.com,Boston,MA,USA,2020-11-09 11:48:00,True
+CUST00026,Ava,Smith,ava.smith26@email.com,Dallas,TX,USA,2023-05-11 10:31:00,True
+CUST00027,Susan,Anderson,susan.anderson27@email.com,Los Angeles,CA,USA,2021-05-05 01:15:00,True
+CUST00028,Liam,Martin,liam.martin28@email.com,Los Angeles,CA,USA,2020-05-21 17:49:00,True
+CUST00029,Noah,Martin,noah.martin29@email.com,Chicago,IL,USA,2023-01-30 05:16:00,False
+CUST00030,Karen,Miller,karen.miller30@email.com,Houston,TX,USA,2023-12-31 09:25:00,False
+CUST00031,Thomas,Harris,thomas.harris31@email.com,San Diego,CA,USA,2020-09-04 07:14:00,True
+CUST00032,James,Davis,james.davis32@email.com,Philadelphia,PA,USA,2023-04-20 07:00:00,True
+CUST00033,Emma,Johnson,emma.johnson33@email.com,Seattle,WA,USA,2021-04-13 02:57:00,True
+CUST00034,David,Williams,david.williams34@email.com,Boston,MA,USA,2022-11-18 07:17:00,False
+CUST00035,Karen,Jones,karen.jones35@email.com,Houston,TX,USA,2023-03-15 18:30:00,True
+CUST00036,Sarah,White,sarah.white36@email.com,Denver,CO,USA,2021-01-24 03:06:00,False
+CUST00037,Jessica,White,jessica.white37@email.com,Philadelphia,PA,USA,2022-08-14 23:03:00,True
+CUST00038,Richard,Taylor,richard.taylor38@email.com,New York,NY,USA,2020-08-11 07:12:00,True
+CUST00039,Joseph,Jones,joseph.jones39@email.com,Dallas,TX,USA,2022-05-14 05:17:00,False
+CUST00040,John,Harris,john.harris40@email.com,Houston,TX,USA,2023-02-01 03:03:00,True
+CUST00041,Ava,Davis,ava.davis41@email.com,Los Angeles,CA,USA,2020-12-06 13:31:00,False
+CUST00042,Richard,Johnson,richard.johnson42@email.com,Houston,TX,USA,2020-12-03 12:00:00,False
+CUST00043,Joseph,Anderson,joseph.anderson43@email.com,Phoenix,AZ,USA,2022-05-16 22:46:00,False
+CUST00044,Michael,Anderson,michael.anderson44@email.com,Chicago,IL,USA,2021-03-21 01:37:00,True
+CUST00045,David,Johnson,david.johnson45@email.com,Seattle,WA,USA,2020-04-12 18:30:00,True
+CUST00046,Thomas,Williams,thomas.williams46@email.com,New York,NY,USA,2021-01-15 02:38:00,True
+CUST00047,Linda,Jackson,linda.jackson47@email.com,Austin,TX,USA,2020-09-02 18:15:00,True
+CUST00048,John,White,john.white48@email.com,San Jose,CA,USA,2023-09-08 18:36:00,False
+CUST00049,William,Miller,william.miller49@email.com,Nashville,TN,USA,2023-10-03 22:20:00,True
+CUST00050,Richard,Jones,richard.jones50@email.com,Phoenix,AZ,USA,2023-10-07 20:19:00,False
+CUST00051,Ava,Williams,ava.williams51@email.com,Philadelphia,PA,USA,2020-01-20 14:39:00,True
+CUST00052,Karen,Miller,karen.miller52@email.com,Los Angeles,CA,USA,2022-11-02 08:08:00,False
+CUST00053,John,Davis,john.davis53@email.com,Nashville,TN,USA,2022-01-26 09:10:00,False
+CUST00054,Karen,Anderson,karen.anderson54@email.com,Boston,MA,USA,2023-06-06 20:33:00,True
+CUST00055,Karen,Anderson,karen.anderson55@email.com,Austin,TX,USA,2023-09-20 03:56:00,True
+CUST00056,Patricia,Brown,patricia.brown56@email.com,Phoenix,AZ,USA,2023-02-07 04:17:00,False
+CUST00057,Michael,Taylor,michael.taylor57@email.com,San Jose,CA,USA,2021-02-20 21:40:00,False
+CUST00058,Sarah,Wilson,sarah.wilson58@email.com,Dallas,TX,USA,2020-04-14 02:40:00,False
+CUST00059,William,Johnson,william.johnson59@email.com,Boston,MA,USA,2020-01-08 10:49:00,True
+CUST00060,William,Garcia,william.garcia60@email.com,Austin,TX,USA,2022-06-23 17:45:00,False
+CUST00061,James,Brown,james.brown61@email.com,Dallas,TX,USA,2020-06-03 22:57:00,True
+CUST00062,Mary,Thomas,mary.thomas62@email.com,Dallas,TX,USA,2023-04-07 17:09:00,False
+CUST00063,Mary,Anderson,mary.anderson63@email.com,Chicago,IL,USA,2022-01-16 01:57:00,False
+CUST00064,Noah,Davis,noah.davis64@email.com,Houston,TX,USA,2023-09-27 03:22:00,False
+CUST00065,Liam,Jones,liam.jones65@email.com,San Jose,CA,USA,2021-04-29 05:51:00,True
+CUST00066,Jessica,Smith,jessica.smith66@email.com,Nashville,TN,USA,2021-01-02 23:59:00,False
+CUST00067,Jessica,Davis,jessica.davis67@email.com,Denver,CO,USA,2021-06-30 05:50:00,True
+CUST00068,Mary,Martin,mary.martin68@email.com,San Antonio,TX,USA,2021-03-31 06:52:00,False
+CUST00069,Barbara,Davis,barbara.davis69@email.com,Philadelphia,PA,USA,2021-04-01 00:42:00,True
+CUST00070,David,Wilson,david.wilson70@email.com,San Antonio,TX,USA,2020-05-22 08:22:00,False
+CUST00071,Karen,Taylor,karen.taylor71@email.com,Austin,TX,USA,2020-02-26 03:56:00,False
+CUST00072,Charles,Wilson,charles.wilson72@email.com,Chicago,IL,USA,2020-03-19 03:38:00,False
+CUST00073,Liam,Taylor,liam.taylor73@email.com,Philadelphia,PA,USA,2022-06-12 19:32:00,True
+CUST00074,Charles,Miller,charles.miller74@email.com,San Antonio,TX,USA,2021-06-05 01:45:00,False
+CUST00075,Thomas,Miller,thomas.miller75@email.com,New York,NY,USA,2022-01-15 13:04:00,False
+CUST00076,David,Brown,david.brown76@email.com,San Jose,CA,USA,2021-09-07 16:19:00,False
+CUST00077,Richard,Anderson,richard.anderson77@email.com,Philadelphia,PA,USA,2023-02-09 04:12:00,False
+CUST00078,Richard,Garcia,richard.garcia78@email.com,Austin,TX,USA,2023-06-14 18:19:00,False
+CUST00079,James,Anderson,james.anderson79@email.com,Dallas,TX,USA,2021-08-10 06:27:00,False
+CUST00080,Joseph,Harris,joseph.harris80@email.com,San Diego,CA,USA,2023-10-15 06:32:00,False
+CUST00081,Liam,Garcia,liam.garcia81@email.com,Denver,CO,USA,2023-09-11 02:18:00,False
+CUST00082,Ava,Davis,ava.davis82@email.com,Los Angeles,CA,USA,2023-10-09 09:14:00,True
+CUST00083,James,Johnson,james.johnson83@email.com,Chicago,IL,USA,2021-05-16 15:39:00,True
+CUST00084,Jessica,Miller,jessica.miller84@email.com,San Diego,CA,USA,2023-11-27 12:31:00,False
+CUST00085,Robert,Smith,robert.smith85@email.com,Houston,TX,USA,2020-08-06 13:14:00,True
+CUST00086,Olivia,Harris,olivia.harris86@email.com,Denver,CO,USA,2020-04-12 17:15:00,True
+CUST00087,Robert,Harris,robert.harris87@email.com,San Diego,CA,USA,2023-09-29 16:35:00,False
+CUST00088,Joseph,White,joseph.white88@email.com,Denver,CO,USA,2023-01-27 14:57:00,True
+CUST00089,Sarah,Harris,sarah.harris89@email.com,Seattle,WA,USA,2021-06-14 07:53:00,False
+CUST00090,Ava,Martin,ava.martin90@email.com,Denver,CO,USA,2023-07-07 07:17:00,False
+CUST00091,Olivia,Anderson,olivia.anderson91@email.com,Los Angeles,CA,USA,2021-04-25 08:21:00,False
+CUST00092,Karen,Williams,karen.williams92@email.com,Nashville,TN,USA,2020-10-10 04:14:00,False
+CUST00093,Robert,Miller,robert.miller93@email.com,Seattle,WA,USA,2020-05-11 13:26:00,False
+CUST00094,Joseph,White,joseph.white94@email.com,Dallas,TX,USA,2020-05-07 06:53:00,False
+CUST00095,Ava,Smith,ava.smith95@email.com,San Antonio,TX,USA,2023-03-25 12:30:00,True
+CUST00096,Barbara,Jackson,barbara.jackson96@email.com,Philadelphia,PA,USA,2022-05-08 17:47:00,True
+CUST00097,Linda,Wilson,linda.wilson97@email.com,San Diego,CA,USA,2022-06-11 15:01:00,False
+CUST00098,Noah,Jackson,noah.jackson98@email.com,Philadelphia,PA,USA,2020-12-04 14:58:00,True
+CUST00099,Karen,Smith,karen.smith99@email.com,San Jose,CA,USA,2022-03-17 18:36:00,True
+CUST00100,Emma,White,emma.white100@email.com,Los Angeles,CA,USA,2020-10-04 14:11:00,True
+CUST00101,Richard,Taylor,richard.taylor101@email.com,Phoenix,AZ,USA,2021-03-09 14:20:00,False
+CUST00102,Richard,Wilson,richard.wilson102@email.com,Denver,CO,USA,2022-05-13 08:53:00,True
+CUST00103,James,Johnson,james.johnson103@email.com,San Diego,CA,USA,2021-12-17 07:41:00,True
+CUST00104,Emma,Johnson,emma.johnson104@email.com,Denver,CO,USA,2020-03-04 07:12:00,True
+CUST00105,Robert,Davis,robert.davis105@email.com,San Jose,CA,USA,2020-09-15 15:42:00,True
+CUST00106,Michael,Harris,michael.harris106@email.com,San Jose,CA,USA,2023-12-03 08:49:00,False
+CUST00107,Lisa,Brown,lisa.brown107@email.com,Chicago,IL,USA,2020-12-01 09:06:00,True
+CUST00108,Barbara,Jackson,barbara.jackson108@email.com,Nashville,TN,USA,2022-03-23 22:12:00,True
+CUST00109,Olivia,Davis,olivia.davis109@email.com,San Jose,CA,USA,2020-07-27 22:49:00,False
+CUST00110,Noah,Brown,noah.brown110@email.com,Boston,MA,USA,2023-03-05 01:22:00,False
+CUST00111,Susan,Williams,susan.williams111@email.com,Austin,TX,USA,2022-11-02 20:21:00,True
+CUST00112,Jessica,Martin,jessica.martin112@email.com,Boston,MA,USA,2020-08-04 13:23:00,False
+CUST00113,Robert,White,robert.white113@email.com,Seattle,WA,USA,2020-12-26 23:33:00,False
+CUST00114,Karen,Martin,karen.martin114@email.com,San Jose,CA,USA,2022-08-10 13:52:00,False
+CUST00115,Linda,Williams,linda.williams115@email.com,Philadelphia,PA,USA,2021-07-25 14:15:00,False
+CUST00116,Lisa,Jackson,lisa.jackson116@email.com,San Jose,CA,USA,2021-11-19 00:31:00,False
+CUST00117,Sarah,Miller,sarah.miller117@email.com,Chicago,IL,USA,2021-12-27 08:21:00,False
+CUST00118,Lisa,Wilson,lisa.wilson118@email.com,Nashville,TN,USA,2023-02-12 00:33:00,True
+CUST00119,Linda,White,linda.white119@email.com,Los Angeles,CA,USA,2022-09-27 17:48:00,True
+CUST00120,Sarah,Martin,sarah.martin120@email.com,Seattle,WA,USA,2022-07-06 00:05:00,False
+CUST00121,Richard,Davis,richard.davis121@email.com,Houston,TX,USA,2021-09-19 21:37:00,False
+CUST00122,Karen,Thomas,karen.thomas122@email.com,San Diego,CA,USA,2022-05-21 23:35:00,False
+CUST00123,Olivia,Harris,olivia.harris123@email.com,Philadelphia,PA,USA,2021-07-08 09:16:00,True
+CUST00124,Liam,Miller,liam.miller124@email.com,Los Angeles,CA,USA,2021-10-08 03:47:00,True
+CUST00125,Michael,Martin,michael.martin125@email.com,Houston,TX,USA,2021-07-20 23:37:00,False
+CUST00126,Michael,Anderson,michael.anderson126@email.com,Los Angeles,CA,USA,2021-04-10 11:11:00,False
+CUST00127,Olivia,Jones,olivia.jones127@email.com,New York,NY,USA,2021-07-15 01:03:00,False
+CUST00128,Robert,Martin,robert.martin128@email.com,Seattle,WA,USA,2020-07-29 00:36:00,False
+CUST00129,Sarah,Harris,sarah.harris129@email.com,San Diego,CA,USA,2021-11-28 05:03:00,False
+CUST00130,Sarah,Brown,sarah.brown130@email.com,Boston,MA,USA,2020-05-13 12:31:00,True
+CUST00131,Emma,Johnson,emma.johnson131@email.com,San Jose,CA,USA,2020-11-06 04:51:00,False
+CUST00132,Linda,Brown,linda.brown132@email.com,Los Angeles,CA,USA,2023-02-16 13:38:00,True
+CUST00133,Thomas,Jackson,thomas.jackson133@email.com,Denver,CO,USA,2022-07-11 14:19:00,False
+CUST00134,Charles,Johnson,charles.johnson134@email.com,Phoenix,AZ,USA,2023-06-02 23:06:00,True
+CUST00135,Michael,Wilson,michael.wilson135@email.com,Austin,TX,USA,2023-09-14 02:10:00,True
+CUST00136,Karen,Williams,karen.williams136@email.com,Chicago,IL,USA,2020-11-16 00:26:00,False
+CUST00137,Lisa,Martin,lisa.martin137@email.com,Seattle,WA,USA,2021-08-19 01:14:00,False
+CUST00138,Barbara,Harris,barbara.harris138@email.com,Seattle,WA,USA,2020-05-25 21:14:00,False
+CUST00139,Emma,Miller,emma.miller139@email.com,Denver,CO,USA,2022-05-20 03:34:00,True
+CUST00140,Robert,Wilson,robert.wilson140@email.com,Austin,TX,USA,2020-10-18 02:03:00,True
+CUST00141,Barbara,Anderson,barbara.anderson141@email.com,Denver,CO,USA,2022-06-18 03:29:00,False
+CUST00142,Richard,Wilson,richard.wilson142@email.com,Seattle,WA,USA,2022-10-21 17:31:00,False
+CUST00143,Lisa,Johnson,lisa.johnson143@email.com,Los Angeles,CA,USA,2022-06-03 23:20:00,False
+CUST00144,John,Davis,john.davis144@email.com,New York,NY,USA,2023-10-12 18:37:00,True
+CUST00145,Noah,Wilson,noah.wilson145@email.com,Denver,CO,USA,2023-03-26 01:48:00,True
+CUST00146,Thomas,Harris,thomas.harris146@email.com,San Diego,CA,USA,2021-07-23 05:37:00,False
+CUST00147,Sarah,Williams,sarah.williams147@email.com,Austin,TX,USA,2022-08-20 11:26:00,False
+CUST00148,Noah,Brown,noah.brown148@email.com,Philadelphia,PA,USA,2020-11-25 10:26:00,False
+CUST00149,Noah,Jackson,noah.jackson149@email.com,Phoenix,AZ,USA,2023-01-31 01:29:00,True
+CUST00150,William,Taylor,william.taylor150@email.com,Philadelphia,PA,USA,2020-08-25 12:55:00,True
+CUST00151,Karen,Harris,karen.harris151@email.com,Austin,TX,USA,2022-04-26 01:12:00,False
+CUST00152,Ava,Martin,ava.martin152@email.com,San Jose,CA,USA,2023-07-04 14:48:00,True
+CUST00153,William,Jones,william.jones153@email.com,Houston,TX,USA,2021-08-12 14:56:00,False
+CUST00154,James,Davis,james.davis154@email.com,Los Angeles,CA,USA,2023-12-24 05:19:00,True
+CUST00155,Jessica,Williams,jessica.williams155@email.com,Dallas,TX,USA,2021-04-05 03:29:00,True
+CUST00156,Robert,Martin,robert.martin156@email.com,Austin,TX,USA,2021-08-20 16:45:00,False
+CUST00157,Sarah,Martin,sarah.martin157@email.com,San Antonio,TX,USA,2021-05-14 14:35:00,True
+CUST00158,Michael,Jones,michael.jones158@email.com,San Antonio,TX,USA,2020-05-22 08:49:00,False
+CUST00159,Thomas,Wilson,thomas.wilson159@email.com,Philadelphia,PA,USA,2020-01-06 09:46:00,False
+CUST00160,Charles,Martin,charles.martin160@email.com,Boston,MA,USA,2020-10-31 14:34:00,False
+CUST00161,David,Jackson,david.jackson161@email.com,Philadelphia,PA,USA,2022-07-21 10:55:00,True
+CUST00162,Linda,Jackson,linda.jackson162@email.com,Seattle,WA,USA,2021-04-23 13:02:00,False
+CUST00163,Sarah,Jackson,sarah.jackson163@email.com,Seattle,WA,USA,2022-03-01 21:50:00,True
+CUST00164,Mary,Jones,mary.jones164@email.com,San Diego,CA,USA,2022-10-25 18:21:00,True
+CUST00165,Joseph,Brown,joseph.brown165@email.com,Boston,MA,USA,2022-12-13 14:00:00,True
+CUST00166,Emma,Jones,emma.jones166@email.com,San Antonio,TX,USA,2020-06-02 15:50:00,False
+CUST00167,Lisa,Jackson,lisa.jackson167@email.com,Philadelphia,PA,USA,2023-08-23 02:54:00,False
+CUST00168,Noah,Jackson,noah.jackson168@email.com,Boston,MA,USA,2021-10-10 20:45:00,False
+CUST00169,Karen,Johnson,karen.johnson169@email.com,Boston,MA,USA,2023-06-18 02:15:00,False
+CUST00170,Liam,Williams,liam.williams170@email.com,Houston,TX,USA,2022-06-07 03:48:00,True
+CUST00171,Jennifer,Anderson,jennifer.anderson171@email.com,San Diego,CA,USA,2020-02-29 01:20:00,True
+CUST00172,Susan,Thomas,susan.thomas172@email.com,Phoenix,AZ,USA,2022-06-01 04:15:00,False
+CUST00173,Noah,Garcia,noah.garcia173@email.com,San Jose,CA,USA,2020-12-14 05:05:00,False
+CUST00174,Noah,Davis,noah.davis174@email.com,San Jose,CA,USA,2022-10-16 18:09:00,True
+CUST00175,Emma,Wilson,emma.wilson175@email.com,San Diego,CA,USA,2022-07-30 08:42:00,True
+CUST00176,Joseph,Anderson,joseph.anderson176@email.com,Nashville,TN,USA,2023-10-19 17:10:00,True
+CUST00177,Susan,Anderson,susan.anderson177@email.com,San Diego,CA,USA,2023-08-01 13:44:00,False
+CUST00178,Barbara,Miller,barbara.miller178@email.com,San Diego,CA,USA,2022-02-26 15:06:00,True
+CUST00179,Charles,Thomas,charles.thomas179@email.com,San Antonio,TX,USA,2023-03-23 09:44:00,False
+CUST00180,Noah,Jackson,noah.jackson180@email.com,New York,NY,USA,2021-07-16 00:36:00,True
+CUST00181,Lisa,Martin,lisa.martin181@email.com,Nashville,TN,USA,2021-08-09 07:38:00,False
+CUST00182,Emma,Miller,emma.miller182@email.com,Houston,TX,USA,2023-06-25 08:43:00,True
+CUST00183,Patricia,Johnson,patricia.johnson183@email.com,Austin,TX,USA,2021-09-24 14:02:00,False
+CUST00184,Robert,Williams,robert.williams184@email.com,Seattle,WA,USA,2021-08-27 10:47:00,False
+CUST00185,Michael,Jones,michael.jones185@email.com,Chicago,IL,USA,2023-01-09 11:33:00,False
+CUST00186,Jennifer,Wilson,jennifer.wilson186@email.com,Boston,MA,USA,2022-09-13 09:47:00,False
+CUST00187,Patricia,Harris,patricia.harris187@email.com,Denver,CO,USA,2020-06-03 04:48:00,True
+CUST00188,Noah,Jackson,noah.jackson188@email.com,Boston,MA,USA,2023-02-15 11:05:00,False
+CUST00189,William,Brown,william.brown189@email.com,New York,NY,USA,2022-07-20 11:43:00,False
+CUST00190,Richard,Thomas,richard.thomas190@email.com,San Jose,CA,USA,2020-08-09 21:14:00,False
+CUST00191,Lisa,Taylor,lisa.taylor191@email.com,New York,NY,USA,2023-06-03 07:41:00,True
+CUST00192,Joseph,Anderson,joseph.anderson192@email.com,Austin,TX,USA,2023-08-22 13:07:00,True
+CUST00193,Mary,Anderson,mary.anderson193@email.com,New York,NY,USA,2022-10-05 03:06:00,True
+CUST00194,Karen,Jones,karen.jones194@email.com,Nashville,TN,USA,2022-03-06 14:23:00,False
+CUST00195,Liam,Jones,liam.jones195@email.com,San Jose,CA,USA,2022-04-29 20:06:00,False
+CUST00196,Jessica,Wilson,jessica.wilson196@email.com,San Jose,CA,USA,2020-03-08 22:23:00,True
+CUST00197,Joseph,Davis,joseph.davis197@email.com,San Diego,CA,USA,2022-01-12 03:43:00,False
+CUST00198,Emma,Thomas,emma.thomas198@email.com,Dallas,TX,USA,2020-05-04 12:17:00,True
+CUST00199,Joseph,Williams,joseph.williams199@email.com,Los Angeles,CA,USA,2023-09-19 06:41:00,True
+CUST00200,David,Davis,david.davis200@email.com,New York,NY,USA,2020-09-14 18:13:00,True
+CUST00201,Ava,Miller,ava.miller201@email.com,Boston,MA,USA,2023-04-15 06:52:00,True
+CUST00202,Ava,Jones,ava.jones202@email.com,Philadelphia,PA,USA,2023-05-05 00:17:00,True
+CUST00203,Karen,Wilson,karen.wilson203@email.com,Chicago,IL,USA,2020-12-23 03:42:00,True
+CUST00204,James,Thomas,james.thomas204@email.com,Chicago,IL,USA,2021-05-02 18:20:00,True
+CUST00205,William,Johnson,william.johnson205@email.com,Chicago,IL,USA,2020-09-16 23:26:00,True
+CUST00206,John,Martin,john.martin206@email.com,Seattle,WA,USA,2022-07-07 11:32:00,True
+CUST00207,Thomas,Davis,thomas.davis207@email.com,San Diego,CA,USA,2023-06-13 01:46:00,False
+CUST00208,Emma,Smith,emma.smith208@email.com,San Diego,CA,USA,2020-05-04 15:54:00,False
+CUST00209,Noah,Brown,noah.brown209@email.com,San Antonio,TX,USA,2022-10-01 22:58:00,False
+CUST00210,John,Taylor,john.taylor210@email.com,Los Angeles,CA,USA,2023-05-30 04:04:00,True
+CUST00211,Lisa,Taylor,lisa.taylor211@email.com,Phoenix,AZ,USA,2022-02-19 19:33:00,False
+CUST00212,Thomas,White,thomas.white212@email.com,San Diego,CA,USA,2020-07-22 22:07:00,True
+CUST00213,Joseph,Davis,joseph.davis213@email.com,San Antonio,TX,USA,2022-04-27 10:52:00,False
+CUST00214,Jessica,Brown,jessica.brown214@email.com,San Antonio,TX,USA,2021-10-02 13:20:00,False
+CUST00215,Robert,Martin,robert.martin215@email.com,Philadelphia,PA,USA,2020-05-17 02:53:00,True
+CUST00216,Jessica,Brown,jessica.brown216@email.com,Los Angeles,CA,USA,2022-02-02 04:35:00,True
+CUST00217,Karen,Taylor,karen.taylor217@email.com,San Jose,CA,USA,2023-10-04 03:26:00,False
+CUST00218,Noah,White,noah.white218@email.com,Boston,MA,USA,2020-04-15 09:38:00,False
+CUST00219,Patricia,Miller,patricia.miller219@email.com,Philadelphia,PA,USA,2020-11-12 21:30:00,True
+CUST00220,Patricia,Thomas,patricia.thomas220@email.com,Boston,MA,USA,2023-02-13 11:07:00,False
+CUST00221,Linda,White,linda.white221@email.com,San Jose,CA,USA,2023-02-22 19:39:00,True
+CUST00222,Noah,Wilson,noah.wilson222@email.com,San Jose,CA,USA,2020-02-29 05:17:00,False
+CUST00223,David,Thomas,david.thomas223@email.com,Nashville,TN,USA,2020-01-13 05:55:00,True
+CUST00224,Noah,Jackson,noah.jackson224@email.com,San Jose,CA,USA,2020-05-22 04:47:00,True
+CUST00225,Liam,Miller,liam.miller225@email.com,Los Angeles,CA,USA,2022-02-09 13:29:00,False
+CUST00226,Susan,Anderson,susan.anderson226@email.com,Chicago,IL,USA,2021-10-26 18:38:00,True
+CUST00227,Mary,Jones,mary.jones227@email.com,Nashville,TN,USA,2020-11-18 19:03:00,True
+CUST00228,Joseph,White,joseph.white228@email.com,Phoenix,AZ,USA,2022-09-21 19:28:00,False
+CUST00229,Michael,Brown,michael.brown229@email.com,Phoenix,AZ,USA,2021-12-07 13:07:00,False
+CUST00230,Noah,Martin,noah.martin230@email.com,Austin,TX,USA,2022-12-15 21:19:00,True
+CUST00231,Richard,Johnson,richard.johnson231@email.com,Houston,TX,USA,2020-01-16 06:19:00,True
+CUST00232,Robert,Wilson,robert.wilson232@email.com,Denver,CO,USA,2021-08-15 10:07:00,True
+CUST00233,Liam,White,liam.white233@email.com,San Diego,CA,USA,2020-12-25 04:24:00,True
+CUST00234,Karen,Thomas,karen.thomas234@email.com,Dallas,TX,USA,2020-05-27 12:55:00,True
+CUST00235,James,Harris,james.harris235@email.com,San Antonio,TX,USA,2020-06-08 10:36:00,False
+CUST00236,Richard,White,richard.white236@email.com,San Jose,CA,USA,2021-08-15 03:25:00,True
+CUST00237,Jennifer,Harris,jennifer.harris237@email.com,Philadelphia,PA,USA,2023-11-13 11:05:00,False
+CUST00238,Patricia,Davis,patricia.davis238@email.com,Boston,MA,USA,2022-06-11 18:25:00,True
+CUST00239,Barbara,Taylor,barbara.taylor239@email.com,San Antonio,TX,USA,2021-03-29 10:49:00,True
+CUST00240,Thomas,Brown,thomas.brown240@email.com,Los Angeles,CA,USA,2022-12-22 16:12:00,False
+CUST00241,Liam,Jones,liam.jones241@email.com,Philadelphia,PA,USA,2021-04-28 03:09:00,False
+CUST00242,Jennifer,Jones,jennifer.jones242@email.com,Houston,TX,USA,2023-09-04 02:11:00,False
+CUST00243,Ava,Harris,ava.harris243@email.com,San Diego,CA,USA,2023-10-26 18:41:00,False
+CUST00244,Emma,Taylor,emma.taylor244@email.com,Boston,MA,USA,2020-11-05 14:04:00,False
+CUST00245,Emma,Anderson,emma.anderson245@email.com,San Diego,CA,USA,2021-07-16 18:03:00,False
+CUST00246,John,Anderson,john.anderson246@email.com,Dallas,TX,USA,2022-08-03 14:02:00,True
+CUST00247,Barbara,Williams,barbara.williams247@email.com,Philadelphia,PA,USA,2023-08-13 02:39:00,False
+CUST00248,Charles,Johnson,charles.johnson248@email.com,San Diego,CA,USA,2022-07-10 18:41:00,True
+CUST00249,Lisa,Martin,lisa.martin249@email.com,Philadelphia,PA,USA,2022-10-23 04:03:00,False
+CUST00250,David,Williams,david.williams250@email.com,Los Angeles,CA,USA,2022-10-30 20:11:00,True
+CUST00251,Olivia,Harris,olivia.harris251@email.com,Houston,TX,USA,2022-06-18 16:33:00,True
+CUST00252,Susan,Anderson,susan.anderson252@email.com,Philadelphia,PA,USA,2022-03-04 13:49:00,False
+CUST00253,Lisa,Johnson,lisa.johnson253@email.com,Austin,TX,USA,2023-07-16 20:21:00,True
+CUST00254,Patricia,Jackson,patricia.jackson254@email.com,Philadelphia,PA,USA,2021-08-04 08:46:00,True
+CUST00255,John,Jones,john.jones255@email.com,Philadelphia,PA,USA,2021-12-17 09:41:00,False
+CUST00256,Lisa,Williams,lisa.williams256@email.com,Chicago,IL,USA,2021-09-26 17:24:00,False
+CUST00257,Robert,Williams,robert.williams257@email.com,Boston,MA,USA,2023-08-16 21:27:00,False
+CUST00258,Susan,Anderson,susan.anderson258@email.com,New York,NY,USA,2021-01-04 06:21:00,False
+CUST00259,Linda,Jones,linda.jones259@email.com,Houston,TX,USA,2020-11-13 02:18:00,True
+CUST00260,Ava,Johnson,ava.johnson260@email.com,Dallas,TX,USA,2023-09-17 10:56:00,True
+CUST00261,Richard,Jones,richard.jones261@email.com,San Jose,CA,USA,2020-11-28 05:53:00,True
+CUST00262,Joseph,Johnson,joseph.johnson262@email.com,Seattle,WA,USA,2022-04-21 11:43:00,True
+CUST00263,Lisa,Anderson,lisa.anderson263@email.com,San Diego,CA,USA,2022-07-08 07:34:00,True
+CUST00264,Sarah,Miller,sarah.miller264@email.com,Phoenix,AZ,USA,2022-01-23 21:36:00,False
+CUST00265,Ava,Anderson,ava.anderson265@email.com,San Diego,CA,USA,2022-02-21 16:33:00,False
+CUST00266,Michael,Jones,michael.jones266@email.com,Chicago,IL,USA,2021-05-27 01:41:00,False
+CUST00267,Susan,Brown,susan.brown267@email.com,Boston,MA,USA,2023-12-27 16:54:00,True
+CUST00268,John,Garcia,john.garcia268@email.com,Phoenix,AZ,USA,2021-07-12 14:57:00,True
+CUST00269,Jessica,Williams,jessica.williams269@email.com,Boston,MA,USA,2021-03-30 14:56:00,False
+CUST00270,James,White,james.white270@email.com,Nashville,TN,USA,2020-04-19 12:32:00,False
+CUST00271,Richard,Williams,richard.williams271@email.com,Houston,TX,USA,2022-02-06 07:01:00,False
+CUST00272,Patricia,Taylor,patricia.taylor272@email.com,Nashville,TN,USA,2020-10-26 04:02:00,False
+CUST00273,Sarah,Jones,sarah.jones273@email.com,Nashville,TN,USA,2023-12-15 15:28:00,True
+CUST00274,John,Smith,john.smith274@email.com,Nashville,TN,USA,2021-06-08 06:53:00,True
+CUST00275,Liam,White,liam.white275@email.com,Dallas,TX,USA,2020-08-15 09:15:00,False
+CUST00276,Mary,Davis,mary.davis276@email.com,Los Angeles,CA,USA,2022-05-09 20:50:00,False
+CUST00277,Patricia,Martin,patricia.martin277@email.com,Los Angeles,CA,USA,2023-05-07 17:01:00,True
+CUST00278,Robert,Anderson,robert.anderson278@email.com,Seattle,WA,USA,2022-05-29 00:39:00,False
+CUST00279,Charles,White,charles.white279@email.com,Houston,TX,USA,2021-01-18 21:42:00,True
+CUST00280,Susan,Williams,susan.williams280@email.com,Dallas,TX,USA,2022-12-13 17:32:00,True
+CUST00281,Sarah,Johnson,sarah.johnson281@email.com,San Antonio,TX,USA,2023-07-25 12:23:00,False
+CUST00282,James,Thomas,james.thomas282@email.com,Seattle,WA,USA,2020-05-18 11:15:00,True
+CUST00283,Charles,Taylor,charles.taylor283@email.com,Denver,CO,USA,2020-09-30 01:22:00,False
+CUST00284,Emma,Garcia,emma.garcia284@email.com,Boston,MA,USA,2023-11-03 14:44:00,False
+CUST00285,Jennifer,Jones,jennifer.jones285@email.com,Austin,TX,USA,2020-05-09 22:49:00,False
+CUST00286,Barbara,Miller,barbara.miller286@email.com,New York,NY,USA,2020-03-30 06:56:00,True
+CUST00287,Barbara,Jackson,barbara.jackson287@email.com,Philadelphia,PA,USA,2023-01-17 15:16:00,True
+CUST00288,Emma,Miller,emma.miller288@email.com,Denver,CO,USA,2021-08-08 11:55:00,True
+CUST00289,Emma,Taylor,emma.taylor289@email.com,Boston,MA,USA,2021-07-13 03:51:00,False
+CUST00290,Richard,Harris,richard.harris290@email.com,San Antonio,TX,USA,2022-03-02 10:11:00,False
+CUST00291,Sarah,Thomas,sarah.thomas291@email.com,Seattle,WA,USA,2022-11-29 08:51:00,True
+CUST00292,Jessica,Williams,jessica.williams292@email.com,Seattle,WA,USA,2022-05-31 19:52:00,True
+CUST00293,Barbara,Taylor,barbara.taylor293@email.com,Dallas,TX,USA,2020-07-29 02:20:00,False
+CUST00294,Joseph,White,joseph.white294@email.com,Phoenix,AZ,USA,2020-12-07 22:28:00,False
+CUST00295,Mary,Thomas,mary.thomas295@email.com,San Diego,CA,USA,2023-06-13 13:17:00,True
+CUST00296,Noah,Jackson,noah.jackson296@email.com,Los Angeles,CA,USA,2022-01-14 16:51:00,True
+CUST00297,Robert,Harris,robert.harris297@email.com,New York,NY,USA,2020-03-12 04:04:00,True
+CUST00298,Emma,Thomas,emma.thomas298@email.com,Denver,CO,USA,2022-01-11 12:36:00,True
+CUST00299,Robert,Harris,robert.harris299@email.com,San Jose,CA,USA,2022-01-29 11:28:00,True
+CUST00300,Robert,Thomas,robert.thomas300@email.com,San Jose,CA,USA,2022-03-26 10:41:00,False
+CUST00301,Patricia,Smith,patricia.smith301@email.com,Houston,TX,USA,2021-01-16 15:33:00,False
+CUST00302,Karen,Brown,karen.brown302@email.com,Nashville,TN,USA,2021-06-20 08:45:00,False
+CUST00303,Lisa,Anderson,lisa.anderson303@email.com,Houston,TX,USA,2023-11-22 15:12:00,True
+CUST00304,John,Harris,john.harris304@email.com,Chicago,IL,USA,2020-12-19 22:28:00,True
+CUST00305,Noah,Taylor,noah.taylor305@email.com,Denver,CO,USA,2023-09-29 11:45:00,True
+CUST00306,Karen,Anderson,karen.anderson306@email.com,Dallas,TX,USA,2021-09-06 05:45:00,True
+CUST00307,Susan,Davis,susan.davis307@email.com,Denver,CO,USA,2020-09-05 06:50:00,True
+CUST00308,Sarah,Smith,sarah.smith308@email.com,Houston,TX,USA,2022-01-09 17:36:00,False
+CUST00309,Karen,Jones,karen.jones309@email.com,San Diego,CA,USA,2023-06-07 02:04:00,False
+CUST00310,Olivia,Martin,olivia.martin310@email.com,San Antonio,TX,USA,2022-12-12 13:49:00,False
+CUST00311,Charles,Williams,charles.williams311@email.com,Boston,MA,USA,2020-09-13 10:41:00,True
+CUST00312,Joseph,Thomas,joseph.thomas312@email.com,San Diego,CA,USA,2020-09-19 17:40:00,True
+CUST00313,Robert,White,robert.white313@email.com,Denver,CO,USA,2022-10-26 01:53:00,True
+CUST00314,Robert,Anderson,robert.anderson314@email.com,Dallas,TX,USA,2020-12-03 05:20:00,True
+CUST00315,Thomas,Anderson,thomas.anderson315@email.com,Philadelphia,PA,USA,2020-06-10 08:12:00,False
+CUST00316,Emma,Anderson,emma.anderson316@email.com,Chicago,IL,USA,2023-06-12 17:05:00,True
+CUST00317,Charles,Jones,charles.jones317@email.com,San Jose,CA,USA,2020-12-16 21:39:00,False
+CUST00318,Charles,Johnson,charles.johnson318@email.com,Boston,MA,USA,2020-02-28 02:02:00,False
+CUST00319,Michael,White,michael.white319@email.com,Austin,TX,USA,2023-06-19 20:01:00,False
+CUST00320,Emma,Anderson,emma.anderson320@email.com,Nashville,TN,USA,2023-08-07 09:30:00,True
+CUST00321,Noah,Jackson,noah.jackson321@email.com,Denver,CO,USA,2021-09-01 14:04:00,True
+CUST00322,Joseph,White,joseph.white322@email.com,Chicago,IL,USA,2022-09-18 14:13:00,False
+CUST00323,Robert,Taylor,robert.taylor323@email.com,San Jose,CA,USA,2021-10-15 23:55:00,False
+CUST00324,Robert,Thomas,robert.thomas324@email.com,San Antonio,TX,USA,2022-11-20 17:06:00,False
+CUST00325,Joseph,Brown,joseph.brown325@email.com,Houston,TX,USA,2021-07-01 14:15:00,True
+CUST00326,Mary,Anderson,mary.anderson326@email.com,Los Angeles,CA,USA,2022-02-25 19:26:00,True
+CUST00327,Jennifer,Taylor,jennifer.taylor327@email.com,Boston,MA,USA,2023-03-29 23:20:00,True
+CUST00328,Jennifer,Martin,jennifer.martin328@email.com,Denver,CO,USA,2022-11-20 14:31:00,False
+CUST00329,James,Williams,james.williams329@email.com,San Diego,CA,USA,2022-03-16 16:29:00,True
+CUST00330,Charles,Thomas,charles.thomas330@email.com,Houston,TX,USA,2020-04-09 01:18:00,False
+CUST00331,Emma,Martin,emma.martin331@email.com,San Jose,CA,USA,2021-08-08 17:00:00,True
+CUST00332,Robert,Wilson,robert.wilson332@email.com,San Antonio,TX,USA,2022-01-19 12:23:00,True
+CUST00333,Mary,Miller,mary.miller333@email.com,San Antonio,TX,USA,2022-01-12 17:18:00,True
+CUST00334,Thomas,Harris,thomas.harris334@email.com,San Antonio,TX,USA,2023-01-31 08:52:00,True
+CUST00335,Patricia,Jackson,patricia.jackson335@email.com,Chicago,IL,USA,2022-02-03 10:35:00,False
+CUST00336,Robert,Miller,robert.miller336@email.com,Denver,CO,USA,2023-05-18 16:25:00,True
+CUST00337,Mary,Jones,mary.jones337@email.com,New York,NY,USA,2024-01-01 10:51:00,False
+CUST00338,Joseph,Jones,joseph.jones338@email.com,Dallas,TX,USA,2023-05-26 16:08:00,False
+CUST00339,Lisa,Taylor,lisa.taylor339@email.com,Nashville,TN,USA,2020-11-28 12:39:00,False
+CUST00340,David,Martin,david.martin340@email.com,San Jose,CA,USA,2023-12-22 18:19:00,False
+CUST00341,James,Thomas,james.thomas341@email.com,Boston,MA,USA,2021-11-09 21:07:00,False
+CUST00342,Barbara,Smith,barbara.smith342@email.com,San Jose,CA,USA,2023-05-07 15:16:00,True
+CUST00343,Mary,Martin,mary.martin343@email.com,Seattle,WA,USA,2020-12-15 16:40:00,False
+CUST00344,Noah,Davis,noah.davis344@email.com,Chicago,IL,USA,2020-03-05 18:44:00,True
+CUST00345,James,Harris,james.harris345@email.com,Houston,TX,USA,2021-10-04 13:09:00,False
+CUST00346,Michael,White,michael.white346@email.com,Seattle,WA,USA,2022-10-24 19:58:00,False
+CUST00347,Liam,Johnson,liam.johnson347@email.com,Boston,MA,USA,2023-12-16 04:33:00,True
+CUST00348,David,Martin,david.martin348@email.com,Dallas,TX,USA,2022-12-12 12:20:00,True
+CUST00349,Karen,Taylor,karen.taylor349@email.com,San Diego,CA,USA,2023-01-23 11:43:00,False
+CUST00350,Sarah,Miller,sarah.miller350@email.com,San Jose,CA,USA,2021-05-19 08:35:00,False
+CUST00351,Barbara,Anderson,barbara.anderson351@email.com,Houston,TX,USA,2023-12-14 06:44:00,False
+CUST00352,Sarah,Thomas,sarah.thomas352@email.com,Philadelphia,PA,USA,2023-02-21 23:17:00,False
+CUST00353,Charles,Jackson,charles.jackson353@email.com,Los Angeles,CA,USA,2022-03-19 11:49:00,True
+CUST00354,Mary,Anderson,mary.anderson354@email.com,Phoenix,AZ,USA,2020-06-10 11:59:00,False
+CUST00355,William,Martin,william.martin355@email.com,Austin,TX,USA,2021-03-14 06:52:00,False
+CUST00356,Karen,Wilson,karen.wilson356@email.com,Nashville,TN,USA,2020-10-08 03:39:00,True
+CUST00357,Mary,Davis,mary.davis357@email.com,Houston,TX,USA,2023-07-30 07:03:00,True
+CUST00358,David,Martin,david.martin358@email.com,San Antonio,TX,USA,2020-07-24 21:49:00,True
+CUST00359,Karen,Garcia,karen.garcia359@email.com,New York,NY,USA,2022-04-13 20:59:00,False
+CUST00360,Emma,Miller,emma.miller360@email.com,San Diego,CA,USA,2021-08-11 10:18:00,True
+CUST00361,Ava,Williams,ava.williams361@email.com,Nashville,TN,USA,2023-08-28 18:14:00,True
+CUST00362,Jennifer,White,jennifer.white362@email.com,Nashville,TN,USA,2020-12-26 01:53:00,False
+CUST00363,Sarah,Garcia,sarah.garcia363@email.com,Denver,CO,USA,2021-08-15 01:00:00,False
+CUST00364,Lisa,Brown,lisa.brown364@email.com,San Jose,CA,USA,2021-11-17 09:29:00,False
+CUST00365,Robert,Harris,robert.harris365@email.com,Nashville,TN,USA,2021-07-12 06:51:00,True
+CUST00366,Jennifer,Harris,jennifer.harris366@email.com,Philadelphia,PA,USA,2023-08-20 08:45:00,True
+CUST00367,Liam,Taylor,liam.taylor367@email.com,New York,NY,USA,2021-08-27 18:43:00,True
+CUST00368,Lisa,Jackson,lisa.jackson368@email.com,Chicago,IL,USA,2022-05-25 16:20:00,True
+CUST00369,Noah,Brown,noah.brown369@email.com,San Antonio,TX,USA,2021-01-13 04:30:00,False
+CUST00370,Linda,Smith,linda.smith370@email.com,Nashville,TN,USA,2021-06-18 12:15:00,False
+CUST00371,William,Taylor,william.taylor371@email.com,Denver,CO,USA,2021-09-10 18:46:00,True
+CUST00372,Emma,Thomas,emma.thomas372@email.com,Phoenix,AZ,USA,2023-11-19 07:03:00,True
+CUST00373,Barbara,Garcia,barbara.garcia373@email.com,San Diego,CA,USA,2022-04-10 21:32:00,False
+CUST00374,Patricia,Anderson,patricia.anderson374@email.com,Seattle,WA,USA,2022-01-22 19:14:00,True
+CUST00375,Sarah,Jones,sarah.jones375@email.com,Chicago,IL,USA,2022-07-20 23:38:00,False
+CUST00376,Olivia,Martin,olivia.martin376@email.com,San Antonio,TX,USA,2023-01-05 21:52:00,True
+CUST00377,Linda,Williams,linda.williams377@email.com,Denver,CO,USA,2022-12-12 14:33:00,False
+CUST00378,Charles,Brown,charles.brown378@email.com,Los Angeles,CA,USA,2020-05-06 17:57:00,True
+CUST00379,Karen,Jones,karen.jones379@email.com,San Jose,CA,USA,2020-12-02 10:54:00,False
+CUST00380,Noah,Miller,noah.miller380@email.com,Los Angeles,CA,USA,2023-04-09 15:05:00,False
+CUST00381,Mary,Harris,mary.harris381@email.com,Denver,CO,USA,2020-09-27 16:26:00,False
+CUST00382,Mary,Harris,mary.harris382@email.com,San Jose,CA,USA,2023-10-09 09:46:00,True
+CUST00383,William,Smith,william.smith383@email.com,San Antonio,TX,USA,2021-03-22 18:04:00,True
+CUST00384,Susan,Williams,susan.williams384@email.com,San Antonio,TX,USA,2023-01-13 01:59:00,True
+CUST00385,Sarah,Johnson,sarah.johnson385@email.com,Nashville,TN,USA,2021-08-10 13:11:00,True
+CUST00386,Emma,White,emma.white386@email.com,Denver,CO,USA,2022-02-05 12:28:00,False
+CUST00387,John,Jones,john.jones387@email.com,San Antonio,TX,USA,2023-08-31 11:07:00,True
+CUST00388,Richard,Jones,richard.jones388@email.com,Dallas,TX,USA,2021-04-01 00:48:00,True
+CUST00389,Joseph,White,joseph.white389@email.com,Phoenix,AZ,USA,2022-12-25 12:52:00,True
+CUST00390,Joseph,Thomas,joseph.thomas390@email.com,Houston,TX,USA,2020-11-13 08:12:00,True
+CUST00391,Noah,White,noah.white391@email.com,New York,NY,USA,2023-06-13 00:15:00,True
+CUST00392,Patricia,Johnson,patricia.johnson392@email.com,Los Angeles,CA,USA,2022-07-03 19:43:00,True
+CUST00393,Liam,Johnson,liam.johnson393@email.com,Houston,TX,USA,2022-04-03 14:14:00,True
+CUST00394,Ava,Johnson,ava.johnson394@email.com,Denver,CO,USA,2020-10-13 16:18:00,True
+CUST00395,Liam,Taylor,liam.taylor395@email.com,Boston,MA,USA,2023-03-28 19:49:00,False
+CUST00396,Barbara,Jones,barbara.jones396@email.com,Houston,TX,USA,2023-09-14 16:14:00,False
+CUST00397,William,Johnson,william.johnson397@email.com,Phoenix,AZ,USA,2023-02-14 18:56:00,True
+CUST00398,Noah,White,noah.white398@email.com,Austin,TX,USA,2023-02-12 15:03:00,False
+CUST00399,Noah,Jackson,noah.jackson399@email.com,Austin,TX,USA,2022-12-10 10:44:00,False
+CUST00400,Robert,Anderson,robert.anderson400@email.com,San Antonio,TX,USA,2022-02-09 05:48:00,False
+CUST00401,Linda,Anderson,linda.anderson401@email.com,Houston,TX,USA,2023-12-20 04:51:00,False
+CUST00402,Mary,White,mary.white402@email.com,Nashville,TN,USA,2022-05-03 17:33:00,True
+CUST00403,Linda,Wilson,linda.wilson403@email.com,San Antonio,TX,USA,2021-02-20 10:41:00,True
+CUST00404,Joseph,Thomas,joseph.thomas404@email.com,Nashville,TN,USA,2020-07-08 17:46:00,True
+CUST00405,William,Jackson,william.jackson405@email.com,New York,NY,USA,2023-10-11 19:38:00,True
+CUST00406,John,Miller,john.miller406@email.com,Boston,MA,USA,2023-04-18 23:42:00,True
+CUST00407,Michael,Taylor,michael.taylor407@email.com,San Diego,CA,USA,2021-09-12 00:13:00,True
+CUST00408,Patricia,Martin,patricia.martin408@email.com,Seattle,WA,USA,2021-05-11 22:38:00,True
+CUST00409,Linda,Taylor,linda.taylor409@email.com,San Antonio,TX,USA,2021-08-02 12:29:00,False
+CUST00410,William,Thomas,william.thomas410@email.com,Phoenix,AZ,USA,2022-11-16 15:29:00,True
+CUST00411,Liam,Martin,liam.martin411@email.com,Denver,CO,USA,2021-10-17 06:23:00,False
+CUST00412,Mary,Davis,mary.davis412@email.com,San Antonio,TX,USA,2020-10-25 00:16:00,False
+CUST00413,Robert,Miller,robert.miller413@email.com,Phoenix,AZ,USA,2021-11-06 07:24:00,True
+CUST00414,Karen,Taylor,karen.taylor414@email.com,San Diego,CA,USA,2021-06-11 15:46:00,False
+CUST00415,Jennifer,Thomas,jennifer.thomas415@email.com,San Diego,CA,USA,2020-12-12 04:46:00,False
+CUST00416,Karen,Johnson,karen.johnson416@email.com,Chicago,IL,USA,2022-12-09 01:53:00,True
+CUST00417,Noah,Johnson,noah.johnson417@email.com,Boston,MA,USA,2020-01-14 13:08:00,True
+CUST00418,Olivia,Jones,olivia.jones418@email.com,Los Angeles,CA,USA,2020-01-19 06:32:00,False
+CUST00419,Mary,Martin,mary.martin419@email.com,Philadelphia,PA,USA,2023-09-12 15:01:00,True
+CUST00420,Karen,White,karen.white420@email.com,Dallas,TX,USA,2020-01-25 00:33:00,False
+CUST00421,Barbara,Smith,barbara.smith421@email.com,Dallas,TX,USA,2022-10-25 22:43:00,False
+CUST00422,Jennifer,Brown,jennifer.brown422@email.com,Denver,CO,USA,2020-07-16 16:09:00,True
+CUST00423,Lisa,Wilson,lisa.wilson423@email.com,Houston,TX,USA,2021-12-26 08:50:00,False
+CUST00424,Susan,Jackson,susan.jackson424@email.com,Los Angeles,CA,USA,2022-07-29 18:15:00,True
+CUST00425,Noah,Williams,noah.williams425@email.com,Phoenix,AZ,USA,2023-08-31 20:48:00,True
+CUST00426,Richard,Jackson,richard.jackson426@email.com,Los Angeles,CA,USA,2022-02-11 17:30:00,True
+CUST00427,James,Garcia,james.garcia427@email.com,Austin,TX,USA,2020-06-18 15:54:00,False
+CUST00428,David,Brown,david.brown428@email.com,Austin,TX,USA,2022-12-17 01:14:00,True
+CUST00429,Olivia,Martin,olivia.martin429@email.com,Nashville,TN,USA,2021-07-09 01:59:00,True
+CUST00430,William,Johnson,william.johnson430@email.com,Austin,TX,USA,2021-01-02 10:01:00,True
+CUST00431,Robert,Jackson,robert.jackson431@email.com,San Jose,CA,USA,2020-06-06 09:10:00,True
+CUST00432,Richard,Taylor,richard.taylor432@email.com,San Jose,CA,USA,2022-02-25 23:08:00,True
+CUST00433,Liam,Thomas,liam.thomas433@email.com,Dallas,TX,USA,2020-04-19 03:27:00,True
+CUST00434,John,Taylor,john.taylor434@email.com,Boston,MA,USA,2023-05-24 19:38:00,False
+CUST00435,David,Smith,david.smith435@email.com,Denver,CO,USA,2023-07-22 08:50:00,False
+CUST00436,Linda,Thomas,linda.thomas436@email.com,San Diego,CA,USA,2023-02-06 12:27:00,True
+CUST00437,Charles,Jackson,charles.jackson437@email.com,Austin,TX,USA,2020-06-24 19:18:00,True
+CUST00438,John,Williams,john.williams438@email.com,Seattle,WA,USA,2021-07-02 04:24:00,True
+CUST00439,Richard,Taylor,richard.taylor439@email.com,Seattle,WA,USA,2022-01-08 03:05:00,True
+CUST00440,Joseph,Thomas,joseph.thomas440@email.com,Phoenix,AZ,USA,2021-07-06 03:08:00,True
+CUST00441,Jessica,Harris,jessica.harris441@email.com,Chicago,IL,USA,2023-02-14 17:32:00,False
+CUST00442,James,Williams,james.williams442@email.com,Los Angeles,CA,USA,2021-12-25 17:05:00,False
+CUST00443,Richard,Smith,richard.smith443@email.com,Boston,MA,USA,2021-08-20 13:24:00,True
+CUST00444,Karen,Davis,karen.davis444@email.com,Seattle,WA,USA,2023-03-17 16:10:00,False
+CUST00445,Robert,Wilson,robert.wilson445@email.com,Chicago,IL,USA,2021-09-08 08:31:00,True
+CUST00446,Jennifer,White,jennifer.white446@email.com,Los Angeles,CA,USA,2021-07-19 13:19:00,False
+CUST00447,John,Thomas,john.thomas447@email.com,Denver,CO,USA,2021-05-30 07:46:00,False
+CUST00448,Lisa,Miller,lisa.miller448@email.com,San Jose,CA,USA,2022-07-26 03:08:00,False
+CUST00449,Richard,Taylor,richard.taylor449@email.com,New York,NY,USA,2023-06-24 12:51:00,False
+CUST00450,David,White,david.white450@email.com,San Diego,CA,USA,2023-08-26 19:08:00,False
+CUST00451,Lisa,Miller,lisa.miller451@email.com,Philadelphia,PA,USA,2022-09-08 10:11:00,False
+CUST00452,Barbara,Martin,barbara.martin452@email.com,Philadelphia,PA,USA,2023-03-25 07:20:00,False
+CUST00453,Richard,Thomas,richard.thomas453@email.com,Phoenix,AZ,USA,2020-08-21 18:12:00,True
+CUST00454,Ava,Smith,ava.smith454@email.com,Austin,TX,USA,2022-08-03 22:13:00,False
+CUST00455,Barbara,Williams,barbara.williams455@email.com,Denver,CO,USA,2022-04-17 21:31:00,True
+CUST00456,Barbara,Davis,barbara.davis456@email.com,Austin,TX,USA,2021-06-01 21:09:00,False
+CUST00457,Richard,Williams,richard.williams457@email.com,Denver,CO,USA,2022-07-08 19:30:00,False
+CUST00458,Thomas,White,thomas.white458@email.com,Dallas,TX,USA,2023-01-18 01:50:00,False
+CUST00459,Karen,Williams,karen.williams459@email.com,Seattle,WA,USA,2020-08-11 07:42:00,False
+CUST00460,Emma,Johnson,emma.johnson460@email.com,Chicago,IL,USA,2023-02-27 20:43:00,False
+CUST00461,David,White,david.white461@email.com,Denver,CO,USA,2020-08-04 00:06:00,False
+CUST00462,Thomas,Davis,thomas.davis462@email.com,Houston,TX,USA,2022-07-01 11:25:00,False
+CUST00463,Noah,Jones,noah.jones463@email.com,Denver,CO,USA,2021-12-07 00:30:00,True
+CUST00464,Jessica,Williams,jessica.williams464@email.com,Phoenix,AZ,USA,2020-08-25 23:09:00,False
+CUST00465,David,Harris,david.harris465@email.com,Phoenix,AZ,USA,2021-02-27 16:30:00,False
+CUST00466,Patricia,Harris,patricia.harris466@email.com,San Diego,CA,USA,2023-11-27 14:20:00,True
+CUST00467,Mary,Brown,mary.brown467@email.com,Phoenix,AZ,USA,2020-02-16 10:41:00,True
+CUST00468,Jennifer,Davis,jennifer.davis468@email.com,Austin,TX,USA,2022-11-22 05:35:00,True
+CUST00469,Karen,White,karen.white469@email.com,Philadelphia,PA,USA,2022-08-04 07:51:00,False
+CUST00470,Jennifer,Garcia,jennifer.garcia470@email.com,Austin,TX,USA,2023-08-04 21:27:00,False
+CUST00471,Liam,Miller,liam.miller471@email.com,New York,NY,USA,2022-07-09 18:27:00,False
+CUST00472,Olivia,Miller,olivia.miller472@email.com,New York,NY,USA,2021-02-25 08:48:00,True
+CUST00473,Patricia,Garcia,patricia.garcia473@email.com,San Jose,CA,USA,2022-01-19 10:12:00,False
+CUST00474,William,Martin,william.martin474@email.com,Los Angeles,CA,USA,2022-12-16 20:20:00,False
+CUST00475,Richard,Brown,richard.brown475@email.com,San Jose,CA,USA,2021-12-13 11:54:00,False
+CUST00476,Jennifer,Anderson,jennifer.anderson476@email.com,San Jose,CA,USA,2023-06-12 18:05:00,True
+CUST00477,Patricia,Davis,patricia.davis477@email.com,Philadelphia,PA,USA,2021-09-17 03:11:00,False
+CUST00478,Robert,Jackson,robert.jackson478@email.com,Seattle,WA,USA,2022-05-06 19:08:00,False
+CUST00479,Jennifer,Martin,jennifer.martin479@email.com,San Antonio,TX,USA,2023-07-25 17:44:00,True
+CUST00480,Jennifer,Martin,jennifer.martin480@email.com,Dallas,TX,USA,2021-08-14 04:11:00,False
+CUST00481,Joseph,Johnson,joseph.johnson481@email.com,Boston,MA,USA,2022-01-05 00:31:00,True
+CUST00482,Richard,Martin,richard.martin482@email.com,Houston,TX,USA,2022-04-17 21:31:00,False
+CUST00483,Joseph,Martin,joseph.martin483@email.com,Seattle,WA,USA,2020-12-08 02:36:00,True
+CUST00484,Ava,Davis,ava.davis484@email.com,Denver,CO,USA,2021-08-21 01:17:00,True
+CUST00485,Barbara,Garcia,barbara.garcia485@email.com,Dallas,TX,USA,2022-07-25 18:47:00,False
+CUST00486,Thomas,Brown,thomas.brown486@email.com,Dallas,TX,USA,2023-03-18 03:17:00,False
+CUST00487,Ava,Johnson,ava.johnson487@email.com,Dallas,TX,USA,2022-06-22 17:13:00,False
+CUST00488,Liam,Davis,liam.davis488@email.com,Los Angeles,CA,USA,2021-09-01 01:28:00,False
+CUST00489,John,Harris,john.harris489@email.com,Philadelphia,PA,USA,2020-08-28 07:13:00,False
+CUST00490,Olivia,White,olivia.white490@email.com,Boston,MA,USA,2020-12-05 19:08:00,True
+CUST00491,Michael,Johnson,michael.johnson491@email.com,Boston,MA,USA,2023-03-13 11:34:00,False
+CUST00492,Karen,Garcia,karen.garcia492@email.com,San Jose,CA,USA,2021-10-24 22:18:00,False
+CUST00493,William,Brown,william.brown493@email.com,San Jose,CA,USA,2020-10-04 13:58:00,True
+CUST00494,Emma,Jones,emma.jones494@email.com,Phoenix,AZ,USA,2023-12-07 04:15:00,True
+CUST00495,David,Davis,david.davis495@email.com,Seattle,WA,USA,2023-10-16 12:31:00,True
+CUST00496,Emma,Wilson,emma.wilson496@email.com,San Jose,CA,USA,2023-07-09 13:24:00,False
+CUST00497,Emma,Williams,emma.williams497@email.com,Los Angeles,CA,USA,2022-04-05 16:47:00,False
+CUST00498,Susan,Harris,susan.harris498@email.com,Seattle,WA,USA,2022-09-26 10:37:00,True
+CUST00499,Ava,Williams,ava.williams499@email.com,Boston,MA,USA,2022-07-27 20:42:00,False
+CUST00500,John,Jackson,john.jackson500@email.com,Boston,MA,USA,2021-03-22 13:52:00,True
+CUST00501,William,Taylor,william.taylor501@email.com,San Diego,CA,USA,2021-08-03 10:35:00,True
+CUST00502,Sarah,Taylor,sarah.taylor502@email.com,San Jose,CA,USA,2023-10-29 01:02:00,True
+CUST00503,Joseph,Smith,joseph.smith503@email.com,Austin,TX,USA,2020-09-11 05:28:00,False
+CUST00504,Jessica,Miller,jessica.miller504@email.com,New York,NY,USA,2023-11-11 04:56:00,False
+CUST00505,William,Williams,william.williams505@email.com,Chicago,IL,USA,2023-09-02 11:16:00,True
+CUST00506,Noah,Garcia,noah.garcia506@email.com,Philadelphia,PA,USA,2020-04-16 12:40:00,False
+CUST00507,Olivia,Davis,olivia.davis507@email.com,Seattle,WA,USA,2022-05-29 20:05:00,True
+CUST00508,Michael,Martin,michael.martin508@email.com,New York,NY,USA,2020-06-08 04:37:00,True
+CUST00509,Noah,Harris,noah.harris509@email.com,Dallas,TX,USA,2020-01-20 00:44:00,False
+CUST00510,Patricia,White,patricia.white510@email.com,Boston,MA,USA,2023-11-22 04:30:00,True
+CUST00511,Richard,Williams,richard.williams511@email.com,Houston,TX,USA,2020-07-28 03:20:00,False
+CUST00512,Barbara,Jones,barbara.jones512@email.com,Nashville,TN,USA,2022-02-22 04:41:00,True
+CUST00513,Thomas,Smith,thomas.smith513@email.com,Los Angeles,CA,USA,2023-06-03 20:10:00,False
+CUST00514,Liam,Miller,liam.miller514@email.com,Philadelphia,PA,USA,2023-07-10 23:09:00,False
+CUST00515,Noah,Harris,noah.harris515@email.com,San Jose,CA,USA,2021-03-20 02:57:00,True
+CUST00516,Ava,Brown,ava.brown516@email.com,Chicago,IL,USA,2023-04-22 23:24:00,False
+CUST00517,David,Jones,david.jones517@email.com,San Antonio,TX,USA,2021-05-22 08:41:00,True
+CUST00518,Karen,Anderson,karen.anderson518@email.com,Houston,TX,USA,2023-11-15 00:54:00,False
+CUST00519,Thomas,Miller,thomas.miller519@email.com,Houston,TX,USA,2022-03-13 09:41:00,True
+CUST00520,Linda,Martin,linda.martin520@email.com,Denver,CO,USA,2022-03-01 03:15:00,False
+CUST00521,Lisa,Williams,lisa.williams521@email.com,Austin,TX,USA,2022-12-17 00:23:00,False
+CUST00522,Richard,White,richard.white522@email.com,Chicago,IL,USA,2022-01-18 17:43:00,True
+CUST00523,Sarah,Williams,sarah.williams523@email.com,Denver,CO,USA,2020-02-04 18:04:00,True
+CUST00524,Michael,Johnson,michael.johnson524@email.com,Phoenix,AZ,USA,2020-05-03 12:32:00,False
+CUST00525,Olivia,White,olivia.white525@email.com,Austin,TX,USA,2022-05-17 22:25:00,True
+CUST00526,Karen,Jones,karen.jones526@email.com,Austin,TX,USA,2021-07-22 02:19:00,True
+CUST00527,Michael,Jones,michael.jones527@email.com,Dallas,TX,USA,2023-01-03 10:25:00,True
+CUST00528,Olivia,White,olivia.white528@email.com,Phoenix,AZ,USA,2021-05-03 01:15:00,True
+CUST00529,Jessica,Brown,jessica.brown529@email.com,Nashville,TN,USA,2022-07-17 19:38:00,True
+CUST00530,Noah,Garcia,noah.garcia530@email.com,Phoenix,AZ,USA,2020-09-01 00:45:00,True
+CUST00531,James,Garcia,james.garcia531@email.com,Seattle,WA,USA,2022-10-13 11:33:00,False
+CUST00532,Susan,Jones,susan.jones532@email.com,Chicago,IL,USA,2021-07-04 23:56:00,True
+CUST00533,James,Taylor,james.taylor533@email.com,Denver,CO,USA,2022-05-29 08:33:00,True
+CUST00534,Olivia,Williams,olivia.williams534@email.com,Phoenix,AZ,USA,2022-10-13 14:32:00,False
+CUST00535,Sarah,Garcia,sarah.garcia535@email.com,New York,NY,USA,2022-01-23 05:16:00,True
+CUST00536,Charles,Brown,charles.brown536@email.com,Nashville,TN,USA,2021-04-12 23:32:00,True
+CUST00537,James,Davis,james.davis537@email.com,New York,NY,USA,2020-04-04 15:23:00,False
+CUST00538,Robert,Garcia,robert.garcia538@email.com,Nashville,TN,USA,2020-03-13 17:51:00,False
+CUST00539,David,Davis,david.davis539@email.com,Houston,TX,USA,2022-05-02 23:20:00,False
+CUST00540,John,Thomas,john.thomas540@email.com,Boston,MA,USA,2020-09-01 16:43:00,True
+CUST00541,Linda,Johnson,linda.johnson541@email.com,Chicago,IL,USA,2022-04-01 02:56:00,False
+CUST00542,Barbara,Anderson,barbara.anderson542@email.com,Boston,MA,USA,2021-11-01 02:35:00,False
+CUST00543,Susan,Miller,susan.miller543@email.com,New York,NY,USA,2021-08-20 18:50:00,False
+CUST00544,Lisa,Davis,lisa.davis544@email.com,Seattle,WA,USA,2022-08-08 11:37:00,False
+CUST00545,Ava,Miller,ava.miller545@email.com,Denver,CO,USA,2023-01-24 07:09:00,True
+CUST00546,Jessica,Smith,jessica.smith546@email.com,Nashville,TN,USA,2021-04-22 17:22:00,True
+CUST00547,James,Jackson,james.jackson547@email.com,Philadelphia,PA,USA,2021-09-21 03:13:00,True
+CUST00548,Sarah,Johnson,sarah.johnson548@email.com,San Antonio,TX,USA,2020-10-18 22:17:00,True
+CUST00549,Linda,White,linda.white549@email.com,New York,NY,USA,2023-12-06 11:29:00,True
+CUST00550,Patricia,Jones,patricia.jones550@email.com,San Jose,CA,USA,2023-07-29 12:04:00,True
+CUST00551,Noah,Jones,noah.jones551@email.com,San Antonio,TX,USA,2021-04-29 09:16:00,False
+CUST00552,Richard,Taylor,richard.taylor552@email.com,Nashville,TN,USA,2021-10-13 14:17:00,True
+CUST00553,Michael,Jones,michael.jones553@email.com,Los Angeles,CA,USA,2023-04-12 03:09:00,True
+CUST00554,Joseph,Harris,joseph.harris554@email.com,Chicago,IL,USA,2021-10-05 13:07:00,False
+CUST00555,Michael,Harris,michael.harris555@email.com,Denver,CO,USA,2021-09-23 14:16:00,True
+CUST00556,Jennifer,Anderson,jennifer.anderson556@email.com,Los Angeles,CA,USA,2023-12-14 22:38:00,True
+CUST00557,David,Jones,david.jones557@email.com,Houston,TX,USA,2020-07-05 22:15:00,False
+CUST00558,Thomas,Johnson,thomas.johnson558@email.com,San Antonio,TX,USA,2023-10-18 09:16:00,True
+CUST00559,Richard,Harris,richard.harris559@email.com,New York,NY,USA,2023-02-12 23:35:00,True
+CUST00560,Joseph,Brown,joseph.brown560@email.com,Los Angeles,CA,USA,2020-10-13 03:00:00,True
+CUST00561,Ava,Davis,ava.davis561@email.com,Boston,MA,USA,2020-09-24 06:52:00,False
+CUST00562,Noah,Williams,noah.williams562@email.com,Philadelphia,PA,USA,2023-04-07 18:16:00,True
+CUST00563,John,Miller,john.miller563@email.com,New York,NY,USA,2023-08-15 14:51:00,True
+CUST00564,David,Brown,david.brown564@email.com,Los Angeles,CA,USA,2020-03-28 14:03:00,True
+CUST00565,Charles,White,charles.white565@email.com,Nashville,TN,USA,2022-03-19 15:01:00,False
+CUST00566,Jessica,Garcia,jessica.garcia566@email.com,Austin,TX,USA,2021-12-25 06:58:00,True
+CUST00567,William,Harris,william.harris567@email.com,Phoenix,AZ,USA,2020-10-31 01:39:00,True
+CUST00568,Barbara,Martin,barbara.martin568@email.com,Austin,TX,USA,2022-04-23 17:30:00,True
+CUST00569,William,Jackson,william.jackson569@email.com,Los Angeles,CA,USA,2020-10-08 13:12:00,True
+CUST00570,Karen,Smith,karen.smith570@email.com,Austin,TX,USA,2022-02-22 22:22:00,False
+CUST00571,Sarah,Thomas,sarah.thomas571@email.com,Dallas,TX,USA,2023-03-04 16:20:00,False
+CUST00572,Jennifer,Smith,jennifer.smith572@email.com,Phoenix,AZ,USA,2021-10-15 19:14:00,True
+CUST00573,Ava,Wilson,ava.wilson573@email.com,Nashville,TN,USA,2020-04-29 15:33:00,False
+CUST00574,Charles,Davis,charles.davis574@email.com,Denver,CO,USA,2020-11-22 03:15:00,True
+CUST00575,Karen,Johnson,karen.johnson575@email.com,Phoenix,AZ,USA,2021-03-25 18:54:00,False
+CUST00576,Jennifer,Garcia,jennifer.garcia576@email.com,Philadelphia,PA,USA,2021-04-29 18:20:00,False
+CUST00577,Charles,Smith,charles.smith577@email.com,Nashville,TN,USA,2023-12-11 22:22:00,True
+CUST00578,Michael,Martin,michael.martin578@email.com,San Jose,CA,USA,2023-01-15 09:11:00,False
+CUST00579,John,Johnson,john.johnson579@email.com,New York,NY,USA,2021-04-21 19:14:00,True
+CUST00580,Sarah,Smith,sarah.smith580@email.com,Dallas,TX,USA,2021-11-10 19:12:00,True
+CUST00581,Olivia,Garcia,olivia.garcia581@email.com,Philadelphia,PA,USA,2021-10-24 01:01:00,True
+CUST00582,Olivia,Jones,olivia.jones582@email.com,San Jose,CA,USA,2020-08-15 16:55:00,False
+CUST00583,Susan,Jackson,susan.jackson583@email.com,Los Angeles,CA,USA,2023-04-15 03:21:00,False
+CUST00584,Robert,Garcia,robert.garcia584@email.com,Philadelphia,PA,USA,2022-06-13 20:31:00,False
+CUST00585,Olivia,Thomas,olivia.thomas585@email.com,Chicago,IL,USA,2021-04-02 21:37:00,True
+CUST00586,Barbara,Anderson,barbara.anderson586@email.com,San Antonio,TX,USA,2020-09-17 05:46:00,True
+CUST00587,Charles,Jackson,charles.jackson587@email.com,Seattle,WA,USA,2023-03-08 01:11:00,False
+CUST00588,Lisa,Davis,lisa.davis588@email.com,Nashville,TN,USA,2023-08-02 18:06:00,False
+CUST00589,David,Williams,david.williams589@email.com,Chicago,IL,USA,2021-05-02 11:20:00,True
+CUST00590,John,Taylor,john.taylor590@email.com,Austin,TX,USA,2022-07-03 00:16:00,True
+CUST00591,Olivia,Williams,olivia.williams591@email.com,Houston,TX,USA,2021-12-18 08:50:00,True
+CUST00592,James,Johnson,james.johnson592@email.com,Seattle,WA,USA,2022-03-01 14:46:00,False
+CUST00593,Jessica,Martin,jessica.martin593@email.com,Chicago,IL,USA,2022-02-14 11:34:00,False
+CUST00594,Sarah,Davis,sarah.davis594@email.com,Los Angeles,CA,USA,2020-11-29 14:04:00,True
+CUST00595,James,Taylor,james.taylor595@email.com,Phoenix,AZ,USA,2021-06-18 03:04:00,False
+CUST00596,Richard,Garcia,richard.garcia596@email.com,Chicago,IL,USA,2020-06-02 17:57:00,True
+CUST00597,Lisa,Martin,lisa.martin597@email.com,Philadelphia,PA,USA,2023-12-13 00:27:00,True
+CUST00598,Jessica,Garcia,jessica.garcia598@email.com,San Jose,CA,USA,2020-04-19 03:21:00,True
+CUST00599,Jessica,Wilson,jessica.wilson599@email.com,Houston,TX,USA,2023-09-14 09:19:00,True
+CUST00600,Mary,Jackson,mary.jackson600@email.com,Los Angeles,CA,USA,2023-03-16 17:53:00,False
+CUST00601,Mary,Thomas,mary.thomas601@email.com,Chicago,IL,USA,2020-01-08 13:05:00,False
+CUST00602,Noah,Martin,noah.martin602@email.com,Boston,MA,USA,2021-02-12 03:01:00,True
+CUST00603,Emma,Anderson,emma.anderson603@email.com,Chicago,IL,USA,2020-06-16 15:54:00,True
+CUST00604,Richard,Martin,richard.martin604@email.com,Phoenix,AZ,USA,2022-09-28 21:16:00,True
+CUST00605,Karen,Jackson,karen.jackson605@email.com,Austin,TX,USA,2021-01-13 11:56:00,False
+CUST00606,Jennifer,Harris,jennifer.harris606@email.com,Philadelphia,PA,USA,2020-04-01 08:28:00,False
+CUST00607,Linda,Wilson,linda.wilson607@email.com,Phoenix,AZ,USA,2023-03-01 01:09:00,True
+CUST00608,Noah,Thomas,noah.thomas608@email.com,Los Angeles,CA,USA,2023-01-13 13:48:00,True
+CUST00609,Mary,Jackson,mary.jackson609@email.com,Dallas,TX,USA,2022-12-06 13:34:00,False
+CUST00610,Linda,Martin,linda.martin610@email.com,San Jose,CA,USA,2021-09-04 02:25:00,True
+CUST00611,Charles,Jones,charles.jones611@email.com,Dallas,TX,USA,2020-09-03 14:11:00,True
+CUST00612,Michael,Jones,michael.jones612@email.com,Houston,TX,USA,2020-03-28 13:05:00,False
+CUST00613,Emma,Jones,emma.jones613@email.com,Houston,TX,USA,2023-05-03 08:20:00,True
+CUST00614,Richard,Jackson,richard.jackson614@email.com,Los Angeles,CA,USA,2023-02-04 10:54:00,False
+CUST00615,Joseph,Smith,joseph.smith615@email.com,Dallas,TX,USA,2023-12-05 19:37:00,False
+CUST00616,Jessica,Jones,jessica.jones616@email.com,Los Angeles,CA,USA,2020-10-30 18:37:00,True
+CUST00617,Patricia,Brown,patricia.brown617@email.com,Nashville,TN,USA,2021-08-08 17:56:00,False
+CUST00618,Jessica,Wilson,jessica.wilson618@email.com,Nashville,TN,USA,2022-02-23 20:31:00,False
+CUST00619,Jennifer,Wilson,jennifer.wilson619@email.com,New York,NY,USA,2022-04-05 04:39:00,False
+CUST00620,Richard,Taylor,richard.taylor620@email.com,New York,NY,USA,2023-11-15 07:03:00,False
+CUST00621,William,Thomas,william.thomas621@email.com,Nashville,TN,USA,2020-02-11 10:52:00,False
+CUST00622,William,Martin,william.martin622@email.com,Phoenix,AZ,USA,2023-11-26 21:06:00,True
+CUST00623,Barbara,Harris,barbara.harris623@email.com,Chicago,IL,USA,2021-10-19 08:46:00,False
+CUST00624,Emma,Williams,emma.williams624@email.com,San Jose,CA,USA,2021-01-19 14:13:00,False
+CUST00625,Sarah,Thomas,sarah.thomas625@email.com,Seattle,WA,USA,2020-04-25 16:50:00,True
+CUST00626,Barbara,Jackson,barbara.jackson626@email.com,Los Angeles,CA,USA,2020-10-04 16:56:00,True
+CUST00627,Michael,Miller,michael.miller627@email.com,Chicago,IL,USA,2020-04-28 07:02:00,False
+CUST00628,Susan,Miller,susan.miller628@email.com,New York,NY,USA,2021-07-15 11:52:00,False
+CUST00629,Richard,Brown,richard.brown629@email.com,Dallas,TX,USA,2023-10-27 00:15:00,False
+CUST00630,Lisa,Harris,lisa.harris630@email.com,San Diego,CA,USA,2020-12-29 15:37:00,False
+CUST00631,Jennifer,Wilson,jennifer.wilson631@email.com,Philadelphia,PA,USA,2023-11-11 02:18:00,True
+CUST00632,Mary,Garcia,mary.garcia632@email.com,San Antonio,TX,USA,2023-03-17 06:54:00,True
+CUST00633,Linda,Miller,linda.miller633@email.com,Austin,TX,USA,2021-07-05 20:26:00,True
+CUST00634,Ava,Smith,ava.smith634@email.com,Boston,MA,USA,2022-08-28 04:41:00,True
+CUST00635,James,Davis,james.davis635@email.com,San Jose,CA,USA,2021-05-31 19:51:00,False
+CUST00636,Olivia,Wilson,olivia.wilson636@email.com,Seattle,WA,USA,2022-05-17 12:54:00,False
+CUST00637,William,Miller,william.miller637@email.com,San Diego,CA,USA,2022-08-13 09:43:00,False
+CUST00638,Patricia,Smith,patricia.smith638@email.com,San Jose,CA,USA,2022-11-13 21:53:00,False
+CUST00639,Emma,Anderson,emma.anderson639@email.com,Dallas,TX,USA,2021-09-03 21:06:00,False
+CUST00640,David,Wilson,david.wilson640@email.com,Los Angeles,CA,USA,2023-08-04 10:55:00,False
+CUST00641,Emma,Anderson,emma.anderson641@email.com,Phoenix,AZ,USA,2021-01-20 04:33:00,True
+CUST00642,Mary,Jackson,mary.jackson642@email.com,Nashville,TN,USA,2023-09-14 10:43:00,True
+CUST00643,James,Martin,james.martin643@email.com,Seattle,WA,USA,2021-08-28 08:58:00,False
+CUST00644,Richard,Johnson,richard.johnson644@email.com,San Antonio,TX,USA,2023-04-09 22:36:00,True
+CUST00645,Liam,Davis,liam.davis645@email.com,Philadelphia,PA,USA,2023-11-06 17:40:00,False
+CUST00646,Noah,Thomas,noah.thomas646@email.com,Nashville,TN,USA,2022-11-04 09:54:00,True
+CUST00647,Noah,Garcia,noah.garcia647@email.com,Boston,MA,USA,2021-08-24 03:30:00,True
+CUST00648,William,Garcia,william.garcia648@email.com,Seattle,WA,USA,2023-10-24 10:41:00,True
+CUST00649,Susan,Davis,susan.davis649@email.com,Houston,TX,USA,2021-09-20 13:50:00,False
+CUST00650,William,Anderson,william.anderson650@email.com,Philadelphia,PA,USA,2022-08-07 03:30:00,True
+CUST00651,Emma,Williams,emma.williams651@email.com,Boston,MA,USA,2022-08-25 06:32:00,True
+CUST00652,Noah,Jackson,noah.jackson652@email.com,Boston,MA,USA,2022-12-21 09:26:00,True
+CUST00653,Robert,Jones,robert.jones653@email.com,Boston,MA,USA,2021-02-14 10:26:00,False
+CUST00654,David,Garcia,david.garcia654@email.com,Chicago,IL,USA,2020-06-14 15:21:00,True
+CUST00655,Emma,Johnson,emma.johnson655@email.com,Philadelphia,PA,USA,2020-01-10 14:17:00,True
+CUST00656,Ava,Garcia,ava.garcia656@email.com,Denver,CO,USA,2023-03-26 05:31:00,True
+CUST00657,Lisa,White,lisa.white657@email.com,Chicago,IL,USA,2023-07-21 13:25:00,False
+CUST00658,Richard,Smith,richard.smith658@email.com,San Diego,CA,USA,2020-03-18 17:12:00,False
+CUST00659,David,Miller,david.miller659@email.com,New York,NY,USA,2020-02-06 21:00:00,True
+CUST00660,Olivia,Thomas,olivia.thomas660@email.com,Houston,TX,USA,2021-10-01 04:06:00,False
+CUST00661,Charles,Anderson,charles.anderson661@email.com,Dallas,TX,USA,2020-12-08 02:52:00,True
+CUST00662,Barbara,Harris,barbara.harris662@email.com,Phoenix,AZ,USA,2022-12-01 19:33:00,False
+CUST00663,Noah,Jones,noah.jones663@email.com,San Antonio,TX,USA,2021-12-02 15:22:00,True
+CUST00664,Richard,Smith,richard.smith664@email.com,Chicago,IL,USA,2021-04-12 07:46:00,True
+CUST00665,Liam,Smith,liam.smith665@email.com,Houston,TX,USA,2023-04-22 16:10:00,True
+CUST00666,Olivia,Johnson,olivia.johnson666@email.com,Philadelphia,PA,USA,2022-02-07 20:16:00,True
+CUST00667,Mary,Brown,mary.brown667@email.com,San Jose,CA,USA,2023-08-31 00:03:00,True
+CUST00668,Joseph,Jackson,joseph.jackson668@email.com,San Antonio,TX,USA,2020-09-10 17:16:00,False
+CUST00669,Robert,Miller,robert.miller669@email.com,Seattle,WA,USA,2023-11-24 21:40:00,True
+CUST00670,Jessica,Brown,jessica.brown670@email.com,Phoenix,AZ,USA,2023-09-18 16:17:00,True
+CUST00671,Patricia,Brown,patricia.brown671@email.com,San Antonio,TX,USA,2021-08-01 03:50:00,True
+CUST00672,Michael,Miller,michael.miller672@email.com,San Diego,CA,USA,2021-06-22 16:12:00,False
+CUST00673,Jessica,Anderson,jessica.anderson673@email.com,Seattle,WA,USA,2020-11-24 01:35:00,False
+CUST00674,Michael,Martin,michael.martin674@email.com,Nashville,TN,USA,2021-11-08 07:00:00,True
+CUST00675,John,Brown,john.brown675@email.com,Austin,TX,USA,2023-03-21 21:31:00,True
+CUST00676,Ava,Williams,ava.williams676@email.com,Los Angeles,CA,USA,2020-07-26 08:41:00,True
+CUST00677,Barbara,Wilson,barbara.wilson677@email.com,San Diego,CA,USA,2022-08-08 01:06:00,True
+CUST00678,Mary,Anderson,mary.anderson678@email.com,Boston,MA,USA,2022-01-07 21:20:00,False
+CUST00679,Patricia,Brown,patricia.brown679@email.com,Seattle,WA,USA,2020-04-03 00:54:00,True
+CUST00680,Emma,Garcia,emma.garcia680@email.com,Austin,TX,USA,2021-11-04 11:57:00,False
+CUST00681,William,Williams,william.williams681@email.com,San Jose,CA,USA,2022-02-02 10:11:00,True
+CUST00682,Richard,Harris,richard.harris682@email.com,San Antonio,TX,USA,2021-07-10 12:44:00,False
+CUST00683,Jessica,Garcia,jessica.garcia683@email.com,Denver,CO,USA,2020-08-19 04:44:00,True
+CUST00684,Jennifer,Brown,jennifer.brown684@email.com,Boston,MA,USA,2022-05-02 18:30:00,False
+CUST00685,Lisa,Jackson,lisa.jackson685@email.com,Chicago,IL,USA,2022-01-04 19:01:00,True
+CUST00686,Sarah,Brown,sarah.brown686@email.com,San Diego,CA,USA,2022-04-22 14:02:00,True
+CUST00687,Emma,Taylor,emma.taylor687@email.com,Phoenix,AZ,USA,2020-01-26 22:55:00,True
+CUST00688,David,Brown,david.brown688@email.com,Austin,TX,USA,2022-06-05 21:46:00,True
+CUST00689,Susan,Jackson,susan.jackson689@email.com,San Diego,CA,USA,2020-10-31 17:57:00,True
+CUST00690,Emma,Garcia,emma.garcia690@email.com,New York,NY,USA,2022-11-01 15:54:00,False
+CUST00691,Jennifer,Williams,jennifer.williams691@email.com,Boston,MA,USA,2022-10-03 10:15:00,False
+CUST00692,Mary,Davis,mary.davis692@email.com,Phoenix,AZ,USA,2023-02-01 20:24:00,False
+CUST00693,Linda,Williams,linda.williams693@email.com,Boston,MA,USA,2022-07-29 14:51:00,False
+CUST00694,Sarah,Harris,sarah.harris694@email.com,Los Angeles,CA,USA,2021-10-09 03:31:00,True
+CUST00695,Richard,White,richard.white695@email.com,Los Angeles,CA,USA,2020-03-14 17:35:00,True
+CUST00696,John,Anderson,john.anderson696@email.com,Boston,MA,USA,2022-11-07 17:13:00,False
+CUST00697,Susan,Johnson,susan.johnson697@email.com,Philadelphia,PA,USA,2021-04-01 14:21:00,False
+CUST00698,Noah,Thomas,noah.thomas698@email.com,Seattle,WA,USA,2022-07-15 03:06:00,True
+CUST00699,David,Thomas,david.thomas699@email.com,New York,NY,USA,2023-07-21 09:35:00,False
+CUST00700,Patricia,Johnson,patricia.johnson700@email.com,Seattle,WA,USA,2020-12-02 15:08:00,False
+CUST00701,William,Miller,william.miller701@email.com,Los Angeles,CA,USA,2021-01-19 03:59:00,False
+CUST00702,Joseph,Miller,joseph.miller702@email.com,Houston,TX,USA,2021-11-23 03:48:00,False
+CUST00703,Emma,Brown,emma.brown703@email.com,New York,NY,USA,2022-07-11 14:42:00,True
+CUST00704,James,Johnson,james.johnson704@email.com,San Diego,CA,USA,2023-02-07 13:53:00,False
+CUST00705,Thomas,Garcia,thomas.garcia705@email.com,Nashville,TN,USA,2023-11-17 18:11:00,True
+CUST00706,Richard,Taylor,richard.taylor706@email.com,Los Angeles,CA,USA,2022-10-29 12:26:00,True
+CUST00707,Richard,Taylor,richard.taylor707@email.com,Phoenix,AZ,USA,2021-08-25 14:51:00,True
+CUST00708,Jessica,Anderson,jessica.anderson708@email.com,Chicago,IL,USA,2023-12-07 17:55:00,False
+CUST00709,Liam,Miller,liam.miller709@email.com,Seattle,WA,USA,2021-02-15 06:39:00,False
+CUST00710,Susan,Jones,susan.jones710@email.com,Austin,TX,USA,2023-12-25 20:11:00,False
+CUST00711,Patricia,Thomas,patricia.thomas711@email.com,Seattle,WA,USA,2023-02-25 15:37:00,False
+CUST00712,Liam,Anderson,liam.anderson712@email.com,Austin,TX,USA,2022-05-15 00:33:00,True
+CUST00713,Richard,Jones,richard.jones713@email.com,New York,NY,USA,2020-04-18 21:03:00,True
+CUST00714,Ava,Garcia,ava.garcia714@email.com,Phoenix,AZ,USA,2021-08-09 21:16:00,True
+CUST00715,Mary,Anderson,mary.anderson715@email.com,Boston,MA,USA,2021-02-21 17:02:00,False
+CUST00716,Joseph,Brown,joseph.brown716@email.com,Boston,MA,USA,2023-06-15 21:47:00,True
+CUST00717,Emma,Jackson,emma.jackson717@email.com,Seattle,WA,USA,2021-05-01 16:50:00,False
+CUST00718,Noah,Johnson,noah.johnson718@email.com,Seattle,WA,USA,2022-02-20 12:26:00,False
+CUST00719,Mary,Smith,mary.smith719@email.com,Dallas,TX,USA,2021-05-29 06:39:00,False
+CUST00720,Linda,Thomas,linda.thomas720@email.com,Boston,MA,USA,2023-04-20 17:47:00,True
+CUST00721,Liam,Miller,liam.miller721@email.com,Denver,CO,USA,2021-08-25 14:11:00,True
+CUST00722,Jennifer,Brown,jennifer.brown722@email.com,Chicago,IL,USA,2022-02-11 01:27:00,False
+CUST00723,William,Jones,william.jones723@email.com,Dallas,TX,USA,2020-11-25 18:54:00,False
+CUST00724,David,Harris,david.harris724@email.com,New York,NY,USA,2023-12-24 04:02:00,True
+CUST00725,David,Johnson,david.johnson725@email.com,Nashville,TN,USA,2023-07-04 19:53:00,False
+CUST00726,Charles,Thomas,charles.thomas726@email.com,San Diego,CA,USA,2020-05-29 22:20:00,True
+CUST00727,Thomas,Williams,thomas.williams727@email.com,Chicago,IL,USA,2022-10-31 05:26:00,False
+CUST00728,Susan,Davis,susan.davis728@email.com,Los Angeles,CA,USA,2021-03-12 21:21:00,False
+CUST00729,Barbara,Miller,barbara.miller729@email.com,Philadelphia,PA,USA,2023-06-20 16:30:00,True
+CUST00730,Noah,Thomas,noah.thomas730@email.com,Los Angeles,CA,USA,2022-07-01 07:57:00,True
+CUST00731,Noah,Taylor,noah.taylor731@email.com,New York,NY,USA,2022-02-20 03:24:00,False
+CUST00732,Liam,Anderson,liam.anderson732@email.com,Dallas,TX,USA,2020-02-20 16:52:00,False
+CUST00733,Thomas,Harris,thomas.harris733@email.com,Dallas,TX,USA,2022-09-23 01:18:00,True
+CUST00734,Thomas,Williams,thomas.williams734@email.com,Philadelphia,PA,USA,2020-07-15 05:49:00,True
+CUST00735,John,Miller,john.miller735@email.com,Austin,TX,USA,2023-10-04 20:49:00,True
+CUST00736,Noah,White,noah.white736@email.com,Boston,MA,USA,2020-07-31 06:34:00,False
+CUST00737,John,Jones,john.jones737@email.com,Austin,TX,USA,2020-02-18 14:45:00,False
+CUST00738,John,Williams,john.williams738@email.com,New York,NY,USA,2020-04-21 05:50:00,False
+CUST00739,John,Davis,john.davis739@email.com,Dallas,TX,USA,2021-06-13 13:24:00,False
+CUST00740,Richard,White,richard.white740@email.com,Austin,TX,USA,2021-10-09 00:24:00,True
+CUST00741,James,Williams,james.williams741@email.com,Dallas,TX,USA,2023-04-14 01:44:00,True
+CUST00742,Thomas,Brown,thomas.brown742@email.com,Philadelphia,PA,USA,2021-08-16 21:19:00,True
+CUST00743,Ava,Harris,ava.harris743@email.com,Phoenix,AZ,USA,2022-02-20 12:52:00,True
+CUST00744,Jennifer,Davis,jennifer.davis744@email.com,San Diego,CA,USA,2020-10-06 23:25:00,False
+CUST00745,Robert,Anderson,robert.anderson745@email.com,Austin,TX,USA,2023-10-19 23:41:00,False
+CUST00746,Karen,Jones,karen.jones746@email.com,New York,NY,USA,2020-09-09 01:00:00,False
+CUST00747,Karen,Williams,karen.williams747@email.com,Dallas,TX,USA,2021-09-16 06:47:00,False
+CUST00748,Jessica,Jones,jessica.jones748@email.com,Houston,TX,USA,2020-11-25 05:14:00,False
+CUST00749,Patricia,Garcia,patricia.garcia749@email.com,Houston,TX,USA,2023-10-06 18:54:00,True
+CUST00750,Ava,Harris,ava.harris750@email.com,Boston,MA,USA,2023-08-13 17:04:00,False
+CUST00751,John,Wilson,john.wilson751@email.com,Austin,TX,USA,2020-07-20 06:46:00,False
+CUST00752,Susan,Jones,susan.jones752@email.com,Philadelphia,PA,USA,2023-10-06 20:15:00,True
+CUST00753,Lisa,Williams,lisa.williams753@email.com,Phoenix,AZ,USA,2021-01-31 10:31:00,False
+CUST00754,Lisa,Anderson,lisa.anderson754@email.com,Philadelphia,PA,USA,2023-11-21 18:09:00,False
+CUST00755,David,White,david.white755@email.com,Denver,CO,USA,2020-12-11 00:20:00,True
+CUST00756,Linda,White,linda.white756@email.com,Denver,CO,USA,2021-07-20 11:08:00,False
+CUST00757,Sarah,Harris,sarah.harris757@email.com,Nashville,TN,USA,2022-07-01 11:49:00,False
+CUST00758,Karen,Brown,karen.brown758@email.com,San Diego,CA,USA,2020-12-25 20:38:00,True
+CUST00759,William,Jones,william.jones759@email.com,Boston,MA,USA,2023-01-08 06:16:00,True
+CUST00760,John,Smith,john.smith760@email.com,Seattle,WA,USA,2022-11-04 20:01:00,False
+CUST00761,Charles,Miller,charles.miller761@email.com,Denver,CO,USA,2020-03-16 17:16:00,False
+CUST00762,Ava,Jones,ava.jones762@email.com,Austin,TX,USA,2022-01-19 12:14:00,False
+CUST00763,Joseph,Williams,joseph.williams763@email.com,Chicago,IL,USA,2022-03-23 11:32:00,True
+CUST00764,Linda,Garcia,linda.garcia764@email.com,Austin,TX,USA,2022-11-18 04:28:00,True
+CUST00765,Charles,Jones,charles.jones765@email.com,Chicago,IL,USA,2022-09-17 11:02:00,True
+CUST00766,Sarah,Davis,sarah.davis766@email.com,Denver,CO,USA,2020-05-08 08:23:00,True
+CUST00767,Noah,Miller,noah.miller767@email.com,New York,NY,USA,2022-11-26 11:24:00,False
+CUST00768,Joseph,Johnson,joseph.johnson768@email.com,Nashville,TN,USA,2020-03-22 20:20:00,True
+CUST00769,Thomas,Wilson,thomas.wilson769@email.com,Seattle,WA,USA,2021-06-23 18:34:00,True
+CUST00770,Emma,Jackson,emma.jackson770@email.com,San Antonio,TX,USA,2022-01-18 18:41:00,True
+CUST00771,William,Jackson,william.jackson771@email.com,Dallas,TX,USA,2021-04-01 16:25:00,False
+CUST00772,Susan,Martin,susan.martin772@email.com,Boston,MA,USA,2022-09-14 19:00:00,True
+CUST00773,Jennifer,Davis,jennifer.davis773@email.com,San Diego,CA,USA,2020-06-06 16:41:00,False
+CUST00774,Robert,Garcia,robert.garcia774@email.com,Houston,TX,USA,2020-11-18 11:38:00,True
+CUST00775,Linda,White,linda.white775@email.com,Austin,TX,USA,2021-11-07 23:07:00,False
+CUST00776,Sarah,Martin,sarah.martin776@email.com,Austin,TX,USA,2021-03-07 18:10:00,False
+CUST00777,Linda,Johnson,linda.johnson777@email.com,New York,NY,USA,2020-09-18 18:37:00,True
+CUST00778,Emma,Johnson,emma.johnson778@email.com,Chicago,IL,USA,2023-03-18 04:03:00,True
+CUST00779,Jennifer,Jackson,jennifer.jackson779@email.com,Phoenix,AZ,USA,2023-05-12 18:40:00,True
+CUST00780,Liam,Anderson,liam.anderson780@email.com,Nashville,TN,USA,2020-06-24 06:28:00,False
+CUST00781,Sarah,Garcia,sarah.garcia781@email.com,Boston,MA,USA,2021-03-25 13:38:00,True
+CUST00782,Charles,Garcia,charles.garcia782@email.com,Denver,CO,USA,2023-06-30 21:32:00,False
+CUST00783,Liam,Taylor,liam.taylor783@email.com,Chicago,IL,USA,2022-07-17 19:37:00,True
+CUST00784,Richard,Jackson,richard.jackson784@email.com,Houston,TX,USA,2020-09-27 03:01:00,True
+CUST00785,Thomas,White,thomas.white785@email.com,Dallas,TX,USA,2020-11-02 19:06:00,True
+CUST00786,Lisa,Johnson,lisa.johnson786@email.com,San Diego,CA,USA,2022-12-24 16:48:00,True
+CUST00787,Sarah,Jones,sarah.jones787@email.com,Los Angeles,CA,USA,2023-05-20 17:52:00,True
+CUST00788,Ava,White,ava.white788@email.com,Nashville,TN,USA,2022-12-05 13:23:00,True
+CUST00789,Thomas,White,thomas.white789@email.com,Seattle,WA,USA,2021-04-14 15:50:00,False
+CUST00790,Charles,Brown,charles.brown790@email.com,Philadelphia,PA,USA,2022-05-21 04:16:00,False
+CUST00791,Linda,Williams,linda.williams791@email.com,Denver,CO,USA,2021-08-03 19:56:00,False
+CUST00792,Michael,Smith,michael.smith792@email.com,Phoenix,AZ,USA,2023-12-23 23:50:00,True
+CUST00793,Thomas,Brown,thomas.brown793@email.com,San Jose,CA,USA,2022-11-30 00:24:00,True
+CUST00794,David,White,david.white794@email.com,Seattle,WA,USA,2022-01-11 03:09:00,False
+CUST00795,Charles,Wilson,charles.wilson795@email.com,Austin,TX,USA,2021-06-19 17:27:00,False
+CUST00796,William,Jackson,william.jackson796@email.com,San Jose,CA,USA,2021-02-21 13:35:00,False
+CUST00797,Susan,Martin,susan.martin797@email.com,Chicago,IL,USA,2021-06-03 09:36:00,False
+CUST00798,Olivia,Jackson,olivia.jackson798@email.com,Denver,CO,USA,2020-10-09 21:07:00,True
+CUST00799,Olivia,Garcia,olivia.garcia799@email.com,San Diego,CA,USA,2020-07-24 06:32:00,False
+CUST00800,David,Johnson,david.johnson800@email.com,Denver,CO,USA,2020-11-25 12:40:00,True
+CUST00801,John,Jones,john.jones801@email.com,Denver,CO,USA,2022-08-23 19:27:00,True
+CUST00802,William,Davis,william.davis802@email.com,Los Angeles,CA,USA,2022-01-29 02:38:00,True
+CUST00803,Richard,Jackson,richard.jackson803@email.com,Seattle,WA,USA,2023-06-11 20:33:00,False
+CUST00804,Lisa,Johnson,lisa.johnson804@email.com,Seattle,WA,USA,2020-12-24 20:31:00,False
+CUST00805,Michael,Anderson,michael.anderson805@email.com,New York,NY,USA,2021-02-02 01:50:00,True
+CUST00806,Jennifer,Johnson,jennifer.johnson806@email.com,San Jose,CA,USA,2022-01-06 07:41:00,True
+CUST00807,John,Wilson,john.wilson807@email.com,Chicago,IL,USA,2022-03-29 11:42:00,False
+CUST00808,Charles,Miller,charles.miller808@email.com,San Antonio,TX,USA,2022-11-26 00:47:00,True
+CUST00809,John,Anderson,john.anderson809@email.com,Nashville,TN,USA,2023-02-19 18:22:00,False
+CUST00810,William,Davis,william.davis810@email.com,Boston,MA,USA,2023-05-26 06:29:00,False
+CUST00811,James,Wilson,james.wilson811@email.com,San Jose,CA,USA,2020-12-24 13:32:00,True
+CUST00812,John,Anderson,john.anderson812@email.com,Dallas,TX,USA,2021-11-27 03:51:00,False
+CUST00813,Karen,Wilson,karen.wilson813@email.com,Nashville,TN,USA,2023-11-22 14:24:00,False
+CUST00814,Linda,Taylor,linda.taylor814@email.com,Denver,CO,USA,2022-07-28 21:29:00,True
+CUST00815,Patricia,Wilson,patricia.wilson815@email.com,San Diego,CA,USA,2020-05-18 12:40:00,True
+CUST00816,Olivia,Davis,olivia.davis816@email.com,Austin,TX,USA,2021-10-08 13:22:00,True
+CUST00817,William,Davis,william.davis817@email.com,Seattle,WA,USA,2021-08-11 02:25:00,False
+CUST00818,Karen,Garcia,karen.garcia818@email.com,Los Angeles,CA,USA,2022-09-02 10:22:00,True
+CUST00819,Charles,Wilson,charles.wilson819@email.com,Nashville,TN,USA,2021-01-09 23:43:00,True
+CUST00820,Liam,Miller,liam.miller820@email.com,San Diego,CA,USA,2021-04-25 23:15:00,False
+CUST00821,Linda,Miller,linda.miller821@email.com,Houston,TX,USA,2021-05-26 19:22:00,True
+CUST00822,Patricia,Brown,patricia.brown822@email.com,Denver,CO,USA,2020-06-09 21:42:00,False
+CUST00823,James,Johnson,james.johnson823@email.com,San Jose,CA,USA,2022-09-14 11:39:00,False
+CUST00824,Charles,Wilson,charles.wilson824@email.com,San Diego,CA,USA,2022-10-02 05:48:00,False
+CUST00825,Linda,Jones,linda.jones825@email.com,San Antonio,TX,USA,2020-04-20 16:51:00,False
+CUST00826,Karen,Johnson,karen.johnson826@email.com,San Diego,CA,USA,2022-10-26 11:25:00,True
+CUST00827,Patricia,Harris,patricia.harris827@email.com,San Diego,CA,USA,2021-10-08 22:00:00,True
+CUST00828,Michael,Jackson,michael.jackson828@email.com,Austin,TX,USA,2023-04-04 03:20:00,False
+CUST00829,William,Garcia,william.garcia829@email.com,San Jose,CA,USA,2023-01-28 08:15:00,False
+CUST00830,Lisa,Taylor,lisa.taylor830@email.com,San Diego,CA,USA,2022-01-19 05:31:00,False
+CUST00831,Jessica,Thomas,jessica.thomas831@email.com,Houston,TX,USA,2022-01-17 12:17:00,False
+CUST00832,Charles,Jones,charles.jones832@email.com,Chicago,IL,USA,2023-03-25 21:14:00,True
+CUST00833,William,Davis,william.davis833@email.com,Seattle,WA,USA,2023-02-11 13:54:00,False
+CUST00834,Robert,Jones,robert.jones834@email.com,Houston,TX,USA,2022-08-26 00:11:00,False
+CUST00835,Robert,Taylor,robert.taylor835@email.com,San Diego,CA,USA,2022-09-23 09:16:00,True
+CUST00836,Patricia,Garcia,patricia.garcia836@email.com,San Antonio,TX,USA,2020-05-02 06:52:00,False
+CUST00837,Emma,Brown,emma.brown837@email.com,San Diego,CA,USA,2022-07-10 23:21:00,False
+CUST00838,Susan,Wilson,susan.wilson838@email.com,Philadelphia,PA,USA,2021-12-05 00:26:00,True
+CUST00839,Noah,Miller,noah.miller839@email.com,Philadelphia,PA,USA,2023-03-27 18:41:00,True
+CUST00840,Barbara,Thomas,barbara.thomas840@email.com,Denver,CO,USA,2021-10-27 21:32:00,False
+CUST00841,Liam,Harris,liam.harris841@email.com,Denver,CO,USA,2020-06-09 12:39:00,False
+CUST00842,Emma,Jones,emma.jones842@email.com,San Diego,CA,USA,2020-12-09 20:51:00,False
+CUST00843,Emma,Jackson,emma.jackson843@email.com,San Antonio,TX,USA,2020-05-26 02:10:00,False
+CUST00844,David,Taylor,david.taylor844@email.com,Houston,TX,USA,2023-08-30 09:45:00,False
+CUST00845,Emma,Jackson,emma.jackson845@email.com,San Jose,CA,USA,2021-07-09 14:49:00,False
+CUST00846,Charles,Harris,charles.harris846@email.com,Seattle,WA,USA,2022-04-27 05:11:00,True
+CUST00847,Liam,Davis,liam.davis847@email.com,Chicago,IL,USA,2023-09-17 08:47:00,True
+CUST00848,Jennifer,Jackson,jennifer.jackson848@email.com,Houston,TX,USA,2020-07-29 03:04:00,False
+CUST00849,Mary,Smith,mary.smith849@email.com,Dallas,TX,USA,2022-03-24 16:48:00,True
+CUST00850,William,Jones,william.jones850@email.com,Los Angeles,CA,USA,2020-06-21 20:59:00,False
+CUST00851,Linda,Davis,linda.davis851@email.com,Phoenix,AZ,USA,2021-08-04 14:40:00,True
+CUST00852,Thomas,Garcia,thomas.garcia852@email.com,Chicago,IL,USA,2020-02-28 01:42:00,False
+CUST00853,David,Martin,david.martin853@email.com,Boston,MA,USA,2022-08-14 17:59:00,False
+CUST00854,Joseph,Jones,joseph.jones854@email.com,Dallas,TX,USA,2023-11-29 17:11:00,False
+CUST00855,Liam,White,liam.white855@email.com,Austin,TX,USA,2022-12-08 20:40:00,False
+CUST00856,Susan,Martin,susan.martin856@email.com,Nashville,TN,USA,2023-01-10 07:51:00,True
+CUST00857,Barbara,Thomas,barbara.thomas857@email.com,San Diego,CA,USA,2022-04-24 08:09:00,False
+CUST00858,James,Jones,james.jones858@email.com,New York,NY,USA,2021-12-05 09:30:00,True
+CUST00859,Sarah,Martin,sarah.martin859@email.com,Seattle,WA,USA,2021-09-05 00:49:00,False
+CUST00860,Barbara,Davis,barbara.davis860@email.com,Denver,CO,USA,2020-01-15 17:23:00,True
+CUST00861,Karen,White,karen.white861@email.com,San Antonio,TX,USA,2022-03-19 07:10:00,False
+CUST00862,Richard,Davis,richard.davis862@email.com,Boston,MA,USA,2021-06-22 02:27:00,True
+CUST00863,Ava,Wilson,ava.wilson863@email.com,Dallas,TX,USA,2021-08-06 20:47:00,False
+CUST00864,Michael,Williams,michael.williams864@email.com,San Antonio,TX,USA,2021-01-08 04:18:00,True
+CUST00865,Joseph,Harris,joseph.harris865@email.com,Austin,TX,USA,2021-07-11 22:39:00,False
+CUST00866,David,Smith,david.smith866@email.com,Houston,TX,USA,2020-11-07 01:34:00,True
+CUST00867,Patricia,Anderson,patricia.anderson867@email.com,Chicago,IL,USA,2021-07-05 04:45:00,False
+CUST00868,James,Davis,james.davis868@email.com,Seattle,WA,USA,2020-07-03 04:00:00,False
+CUST00869,David,White,david.white869@email.com,Houston,TX,USA,2021-09-30 15:23:00,False
+CUST00870,Mary,Taylor,mary.taylor870@email.com,Seattle,WA,USA,2020-06-13 04:03:00,False
+CUST00871,Richard,Williams,richard.williams871@email.com,Denver,CO,USA,2023-01-17 15:11:00,True
+CUST00872,William,Jackson,william.jackson872@email.com,Nashville,TN,USA,2020-01-26 03:49:00,True
+CUST00873,Ava,Harris,ava.harris873@email.com,San Antonio,TX,USA,2021-05-21 23:02:00,True
+CUST00874,Liam,Brown,liam.brown874@email.com,San Diego,CA,USA,2022-12-03 21:13:00,False
+CUST00875,Noah,Anderson,noah.anderson875@email.com,San Antonio,TX,USA,2021-10-23 05:40:00,True
+CUST00876,Karen,Brown,karen.brown876@email.com,Seattle,WA,USA,2021-06-02 15:40:00,False
+CUST00877,Susan,Johnson,susan.johnson877@email.com,Houston,TX,USA,2023-09-27 06:07:00,True
+CUST00878,Jessica,Taylor,jessica.taylor878@email.com,Austin,TX,USA,2020-01-31 05:50:00,False
+CUST00879,Patricia,Jackson,patricia.jackson879@email.com,San Jose,CA,USA,2021-05-12 00:02:00,False
+CUST00880,Lisa,Jones,lisa.jones880@email.com,Seattle,WA,USA,2022-01-30 02:15:00,True
+CUST00881,John,Taylor,john.taylor881@email.com,San Diego,CA,USA,2023-07-04 01:03:00,False
+CUST00882,Robert,Brown,robert.brown882@email.com,Austin,TX,USA,2020-09-14 15:14:00,False
+CUST00883,Emma,Thomas,emma.thomas883@email.com,Dallas,TX,USA,2022-06-17 23:12:00,True
+CUST00884,Richard,Thomas,richard.thomas884@email.com,Seattle,WA,USA,2020-10-02 08:57:00,True
+CUST00885,Olivia,Harris,olivia.harris885@email.com,San Diego,CA,USA,2023-02-18 09:34:00,False
+CUST00886,Charles,Garcia,charles.garcia886@email.com,Houston,TX,USA,2023-01-18 11:20:00,False
+CUST00887,Lisa,Garcia,lisa.garcia887@email.com,Phoenix,AZ,USA,2020-05-21 16:09:00,False
+CUST00888,William,Thomas,william.thomas888@email.com,Phoenix,AZ,USA,2022-07-18 00:49:00,False
+CUST00889,Jennifer,Smith,jennifer.smith889@email.com,Seattle,WA,USA,2023-06-23 11:49:00,True
+CUST00890,Liam,Williams,liam.williams890@email.com,Philadelphia,PA,USA,2023-09-10 17:52:00,False
+CUST00891,Thomas,Martin,thomas.martin891@email.com,Houston,TX,USA,2023-02-03 04:39:00,False
+CUST00892,Jessica,Taylor,jessica.taylor892@email.com,Philadelphia,PA,USA,2020-08-14 03:33:00,True
+CUST00893,Robert,Garcia,robert.garcia893@email.com,New York,NY,USA,2020-03-05 06:06:00,False
+CUST00894,Patricia,Johnson,patricia.johnson894@email.com,Houston,TX,USA,2023-03-15 20:53:00,False
+CUST00895,Sarah,Wilson,sarah.wilson895@email.com,Austin,TX,USA,2020-04-10 11:14:00,True
+CUST00896,Michael,Martin,michael.martin896@email.com,New York,NY,USA,2020-06-12 14:51:00,True
+CUST00897,Karen,White,karen.white897@email.com,Philadelphia,PA,USA,2022-01-25 22:03:00,False
+CUST00898,Mary,Williams,mary.williams898@email.com,Dallas,TX,USA,2021-09-14 02:13:00,True
+CUST00899,Liam,Davis,liam.davis899@email.com,Los Angeles,CA,USA,2022-12-24 12:12:00,True
+CUST00900,Noah,Davis,noah.davis900@email.com,Dallas,TX,USA,2023-03-13 20:11:00,False
+CUST00901,Patricia,Thomas,patricia.thomas901@email.com,Seattle,WA,USA,2023-10-13 14:44:00,False
+CUST00902,Patricia,Garcia,patricia.garcia902@email.com,Nashville,TN,USA,2021-01-04 17:25:00,False
+CUST00903,Jennifer,Harris,jennifer.harris903@email.com,Austin,TX,USA,2021-12-22 10:35:00,False
+CUST00904,Susan,White,susan.white904@email.com,Boston,MA,USA,2023-07-20 13:52:00,False
+CUST00905,Linda,Miller,linda.miller905@email.com,San Jose,CA,USA,2022-02-07 17:59:00,False
+CUST00906,Joseph,Harris,joseph.harris906@email.com,Philadelphia,PA,USA,2022-03-24 00:46:00,True
+CUST00907,Lisa,Smith,lisa.smith907@email.com,Phoenix,AZ,USA,2022-11-26 04:56:00,False
+CUST00908,Barbara,Davis,barbara.davis908@email.com,New York,NY,USA,2021-03-15 10:01:00,False
+CUST00909,Karen,Jones,karen.jones909@email.com,Nashville,TN,USA,2020-07-12 01:29:00,False
+CUST00910,Robert,Wilson,robert.wilson910@email.com,Chicago,IL,USA,2022-01-21 18:15:00,True
+CUST00911,Barbara,Williams,barbara.williams911@email.com,Phoenix,AZ,USA,2023-03-14 12:36:00,True
+CUST00912,John,Taylor,john.taylor912@email.com,Seattle,WA,USA,2022-09-15 05:31:00,True
+CUST00913,Emma,Anderson,emma.anderson913@email.com,San Jose,CA,USA,2020-03-17 23:51:00,False
+CUST00914,Ava,Johnson,ava.johnson914@email.com,Los Angeles,CA,USA,2021-11-15 11:56:00,False
+CUST00915,Patricia,Davis,patricia.davis915@email.com,San Antonio,TX,USA,2023-08-29 19:59:00,True
+CUST00916,Ava,Jackson,ava.jackson916@email.com,Austin,TX,USA,2020-04-20 09:33:00,True
+CUST00917,Karen,Jones,karen.jones917@email.com,Philadelphia,PA,USA,2021-10-31 16:44:00,True
+CUST00918,Mary,Jackson,mary.jackson918@email.com,Chicago,IL,USA,2022-07-01 19:36:00,True
+CUST00919,Jessica,Anderson,jessica.anderson919@email.com,Houston,TX,USA,2022-03-18 04:08:00,False
+CUST00920,Sarah,Johnson,sarah.johnson920@email.com,Los Angeles,CA,USA,2023-01-27 12:16:00,True
+CUST00921,Thomas,White,thomas.white921@email.com,San Antonio,TX,USA,2023-11-30 04:48:00,True
+CUST00922,Karen,Miller,karen.miller922@email.com,San Diego,CA,USA,2022-09-26 12:41:00,True
+CUST00923,Lisa,Davis,lisa.davis923@email.com,Dallas,TX,USA,2021-05-11 02:17:00,False
+CUST00924,Noah,Williams,noah.williams924@email.com,Philadelphia,PA,USA,2020-08-18 21:26:00,False
+CUST00925,Susan,Miller,susan.miller925@email.com,Philadelphia,PA,USA,2021-10-18 11:38:00,True
+CUST00926,Barbara,Garcia,barbara.garcia926@email.com,Denver,CO,USA,2021-12-17 19:52:00,False
+CUST00927,Robert,Harris,robert.harris927@email.com,San Jose,CA,USA,2020-04-01 07:12:00,False
+CUST00928,Ava,Williams,ava.williams928@email.com,Chicago,IL,USA,2020-08-18 23:03:00,True
+CUST00929,Robert,Anderson,robert.anderson929@email.com,San Jose,CA,USA,2020-01-29 10:44:00,True
+CUST00930,Joseph,Martin,joseph.martin930@email.com,Phoenix,AZ,USA,2020-02-16 10:13:00,True
+CUST00931,Karen,Wilson,karen.wilson931@email.com,Houston,TX,USA,2023-01-28 15:39:00,True
+CUST00932,Olivia,Smith,olivia.smith932@email.com,Seattle,WA,USA,2022-02-10 18:57:00,True
+CUST00933,Jennifer,Johnson,jennifer.johnson933@email.com,Phoenix,AZ,USA,2021-08-04 06:50:00,False
+CUST00934,Joseph,Smith,joseph.smith934@email.com,New York,NY,USA,2020-05-16 12:42:00,False
+CUST00935,Noah,Thomas,noah.thomas935@email.com,Austin,TX,USA,2020-08-08 00:18:00,False
+CUST00936,Richard,Brown,richard.brown936@email.com,Houston,TX,USA,2021-10-08 15:55:00,True
+CUST00937,Michael,Harris,michael.harris937@email.com,Chicago,IL,USA,2023-02-22 22:01:00,True
+CUST00938,Thomas,Anderson,thomas.anderson938@email.com,Houston,TX,USA,2021-11-14 15:25:00,True
+CUST00939,Susan,Thomas,susan.thomas939@email.com,New York,NY,USA,2021-12-28 20:19:00,True
+CUST00940,William,Johnson,william.johnson940@email.com,Dallas,TX,USA,2023-07-05 08:56:00,False
+CUST00941,James,Wilson,james.wilson941@email.com,Nashville,TN,USA,2021-04-06 04:21:00,False
+CUST00942,Robert,Williams,robert.williams942@email.com,Austin,TX,USA,2022-02-21 16:43:00,True
+CUST00943,Linda,Jones,linda.jones943@email.com,San Antonio,TX,USA,2022-05-23 09:58:00,False
+CUST00944,Karen,Jones,karen.jones944@email.com,San Diego,CA,USA,2021-02-27 20:08:00,True
+CUST00945,Robert,Anderson,robert.anderson945@email.com,Boston,MA,USA,2023-11-11 22:57:00,True
+CUST00946,Ava,Jones,ava.jones946@email.com,San Antonio,TX,USA,2023-09-05 18:58:00,True
+CUST00947,John,Brown,john.brown947@email.com,Philadelphia,PA,USA,2021-01-12 10:53:00,True
+CUST00948,James,Taylor,james.taylor948@email.com,Seattle,WA,USA,2022-04-27 13:19:00,False
+CUST00949,Emma,Wilson,emma.wilson949@email.com,Seattle,WA,USA,2020-11-07 06:06:00,True
+CUST00950,James,Wilson,james.wilson950@email.com,Chicago,IL,USA,2023-05-25 18:39:00,True
+CUST00951,Linda,Davis,linda.davis951@email.com,San Jose,CA,USA,2023-11-08 00:22:00,True
+CUST00952,Ava,Martin,ava.martin952@email.com,Seattle,WA,USA,2020-10-01 16:54:00,False
+CUST00953,Emma,Thomas,emma.thomas953@email.com,Seattle,WA,USA,2021-01-11 12:31:00,False
+CUST00954,Jennifer,Miller,jennifer.miller954@email.com,Chicago,IL,USA,2021-04-08 01:26:00,True
+CUST00955,William,White,william.white955@email.com,Nashville,TN,USA,2021-03-31 23:42:00,True
+CUST00956,Michael,Williams,michael.williams956@email.com,Denver,CO,USA,2020-12-28 14:55:00,False
+CUST00957,David,Harris,david.harris957@email.com,Seattle,WA,USA,2021-05-20 13:25:00,True
+CUST00958,Liam,Jackson,liam.jackson958@email.com,San Jose,CA,USA,2021-10-02 12:39:00,True
+CUST00959,Patricia,Harris,patricia.harris959@email.com,Dallas,TX,USA,2022-07-24 01:56:00,True
+CUST00960,Karen,Jackson,karen.jackson960@email.com,Dallas,TX,USA,2020-03-21 17:24:00,True
+CUST00961,Barbara,Harris,barbara.harris961@email.com,Houston,TX,USA,2022-03-26 09:49:00,False
+CUST00962,Jennifer,White,jennifer.white962@email.com,San Diego,CA,USA,2021-08-25 19:58:00,True
+CUST00963,Thomas,Jones,thomas.jones963@email.com,Seattle,WA,USA,2022-08-07 20:28:00,True
+CUST00964,Thomas,Brown,thomas.brown964@email.com,Seattle,WA,USA,2021-01-03 18:57:00,True
+CUST00965,Jessica,Taylor,jessica.taylor965@email.com,San Antonio,TX,USA,2022-07-12 00:11:00,False
+CUST00966,Olivia,Miller,olivia.miller966@email.com,San Jose,CA,USA,2022-07-20 02:16:00,False
+CUST00967,Emma,Garcia,emma.garcia967@email.com,Seattle,WA,USA,2020-09-10 02:07:00,False
+CUST00968,Susan,Williams,susan.williams968@email.com,Austin,TX,USA,2022-12-08 22:24:00,True
+CUST00969,Karen,Jackson,karen.jackson969@email.com,San Antonio,TX,USA,2020-03-30 05:58:00,False
+CUST00970,Noah,Jones,noah.jones970@email.com,San Jose,CA,USA,2020-11-28 04:11:00,True
+CUST00971,Barbara,Anderson,barbara.anderson971@email.com,San Antonio,TX,USA,2022-07-02 09:40:00,True
+CUST00972,Robert,Miller,robert.miller972@email.com,Los Angeles,CA,USA,2020-01-08 19:48:00,False
+CUST00973,Joseph,Martin,joseph.martin973@email.com,New York,NY,USA,2022-10-18 17:51:00,True
+CUST00974,Sarah,Davis,sarah.davis974@email.com,San Jose,CA,USA,2021-03-20 18:42:00,False
+CUST00975,Jessica,Harris,jessica.harris975@email.com,San Diego,CA,USA,2020-06-11 19:38:00,True
+CUST00976,Karen,Wilson,karen.wilson976@email.com,Houston,TX,USA,2023-06-23 20:35:00,True
+CUST00977,Jennifer,Jones,jennifer.jones977@email.com,New York,NY,USA,2020-04-22 20:22:00,True
+CUST00978,Mary,Anderson,mary.anderson978@email.com,Chicago,IL,USA,2021-11-09 02:03:00,True
+CUST00979,Jennifer,Garcia,jennifer.garcia979@email.com,San Antonio,TX,USA,2023-10-08 09:39:00,True
+CUST00980,Liam,Thomas,liam.thomas980@email.com,San Diego,CA,USA,2020-03-14 02:49:00,False
+CUST00981,Susan,Jackson,susan.jackson981@email.com,Philadelphia,PA,USA,2020-05-18 13:53:00,True
+CUST00982,Sarah,Jones,sarah.jones982@email.com,Phoenix,AZ,USA,2020-09-06 22:55:00,False
+CUST00983,Thomas,White,thomas.white983@email.com,Philadelphia,PA,USA,2022-12-10 06:44:00,True
+CUST00984,Mary,Brown,mary.brown984@email.com,San Jose,CA,USA,2023-03-16 23:40:00,True
+CUST00985,Liam,Anderson,liam.anderson985@email.com,San Diego,CA,USA,2022-05-24 19:54:00,False
+CUST00986,Thomas,Thomas,thomas.thomas986@email.com,Phoenix,AZ,USA,2020-09-22 19:36:00,False
+CUST00987,Liam,Martin,liam.martin987@email.com,Dallas,TX,USA,2022-10-05 05:56:00,True
+CUST00988,Barbara,Miller,barbara.miller988@email.com,Seattle,WA,USA,2020-01-04 03:01:00,False
+CUST00989,Patricia,Miller,patricia.miller989@email.com,Austin,TX,USA,2023-06-14 13:26:00,True
+CUST00990,Susan,Miller,susan.miller990@email.com,Philadelphia,PA,USA,2020-01-24 20:12:00,False
+CUST00991,John,Anderson,john.anderson991@email.com,Phoenix,AZ,USA,2021-09-06 16:35:00,False
+CUST00992,James,Brown,james.brown992@email.com,Denver,CO,USA,2023-11-05 10:21:00,False
+CUST00993,Charles,Smith,charles.smith993@email.com,Seattle,WA,USA,2020-12-25 06:21:00,False
+CUST00994,Noah,Martin,noah.martin994@email.com,Nashville,TN,USA,2022-08-29 01:41:00,True
+CUST00995,Robert,Harris,robert.harris995@email.com,San Diego,CA,USA,2023-01-04 10:29:00,False
+CUST00996,Liam,Johnson,liam.johnson996@email.com,Nashville,TN,USA,2022-12-03 09:36:00,False
+CUST00997,Karen,Smith,karen.smith997@email.com,Dallas,TX,USA,2021-03-02 18:43:00,False
+CUST00998,Susan,Williams,susan.williams998@email.com,Denver,CO,USA,2020-11-01 08:53:00,True
+CUST00999,Richard,Garcia,richard.garcia999@email.com,Philadelphia,PA,USA,2023-03-15 19:24:00,True
+CUST01000,Patricia,Anderson,patricia.anderson1000@email.com,San Jose,CA,USA,2023-12-15 10:45:00,True
+CUST01001,Jessica,Williams,jessica.williams1001@email.com,Phoenix,AZ,USA,2022-10-14 07:23:00,False
+CUST01002,Barbara,Miller,barbara.miller1002@email.com,Boston,MA,USA,2022-12-11 09:11:00,True
+CUST01003,Mary,Miller,mary.miller1003@email.com,Philadelphia,PA,USA,2020-07-08 14:32:00,True
+CUST01004,Sarah,Jones,sarah.jones1004@email.com,Denver,CO,USA,2021-01-24 10:59:00,False
+CUST01005,Thomas,Anderson,thomas.anderson1005@email.com,Seattle,WA,USA,2021-11-01 04:49:00,True
+CUST01006,Thomas,Jones,thomas.jones1006@email.com,Boston,MA,USA,2021-02-24 23:02:00,False
+CUST01007,Olivia,Brown,olivia.brown1007@email.com,San Antonio,TX,USA,2020-01-09 09:59:00,True
+CUST01008,Lisa,Williams,lisa.williams1008@email.com,Austin,TX,USA,2021-11-13 14:56:00,True
+CUST01009,Thomas,Anderson,thomas.anderson1009@email.com,Los Angeles,CA,USA,2020-02-16 18:48:00,False
+CUST01010,Michael,Taylor,michael.taylor1010@email.com,Austin,TX,USA,2021-02-14 06:18:00,False
+CUST01011,David,Harris,david.harris1011@email.com,Dallas,TX,USA,2023-10-06 03:17:00,True
+CUST01012,William,Brown,william.brown1012@email.com,Chicago,IL,USA,2020-02-01 19:35:00,True
+CUST01013,Karen,Thomas,karen.thomas1013@email.com,Houston,TX,USA,2023-01-30 10:17:00,True
+CUST01014,Barbara,Davis,barbara.davis1014@email.com,Seattle,WA,USA,2020-12-16 02:19:00,False
+CUST01015,Joseph,Johnson,joseph.johnson1015@email.com,Dallas,TX,USA,2020-09-23 00:30:00,True
+CUST01016,Richard,Johnson,richard.johnson1016@email.com,Los Angeles,CA,USA,2020-06-25 13:25:00,True
+CUST01017,Lisa,Harris,lisa.harris1017@email.com,Seattle,WA,USA,2023-06-16 11:19:00,False
+CUST01018,Michael,Williams,michael.williams1018@email.com,Boston,MA,USA,2022-08-11 18:08:00,True
+CUST01019,Olivia,Harris,olivia.harris1019@email.com,Boston,MA,USA,2020-07-18 14:19:00,False
+CUST01020,Linda,Davis,linda.davis1020@email.com,San Diego,CA,USA,2020-10-21 19:16:00,False
+CUST01021,Jennifer,Taylor,jennifer.taylor1021@email.com,San Antonio,TX,USA,2021-10-27 14:31:00,True
+CUST01022,Sarah,Brown,sarah.brown1022@email.com,Los Angeles,CA,USA,2021-12-20 15:29:00,True
+CUST01023,Ava,Thomas,ava.thomas1023@email.com,Phoenix,AZ,USA,2023-05-22 18:08:00,True
+CUST01024,Olivia,Brown,olivia.brown1024@email.com,San Antonio,TX,USA,2021-10-29 17:41:00,True
+CUST01025,Barbara,Harris,barbara.harris1025@email.com,Denver,CO,USA,2022-03-31 18:26:00,True
+CUST01026,Linda,Garcia,linda.garcia1026@email.com,San Jose,CA,USA,2022-09-14 12:04:00,False
+CUST01027,Olivia,White,olivia.white1027@email.com,Houston,TX,USA,2022-06-10 18:50:00,False
+CUST01028,Olivia,Davis,olivia.davis1028@email.com,Dallas,TX,USA,2020-12-20 21:42:00,True
+CUST01029,Olivia,Martin,olivia.martin1029@email.com,Seattle,WA,USA,2020-08-22 18:38:00,False
+CUST01030,Karen,Brown,karen.brown1030@email.com,Philadelphia,PA,USA,2022-06-30 05:19:00,False
+CUST01031,Lisa,Brown,lisa.brown1031@email.com,Los Angeles,CA,USA,2023-11-04 19:49:00,False
+CUST01032,Sarah,Johnson,sarah.johnson1032@email.com,Philadelphia,PA,USA,2020-07-04 06:52:00,True
+CUST01033,Charles,Smith,charles.smith1033@email.com,Nashville,TN,USA,2020-10-27 21:09:00,False
+CUST01034,Barbara,Jackson,barbara.jackson1034@email.com,Dallas,TX,USA,2023-06-14 18:28:00,True
+CUST01035,Noah,Taylor,noah.taylor1035@email.com,Houston,TX,USA,2021-09-05 18:50:00,False
+CUST01036,Jessica,Thomas,jessica.thomas1036@email.com,Nashville,TN,USA,2020-07-01 18:00:00,False
+CUST01037,Robert,Anderson,robert.anderson1037@email.com,Boston,MA,USA,2020-05-07 11:57:00,True
+CUST01038,Olivia,Thomas,olivia.thomas1038@email.com,New York,NY,USA,2020-08-12 09:55:00,True
+CUST01039,Jessica,Jackson,jessica.jackson1039@email.com,Houston,TX,USA,2023-07-04 10:45:00,False
+CUST01040,Richard,White,richard.white1040@email.com,San Antonio,TX,USA,2023-01-21 06:42:00,True
+CUST01041,Robert,Miller,robert.miller1041@email.com,San Diego,CA,USA,2023-02-11 12:53:00,False
+CUST01042,Jessica,Jones,jessica.jones1042@email.com,Boston,MA,USA,2021-08-13 21:08:00,True
+CUST01043,John,Smith,john.smith1043@email.com,New York,NY,USA,2020-10-21 23:56:00,False
+CUST01044,Jessica,Jones,jessica.jones1044@email.com,Austin,TX,USA,2020-06-22 04:41:00,False
+CUST01045,Joseph,White,joseph.white1045@email.com,Boston,MA,USA,2023-06-30 05:29:00,False
+CUST01046,Joseph,Jackson,joseph.jackson1046@email.com,Dallas,TX,USA,2021-12-28 07:11:00,False
+CUST01047,James,Martin,james.martin1047@email.com,San Jose,CA,USA,2021-04-29 22:32:00,False
+CUST01048,Karen,Thomas,karen.thomas1048@email.com,San Antonio,TX,USA,2020-03-09 01:36:00,False
+CUST01049,Susan,Brown,susan.brown1049@email.com,Seattle,WA,USA,2023-04-03 15:44:00,True
+CUST01050,Liam,Wilson,liam.wilson1050@email.com,Chicago,IL,USA,2022-08-10 16:05:00,True
+CUST01051,Sarah,Williams,sarah.williams1051@email.com,Houston,TX,USA,2023-11-01 20:34:00,False
+CUST01052,Mary,Taylor,mary.taylor1052@email.com,San Jose,CA,USA,2022-12-31 00:30:00,False
+CUST01053,Sarah,Taylor,sarah.taylor1053@email.com,Dallas,TX,USA,2022-05-12 11:51:00,False
+CUST01054,Jennifer,Johnson,jennifer.johnson1054@email.com,Phoenix,AZ,USA,2023-11-24 19:47:00,False
+CUST01055,Charles,Wilson,charles.wilson1055@email.com,Seattle,WA,USA,2020-05-05 20:30:00,True
+CUST01056,Mary,Anderson,mary.anderson1056@email.com,San Jose,CA,USA,2023-07-02 00:18:00,False
+CUST01057,Robert,Williams,robert.williams1057@email.com,Los Angeles,CA,USA,2021-07-23 08:08:00,False
+CUST01058,William,Smith,william.smith1058@email.com,Phoenix,AZ,USA,2020-08-16 19:11:00,True
+CUST01059,Joseph,Thomas,joseph.thomas1059@email.com,Austin,TX,USA,2020-12-25 08:50:00,True
+CUST01060,Jennifer,Johnson,jennifer.johnson1060@email.com,San Diego,CA,USA,2021-12-03 02:09:00,True
+CUST01061,Sarah,White,sarah.white1061@email.com,Boston,MA,USA,2022-02-23 07:42:00,False
+CUST01062,Emma,Garcia,emma.garcia1062@email.com,Seattle,WA,USA,2021-03-07 18:46:00,False
+CUST01063,Emma,Wilson,emma.wilson1063@email.com,New York,NY,USA,2020-08-25 01:10:00,False
+CUST01064,Sarah,Anderson,sarah.anderson1064@email.com,San Antonio,TX,USA,2022-09-02 23:48:00,True
+CUST01065,Noah,Jackson,noah.jackson1065@email.com,San Antonio,TX,USA,2022-08-29 08:09:00,False
+CUST01066,Barbara,Harris,barbara.harris1066@email.com,New York,NY,USA,2022-02-21 21:20:00,True
+CUST01067,Karen,Thomas,karen.thomas1067@email.com,Los Angeles,CA,USA,2022-06-03 19:58:00,False
+CUST01068,William,Wilson,william.wilson1068@email.com,Philadelphia,PA,USA,2020-07-20 08:41:00,False
+CUST01069,Ava,Davis,ava.davis1069@email.com,San Diego,CA,USA,2023-10-08 18:49:00,True
+CUST01070,David,Garcia,david.garcia1070@email.com,Dallas,TX,USA,2021-10-03 17:00:00,True
+CUST01071,John,Smith,john.smith1071@email.com,Boston,MA,USA,2022-04-22 03:33:00,True
+CUST01072,Joseph,Thomas,joseph.thomas1072@email.com,Austin,TX,USA,2021-03-25 23:18:00,False
+CUST01073,Mary,Smith,mary.smith1073@email.com,Houston,TX,USA,2023-06-22 02:03:00,True
+CUST01074,Emma,Brown,emma.brown1074@email.com,San Jose,CA,USA,2023-12-21 03:05:00,True
+CUST01075,Noah,Garcia,noah.garcia1075@email.com,San Antonio,TX,USA,2020-08-15 22:11:00,False
+CUST01076,Joseph,Williams,joseph.williams1076@email.com,Phoenix,AZ,USA,2023-08-01 14:59:00,False
+CUST01077,Jessica,Taylor,jessica.taylor1077@email.com,Denver,CO,USA,2021-06-11 05:49:00,True
+CUST01078,Ava,Johnson,ava.johnson1078@email.com,Phoenix,AZ,USA,2022-02-22 12:21:00,True
+CUST01079,William,Garcia,william.garcia1079@email.com,Phoenix,AZ,USA,2022-06-21 02:31:00,True
+CUST01080,Richard,Garcia,richard.garcia1080@email.com,San Jose,CA,USA,2023-08-14 15:06:00,True
+CUST01081,Ava,White,ava.white1081@email.com,Dallas,TX,USA,2021-03-23 19:41:00,True
+CUST01082,Joseph,Wilson,joseph.wilson1082@email.com,Nashville,TN,USA,2020-07-30 01:04:00,True
+CUST01083,Liam,Wilson,liam.wilson1083@email.com,San Jose,CA,USA,2022-07-02 00:57:00,False
+CUST01084,Emma,Smith,emma.smith1084@email.com,Chicago,IL,USA,2020-03-18 21:24:00,False
+CUST01085,Olivia,Taylor,olivia.taylor1085@email.com,Chicago,IL,USA,2022-03-12 18:00:00,False
+CUST01086,Jessica,Jackson,jessica.jackson1086@email.com,San Diego,CA,USA,2020-05-23 17:14:00,True
+CUST01087,Olivia,Martin,olivia.martin1087@email.com,San Antonio,TX,USA,2020-09-05 18:34:00,False
+CUST01088,Noah,Anderson,noah.anderson1088@email.com,Philadelphia,PA,USA,2022-03-31 01:40:00,True
+CUST01089,Karen,Taylor,karen.taylor1089@email.com,Philadelphia,PA,USA,2020-06-13 14:48:00,False
+CUST01090,Michael,Garcia,michael.garcia1090@email.com,Austin,TX,USA,2023-02-09 01:24:00,True
+CUST01091,Olivia,Jackson,olivia.jackson1091@email.com,Phoenix,AZ,USA,2020-08-06 20:44:00,False
+CUST01092,John,Harris,john.harris1092@email.com,San Diego,CA,USA,2021-01-23 04:02:00,True
+CUST01093,Liam,Davis,liam.davis1093@email.com,New York,NY,USA,2022-09-28 12:04:00,False
+CUST01094,Karen,Harris,karen.harris1094@email.com,San Diego,CA,USA,2020-02-03 01:21:00,True
+CUST01095,Liam,Johnson,liam.johnson1095@email.com,Philadelphia,PA,USA,2022-04-10 03:13:00,False
+CUST01096,Karen,Jones,karen.jones1096@email.com,Austin,TX,USA,2023-04-01 07:59:00,True
+CUST01097,Liam,Jones,liam.jones1097@email.com,New York,NY,USA,2022-09-28 20:01:00,False
+CUST01098,Lisa,Johnson,lisa.johnson1098@email.com,Nashville,TN,USA,2021-05-12 22:41:00,True
+CUST01099,Jennifer,Johnson,jennifer.johnson1099@email.com,New York,NY,USA,2021-09-21 03:29:00,True
+CUST01100,Charles,Williams,charles.williams1100@email.com,Boston,MA,USA,2020-08-05 03:31:00,True
+CUST01101,Michael,White,michael.white1101@email.com,Los Angeles,CA,USA,2021-11-21 23:43:00,False
+CUST01102,Patricia,Jones,patricia.jones1102@email.com,Philadelphia,PA,USA,2021-10-20 06:48:00,True
+CUST01103,Jennifer,Taylor,jennifer.taylor1103@email.com,San Jose,CA,USA,2020-05-09 03:17:00,True
+CUST01104,Jessica,Garcia,jessica.garcia1104@email.com,Denver,CO,USA,2023-11-27 11:35:00,True
+CUST01105,Linda,Johnson,linda.johnson1105@email.com,San Diego,CA,USA,2020-09-30 03:50:00,False
+CUST01106,Jennifer,Smith,jennifer.smith1106@email.com,Denver,CO,USA,2022-09-24 02:00:00,True
+CUST01107,John,Anderson,john.anderson1107@email.com,Chicago,IL,USA,2022-05-02 22:51:00,False
+CUST01108,Robert,Miller,robert.miller1108@email.com,Seattle,WA,USA,2020-10-20 20:17:00,False
+CUST01109,Linda,Garcia,linda.garcia1109@email.com,San Antonio,TX,USA,2023-06-04 22:02:00,True
+CUST01110,Sarah,Williams,sarah.williams1110@email.com,Seattle,WA,USA,2023-07-08 09:22:00,False
+CUST01111,Karen,Davis,karen.davis1111@email.com,New York,NY,USA,2021-01-28 03:33:00,True
+CUST01112,Susan,Davis,susan.davis1112@email.com,San Jose,CA,USA,2022-08-08 20:42:00,True
+CUST01113,Mary,Miller,mary.miller1113@email.com,Phoenix,AZ,USA,2020-08-18 04:43:00,False
+CUST01114,Jennifer,Garcia,jennifer.garcia1114@email.com,San Diego,CA,USA,2023-10-04 01:03:00,False
+CUST01115,Michael,White,michael.white1115@email.com,Phoenix,AZ,USA,2021-05-29 10:39:00,False
+CUST01116,Patricia,Johnson,patricia.johnson1116@email.com,New York,NY,USA,2023-01-05 05:10:00,True
+CUST01117,Thomas,Brown,thomas.brown1117@email.com,San Diego,CA,USA,2020-05-25 07:46:00,False
+CUST01118,Charles,Taylor,charles.taylor1118@email.com,San Jose,CA,USA,2022-05-08 06:47:00,False
+CUST01119,Ava,Brown,ava.brown1119@email.com,Houston,TX,USA,2021-10-29 07:06:00,True
+CUST01120,Jessica,Miller,jessica.miller1120@email.com,Seattle,WA,USA,2022-02-08 07:04:00,False
+CUST01121,Sarah,Johnson,sarah.johnson1121@email.com,San Jose,CA,USA,2022-06-11 04:13:00,False
+CUST01122,Richard,Thomas,richard.thomas1122@email.com,Chicago,IL,USA,2020-10-06 14:46:00,True
+CUST01123,Susan,Wilson,susan.wilson1123@email.com,Austin,TX,USA,2021-02-18 10:08:00,True
+CUST01124,Charles,Johnson,charles.johnson1124@email.com,Seattle,WA,USA,2021-07-28 04:07:00,False
+CUST01125,Jessica,Garcia,jessica.garcia1125@email.com,San Diego,CA,USA,2021-12-04 07:56:00,False
+CUST01126,Jennifer,Garcia,jennifer.garcia1126@email.com,San Jose,CA,USA,2023-03-29 17:54:00,True
+CUST01127,Jessica,Martin,jessica.martin1127@email.com,Los Angeles,CA,USA,2021-03-19 18:30:00,False
+CUST01128,James,White,james.white1128@email.com,Phoenix,AZ,USA,2021-05-20 07:20:00,False
+CUST01129,Linda,Jones,linda.jones1129@email.com,San Jose,CA,USA,2023-03-20 00:26:00,True
+CUST01130,Sarah,Johnson,sarah.johnson1130@email.com,New York,NY,USA,2022-05-21 16:25:00,False
+CUST01131,Olivia,Brown,olivia.brown1131@email.com,Denver,CO,USA,2022-07-15 15:15:00,True
+CUST01132,Ava,Smith,ava.smith1132@email.com,Dallas,TX,USA,2023-11-20 23:26:00,True
+CUST01133,Susan,Anderson,susan.anderson1133@email.com,Chicago,IL,USA,2021-05-04 20:05:00,True
+CUST01134,Noah,Anderson,noah.anderson1134@email.com,San Diego,CA,USA,2020-11-27 22:29:00,True
+CUST01135,Joseph,Jones,joseph.jones1135@email.com,San Diego,CA,USA,2023-12-11 12:11:00,False
+CUST01136,Joseph,Smith,joseph.smith1136@email.com,Austin,TX,USA,2023-07-08 02:24:00,False
+CUST01137,Mary,Anderson,mary.anderson1137@email.com,Dallas,TX,USA,2022-05-22 08:44:00,True
+CUST01138,Noah,Williams,noah.williams1138@email.com,Denver,CO,USA,2023-06-24 10:47:00,True
+CUST01139,Noah,Thomas,noah.thomas1139@email.com,Dallas,TX,USA,2020-04-15 03:24:00,False
+CUST01140,Lisa,Johnson,lisa.johnson1140@email.com,San Diego,CA,USA,2022-01-18 11:11:00,True
+CUST01141,Olivia,Miller,olivia.miller1141@email.com,Dallas,TX,USA,2020-10-10 10:15:00,True
+CUST01142,Sarah,Miller,sarah.miller1142@email.com,Austin,TX,USA,2021-04-06 10:22:00,False
+CUST01143,Noah,White,noah.white1143@email.com,Dallas,TX,USA,2021-07-21 01:04:00,False
+CUST01144,Joseph,Martin,joseph.martin1144@email.com,Philadelphia,PA,USA,2022-10-23 16:53:00,True
+CUST01145,Olivia,Anderson,olivia.anderson1145@email.com,San Diego,CA,USA,2022-07-14 19:23:00,True
+CUST01146,Joseph,Williams,joseph.williams1146@email.com,Houston,TX,USA,2020-06-13 12:57:00,True
+CUST01147,John,Brown,john.brown1147@email.com,Phoenix,AZ,USA,2020-12-03 08:07:00,True
+CUST01148,Robert,Miller,robert.miller1148@email.com,San Diego,CA,USA,2022-12-02 20:01:00,False
+CUST01149,Noah,Jones,noah.jones1149@email.com,San Antonio,TX,USA,2022-08-28 11:26:00,False
+CUST01150,Emma,Smith,emma.smith1150@email.com,Seattle,WA,USA,2021-08-20 06:04:00,True
+CUST01151,Linda,Taylor,linda.taylor1151@email.com,Boston,MA,USA,2022-04-23 18:21:00,False
+CUST01152,Charles,Harris,charles.harris1152@email.com,San Diego,CA,USA,2022-07-26 09:36:00,True
+CUST01153,Barbara,Garcia,barbara.garcia1153@email.com,Nashville,TN,USA,2021-06-16 07:30:00,False
+CUST01154,Ava,Johnson,ava.johnson1154@email.com,Phoenix,AZ,USA,2020-10-30 11:18:00,False
+CUST01155,Lisa,Garcia,lisa.garcia1155@email.com,Chicago,IL,USA,2023-12-28 17:18:00,True
+CUST01156,Olivia,Jones,olivia.jones1156@email.com,Chicago,IL,USA,2020-11-26 07:07:00,True
+CUST01157,Charles,Jones,charles.jones1157@email.com,Philadelphia,PA,USA,2022-06-21 08:23:00,True
+CUST01158,Karen,Johnson,karen.johnson1158@email.com,Houston,TX,USA,2023-09-25 10:22:00,True
+CUST01159,Joseph,Garcia,joseph.garcia1159@email.com,Philadelphia,PA,USA,2022-12-28 09:07:00,True
+CUST01160,Sarah,Jones,sarah.jones1160@email.com,San Antonio,TX,USA,2022-07-27 10:09:00,True
+CUST01161,Karen,Taylor,karen.taylor1161@email.com,Seattle,WA,USA,2023-08-18 22:18:00,False
+CUST01162,Barbara,Jones,barbara.jones1162@email.com,Nashville,TN,USA,2023-03-03 23:58:00,False
+CUST01163,Olivia,Brown,olivia.brown1163@email.com,Philadelphia,PA,USA,2022-09-07 01:08:00,True
+CUST01164,James,Jackson,james.jackson1164@email.com,Phoenix,AZ,USA,2023-06-18 07:28:00,False
+CUST01165,David,Johnson,david.johnson1165@email.com,Los Angeles,CA,USA,2023-05-30 20:12:00,True
+CUST01166,Ava,Wilson,ava.wilson1166@email.com,Denver,CO,USA,2021-02-04 00:05:00,False
+CUST01167,Noah,Williams,noah.williams1167@email.com,Austin,TX,USA,2022-11-14 12:12:00,False
+CUST01168,Lisa,Johnson,lisa.johnson1168@email.com,Philadelphia,PA,USA,2023-09-27 11:25:00,True
+CUST01169,Jessica,Thomas,jessica.thomas1169@email.com,Seattle,WA,USA,2022-03-01 11:00:00,False
+CUST01170,Susan,Anderson,susan.anderson1170@email.com,Philadelphia,PA,USA,2022-07-01 17:05:00,True
+CUST01171,Joseph,White,joseph.white1171@email.com,Seattle,WA,USA,2022-06-25 09:10:00,False
+CUST01172,Jessica,Jones,jessica.jones1172@email.com,Seattle,WA,USA,2023-04-17 19:05:00,True
+CUST01173,Barbara,Martin,barbara.martin1173@email.com,Houston,TX,USA,2022-12-11 10:04:00,False
+CUST01174,James,White,james.white1174@email.com,Los Angeles,CA,USA,2023-08-01 08:26:00,True
+CUST01175,Joseph,Jones,joseph.jones1175@email.com,Dallas,TX,USA,2021-02-12 05:53:00,False
+CUST01176,Karen,Martin,karen.martin1176@email.com,Phoenix,AZ,USA,2020-03-27 09:53:00,False
+CUST01177,Karen,Harris,karen.harris1177@email.com,San Diego,CA,USA,2021-04-04 00:50:00,True
+CUST01178,William,Anderson,william.anderson1178@email.com,Chicago,IL,USA,2023-08-04 20:30:00,True
+CUST01179,Noah,Anderson,noah.anderson1179@email.com,Austin,TX,USA,2022-05-04 05:31:00,True
+CUST01180,Patricia,Wilson,patricia.wilson1180@email.com,New York,NY,USA,2022-10-06 02:38:00,False
+CUST01181,Sarah,White,sarah.white1181@email.com,San Jose,CA,USA,2021-06-12 20:43:00,False
+CUST01182,Patricia,Thomas,patricia.thomas1182@email.com,Seattle,WA,USA,2022-11-15 23:36:00,True
+CUST01183,William,Garcia,william.garcia1183@email.com,Boston,MA,USA,2023-04-06 01:09:00,False
+CUST01184,Olivia,Jones,olivia.jones1184@email.com,San Diego,CA,USA,2022-01-01 05:03:00,False
+CUST01185,Jessica,Thomas,jessica.thomas1185@email.com,Philadelphia,PA,USA,2020-04-09 09:18:00,True
+CUST01186,Michael,Garcia,michael.garcia1186@email.com,Dallas,TX,USA,2020-07-12 19:48:00,True
+CUST01187,David,Taylor,david.taylor1187@email.com,Dallas,TX,USA,2023-11-03 09:17:00,False
+CUST01188,Karen,Thomas,karen.thomas1188@email.com,Los Angeles,CA,USA,2020-10-21 00:08:00,False
+CUST01189,Ava,Martin,ava.martin1189@email.com,Philadelphia,PA,USA,2022-04-23 10:58:00,True
+CUST01190,Michael,Jones,michael.jones1190@email.com,Los Angeles,CA,USA,2022-10-27 07:53:00,True
+CUST01191,Karen,Brown,karen.brown1191@email.com,Denver,CO,USA,2022-05-04 14:58:00,True
+CUST01192,Robert,Smith,robert.smith1192@email.com,Los Angeles,CA,USA,2022-09-09 11:19:00,False
+CUST01193,Joseph,Taylor,joseph.taylor1193@email.com,Chicago,IL,USA,2020-12-18 22:19:00,True
+CUST01194,Patricia,Davis,patricia.davis1194@email.com,Seattle,WA,USA,2020-09-20 22:09:00,True
+CUST01195,Robert,Miller,robert.miller1195@email.com,Phoenix,AZ,USA,2020-09-23 02:27:00,True
+CUST01196,James,Martin,james.martin1196@email.com,Los Angeles,CA,USA,2022-06-02 01:12:00,True
+CUST01197,Noah,Johnson,noah.johnson1197@email.com,New York,NY,USA,2022-08-18 03:58:00,False
+CUST01198,John,Anderson,john.anderson1198@email.com,New York,NY,USA,2023-09-29 00:48:00,True
+CUST01199,Patricia,Miller,patricia.miller1199@email.com,Denver,CO,USA,2023-04-18 06:11:00,False
+CUST01200,John,Jones,john.jones1200@email.com,New York,NY,USA,2021-07-22 18:22:00,False
+CUST01201,Thomas,Davis,thomas.davis1201@email.com,Chicago,IL,USA,2022-10-31 18:04:00,True
+CUST01202,Charles,Smith,charles.smith1202@email.com,Boston,MA,USA,2022-12-19 06:45:00,True
+CUST01203,Jennifer,Smith,jennifer.smith1203@email.com,Phoenix,AZ,USA,2020-07-21 06:58:00,False
+CUST01204,Olivia,Garcia,olivia.garcia1204@email.com,Philadelphia,PA,USA,2022-06-19 21:06:00,True
+CUST01205,Susan,Jackson,susan.jackson1205@email.com,Boston,MA,USA,2022-05-18 06:32:00,True
+CUST01206,Patricia,Taylor,patricia.taylor1206@email.com,San Antonio,TX,USA,2020-09-10 14:07:00,True
+CUST01207,Ava,Thomas,ava.thomas1207@email.com,San Diego,CA,USA,2023-12-14 09:35:00,True
+CUST01208,David,Martin,david.martin1208@email.com,Los Angeles,CA,USA,2020-08-24 12:18:00,False
+CUST01209,Liam,Anderson,liam.anderson1209@email.com,San Jose,CA,USA,2023-11-08 14:14:00,False
+CUST01210,Jessica,Miller,jessica.miller1210@email.com,Phoenix,AZ,USA,2020-05-22 15:43:00,False
+CUST01211,James,Martin,james.martin1211@email.com,Chicago,IL,USA,2023-10-08 03:25:00,False
+CUST01212,Noah,Williams,noah.williams1212@email.com,Dallas,TX,USA,2020-09-01 04:25:00,False
+CUST01213,Charles,Brown,charles.brown1213@email.com,Seattle,WA,USA,2020-12-11 02:23:00,True
+CUST01214,Michael,Jackson,michael.jackson1214@email.com,Philadelphia,PA,USA,2020-09-08 07:53:00,False
+CUST01215,Sarah,Wilson,sarah.wilson1215@email.com,Seattle,WA,USA,2024-01-01 18:37:00,False
+CUST01216,Emma,Jackson,emma.jackson1216@email.com,Denver,CO,USA,2021-12-30 15:42:00,False
+CUST01217,Thomas,Wilson,thomas.wilson1217@email.com,San Diego,CA,USA,2020-10-28 14:06:00,True
+CUST01218,Sarah,Martin,sarah.martin1218@email.com,Phoenix,AZ,USA,2021-04-17 20:08:00,True
+CUST01219,Liam,Johnson,liam.johnson1219@email.com,Los Angeles,CA,USA,2020-05-19 15:43:00,True
+CUST01220,Richard,Taylor,richard.taylor1220@email.com,Chicago,IL,USA,2020-11-08 09:39:00,True
+CUST01221,John,Martin,john.martin1221@email.com,Denver,CO,USA,2022-08-12 06:18:00,False
+CUST01222,Thomas,Wilson,thomas.wilson1222@email.com,San Diego,CA,USA,2023-01-15 10:51:00,True
+CUST01223,Mary,White,mary.white1223@email.com,Denver,CO,USA,2020-08-31 12:28:00,False
+CUST01224,Richard,Harris,richard.harris1224@email.com,Boston,MA,USA,2022-07-30 01:02:00,True
+CUST01225,Noah,Anderson,noah.anderson1225@email.com,Dallas,TX,USA,2023-12-17 05:31:00,False
+CUST01226,Barbara,Jackson,barbara.jackson1226@email.com,Chicago,IL,USA,2022-09-25 03:36:00,False
+CUST01227,Karen,Martin,karen.martin1227@email.com,Austin,TX,USA,2022-09-01 17:54:00,True
+CUST01228,Mary,Jackson,mary.jackson1228@email.com,Dallas,TX,USA,2021-06-23 15:37:00,False
+CUST01229,Noah,Thomas,noah.thomas1229@email.com,San Jose,CA,USA,2021-08-05 10:03:00,True
+CUST01230,Mary,Jones,mary.jones1230@email.com,San Jose,CA,USA,2022-01-20 11:51:00,True
+CUST01231,Emma,Taylor,emma.taylor1231@email.com,Denver,CO,USA,2022-02-18 03:27:00,False
+CUST01232,Jessica,Thomas,jessica.thomas1232@email.com,Philadelphia,PA,USA,2020-04-25 21:15:00,True
+CUST01233,Emma,Anderson,emma.anderson1233@email.com,Houston,TX,USA,2023-04-28 02:58:00,True
+CUST01234,Barbara,Brown,barbara.brown1234@email.com,Boston,MA,USA,2021-11-22 05:01:00,False
+CUST01235,Joseph,White,joseph.white1235@email.com,New York,NY,USA,2023-03-09 16:57:00,False
+CUST01236,James,Martin,james.martin1236@email.com,Phoenix,AZ,USA,2023-04-19 00:20:00,False
+CUST01237,Richard,Taylor,richard.taylor1237@email.com,San Jose,CA,USA,2023-03-18 03:51:00,False
+CUST01238,Olivia,Miller,olivia.miller1238@email.com,Los Angeles,CA,USA,2021-11-19 15:32:00,False
+CUST01239,Lisa,Anderson,lisa.anderson1239@email.com,Chicago,IL,USA,2022-01-14 13:12:00,False
+CUST01240,John,Miller,john.miller1240@email.com,Austin,TX,USA,2021-08-11 08:03:00,False
+CUST01241,Richard,Davis,richard.davis1241@email.com,San Jose,CA,USA,2023-07-03 23:05:00,True
+CUST01242,David,Wilson,david.wilson1242@email.com,San Jose,CA,USA,2020-05-17 18:51:00,False
+CUST01243,Michael,Thomas,michael.thomas1243@email.com,San Antonio,TX,USA,2020-06-06 20:52:00,False
+CUST01244,Barbara,White,barbara.white1244@email.com,Dallas,TX,USA,2023-09-20 17:20:00,True
+CUST01245,Richard,Wilson,richard.wilson1245@email.com,San Antonio,TX,USA,2023-07-03 16:29:00,True
+CUST01246,James,Garcia,james.garcia1246@email.com,Nashville,TN,USA,2023-03-27 15:13:00,False
+CUST01247,Emma,White,emma.white1247@email.com,Phoenix,AZ,USA,2023-03-05 23:40:00,True
+CUST01248,Michael,Thomas,michael.thomas1248@email.com,Dallas,TX,USA,2022-08-05 04:15:00,True
+CUST01249,Noah,Anderson,noah.anderson1249@email.com,Seattle,WA,USA,2022-06-10 13:20:00,True
+CUST01250,Michael,White,michael.white1250@email.com,Austin,TX,USA,2021-06-30 09:41:00,True
+CUST01251,Noah,Davis,noah.davis1251@email.com,Phoenix,AZ,USA,2022-04-11 07:07:00,True
+CUST01252,James,Davis,james.davis1252@email.com,Houston,TX,USA,2021-09-27 14:31:00,False
+CUST01253,Emma,Johnson,emma.johnson1253@email.com,San Antonio,TX,USA,2021-02-17 05:17:00,True
+CUST01254,William,Wilson,william.wilson1254@email.com,New York,NY,USA,2023-09-10 17:11:00,True
+CUST01255,Sarah,Smith,sarah.smith1255@email.com,Seattle,WA,USA,2020-04-23 02:20:00,False
+CUST01256,John,White,john.white1256@email.com,Boston,MA,USA,2022-01-14 21:42:00,True
+CUST01257,Liam,Jones,liam.jones1257@email.com,San Antonio,TX,USA,2021-04-28 03:36:00,True
+CUST01258,Noah,Wilson,noah.wilson1258@email.com,Dallas,TX,USA,2022-10-13 02:15:00,True
+CUST01259,David,Taylor,david.taylor1259@email.com,Denver,CO,USA,2023-04-11 23:24:00,True
+CUST01260,Jessica,Miller,jessica.miller1260@email.com,Nashville,TN,USA,2020-10-22 03:11:00,True
+CUST01261,Joseph,White,joseph.white1261@email.com,Phoenix,AZ,USA,2021-06-04 18:03:00,False
+CUST01262,Susan,Brown,susan.brown1262@email.com,Dallas,TX,USA,2021-10-10 17:27:00,False
+CUST01263,Linda,Wilson,linda.wilson1263@email.com,Austin,TX,USA,2020-10-23 11:30:00,False
+CUST01264,Barbara,Smith,barbara.smith1264@email.com,Boston,MA,USA,2023-08-14 19:02:00,True
+CUST01265,Noah,Davis,noah.davis1265@email.com,Seattle,WA,USA,2021-06-02 17:24:00,False
+CUST01266,Olivia,Thomas,olivia.thomas1266@email.com,Austin,TX,USA,2023-11-04 03:34:00,True
+CUST01267,Joseph,Jackson,joseph.jackson1267@email.com,Boston,MA,USA,2020-01-17 12:59:00,False
+CUST01268,John,Davis,john.davis1268@email.com,Phoenix,AZ,USA,2021-09-01 06:55:00,True
+CUST01269,Joseph,Taylor,joseph.taylor1269@email.com,Nashville,TN,USA,2023-08-12 13:50:00,True
+CUST01270,John,Martin,john.martin1270@email.com,Phoenix,AZ,USA,2022-08-22 23:26:00,False
+CUST01271,Jessica,Brown,jessica.brown1271@email.com,Seattle,WA,USA,2020-11-24 22:16:00,True
+CUST01272,Jessica,Taylor,jessica.taylor1272@email.com,Philadelphia,PA,USA,2022-07-17 22:01:00,True
+CUST01273,Emma,Garcia,emma.garcia1273@email.com,Austin,TX,USA,2023-07-14 14:50:00,True
+CUST01274,Richard,Miller,richard.miller1274@email.com,New York,NY,USA,2023-07-10 09:20:00,True
+CUST01275,Jennifer,Davis,jennifer.davis1275@email.com,Los Angeles,CA,USA,2022-11-23 22:49:00,True
+CUST01276,Lisa,White,lisa.white1276@email.com,Boston,MA,USA,2021-10-16 14:30:00,True
+CUST01277,Jennifer,Taylor,jennifer.taylor1277@email.com,Phoenix,AZ,USA,2021-07-31 06:05:00,False
+CUST01278,Jennifer,Jackson,jennifer.jackson1278@email.com,Philadelphia,PA,USA,2022-02-11 18:14:00,True
+CUST01279,Karen,Davis,karen.davis1279@email.com,New York,NY,USA,2020-07-01 14:12:00,False
+CUST01280,Jennifer,Johnson,jennifer.johnson1280@email.com,Seattle,WA,USA,2022-04-01 19:27:00,False
+CUST01281,John,Thomas,john.thomas1281@email.com,Chicago,IL,USA,2020-12-14 18:07:00,True
+CUST01282,Thomas,White,thomas.white1282@email.com,Seattle,WA,USA,2022-07-18 21:31:00,True
+CUST01283,Olivia,Miller,olivia.miller1283@email.com,Houston,TX,USA,2021-01-25 08:18:00,False
+CUST01284,Robert,White,robert.white1284@email.com,San Antonio,TX,USA,2021-02-27 19:13:00,False
+CUST01285,Noah,Miller,noah.miller1285@email.com,Seattle,WA,USA,2022-05-06 05:26:00,True
+CUST01286,Barbara,Wilson,barbara.wilson1286@email.com,New York,NY,USA,2021-04-27 19:28:00,True
+CUST01287,Charles,Harris,charles.harris1287@email.com,Philadelphia,PA,USA,2020-06-24 00:30:00,True
+CUST01288,David,Jackson,david.jackson1288@email.com,Boston,MA,USA,2023-11-07 06:45:00,False
+CUST01289,Jessica,Wilson,jessica.wilson1289@email.com,Seattle,WA,USA,2020-05-29 03:35:00,True
+CUST01290,David,Davis,david.davis1290@email.com,New York,NY,USA,2022-08-22 11:38:00,True
+CUST01291,William,Jackson,william.jackson1291@email.com,New York,NY,USA,2021-09-11 12:42:00,False
+CUST01292,Karen,Johnson,karen.johnson1292@email.com,Chicago,IL,USA,2023-04-03 05:16:00,True
+CUST01293,Sarah,Taylor,sarah.taylor1293@email.com,Dallas,TX,USA,2022-08-16 04:05:00,False
+CUST01294,Thomas,White,thomas.white1294@email.com,Seattle,WA,USA,2020-10-17 08:07:00,False
+CUST01295,Robert,Martin,robert.martin1295@email.com,New York,NY,USA,2021-07-29 23:23:00,False
+CUST01296,William,Wilson,william.wilson1296@email.com,Phoenix,AZ,USA,2022-11-24 10:27:00,True
+CUST01297,Liam,Martin,liam.martin1297@email.com,Philadelphia,PA,USA,2020-11-05 17:54:00,False
+CUST01298,Michael,Jones,michael.jones1298@email.com,New York,NY,USA,2020-04-21 07:11:00,True
+CUST01299,William,Garcia,william.garcia1299@email.com,San Diego,CA,USA,2023-12-16 14:27:00,True
+CUST01300,Sarah,Johnson,sarah.johnson1300@email.com,Nashville,TN,USA,2022-06-23 11:45:00,False
+CUST01301,Sarah,Brown,sarah.brown1301@email.com,San Diego,CA,USA,2020-10-30 03:22:00,True
+CUST01302,Barbara,Garcia,barbara.garcia1302@email.com,Houston,TX,USA,2020-12-10 23:32:00,False
+CUST01303,Noah,Miller,noah.miller1303@email.com,San Jose,CA,USA,2023-04-10 00:33:00,True
+CUST01304,John,Davis,john.davis1304@email.com,San Antonio,TX,USA,2022-10-17 21:06:00,False
+CUST01305,Barbara,Brown,barbara.brown1305@email.com,New York,NY,USA,2022-03-18 11:37:00,True
+CUST01306,David,Jones,david.jones1306@email.com,Boston,MA,USA,2020-02-29 02:29:00,False
+CUST01307,Emma,Wilson,emma.wilson1307@email.com,San Diego,CA,USA,2023-05-01 21:00:00,False
+CUST01308,Emma,Harris,emma.harris1308@email.com,New York,NY,USA,2021-10-27 23:46:00,True
+CUST01309,Mary,Anderson,mary.anderson1309@email.com,Houston,TX,USA,2021-10-23 01:47:00,True
+CUST01310,Lisa,Jackson,lisa.jackson1310@email.com,Dallas,TX,USA,2020-07-08 12:16:00,True
+CUST01311,Ava,Jackson,ava.jackson1311@email.com,Houston,TX,USA,2020-07-01 00:54:00,True
+CUST01312,Richard,Jackson,richard.jackson1312@email.com,Chicago,IL,USA,2021-08-06 20:48:00,True
+CUST01313,Barbara,Martin,barbara.martin1313@email.com,Los Angeles,CA,USA,2022-06-04 23:51:00,False
+CUST01314,Noah,Jones,noah.jones1314@email.com,Nashville,TN,USA,2022-01-05 21:06:00,False
+CUST01315,Michael,Martin,michael.martin1315@email.com,Dallas,TX,USA,2022-07-01 12:30:00,False
+CUST01316,Lisa,White,lisa.white1316@email.com,San Jose,CA,USA,2020-07-03 13:51:00,False
+CUST01317,Jennifer,White,jennifer.white1317@email.com,San Jose,CA,USA,2023-07-15 13:05:00,True
+CUST01318,David,Harris,david.harris1318@email.com,Dallas,TX,USA,2023-10-17 07:41:00,True
+CUST01319,Sarah,Williams,sarah.williams1319@email.com,Nashville,TN,USA,2021-08-18 14:27:00,True
+CUST01320,Sarah,Anderson,sarah.anderson1320@email.com,Nashville,TN,USA,2020-10-31 04:43:00,False
+CUST01321,Linda,White,linda.white1321@email.com,Boston,MA,USA,2021-08-28 18:03:00,True
+CUST01322,Mary,Brown,mary.brown1322@email.com,Nashville,TN,USA,2022-11-11 13:26:00,True
+CUST01323,Noah,Wilson,noah.wilson1323@email.com,San Diego,CA,USA,2021-12-28 08:37:00,True
+CUST01324,Thomas,Smith,thomas.smith1324@email.com,Denver,CO,USA,2020-08-21 23:42:00,False
+CUST01325,Jennifer,Jackson,jennifer.jackson1325@email.com,Chicago,IL,USA,2020-04-02 02:26:00,False
+CUST01326,Charles,Harris,charles.harris1326@email.com,Philadelphia,PA,USA,2023-10-04 14:39:00,False
+CUST01327,Jennifer,Miller,jennifer.miller1327@email.com,Philadelphia,PA,USA,2021-01-14 02:47:00,False
+CUST01328,Noah,Brown,noah.brown1328@email.com,Boston,MA,USA,2022-06-07 17:01:00,True
+CUST01329,Patricia,Smith,patricia.smith1329@email.com,San Antonio,TX,USA,2020-12-17 20:30:00,False
+CUST01330,Richard,Martin,richard.martin1330@email.com,Seattle,WA,USA,2021-09-12 19:52:00,False
+CUST01331,Noah,Jackson,noah.jackson1331@email.com,Seattle,WA,USA,2021-09-11 02:08:00,True
+CUST01332,Michael,Brown,michael.brown1332@email.com,New York,NY,USA,2020-02-02 22:12:00,True
+CUST01333,Sarah,Jones,sarah.jones1333@email.com,Houston,TX,USA,2023-08-23 07:27:00,True
+CUST01334,Barbara,Harris,barbara.harris1334@email.com,Los Angeles,CA,USA,2020-10-30 15:27:00,True
+CUST01335,Jennifer,Jones,jennifer.jones1335@email.com,Los Angeles,CA,USA,2023-12-09 14:31:00,False
+CUST01336,Joseph,Davis,joseph.davis1336@email.com,New York,NY,USA,2021-02-16 09:36:00,False
+CUST01337,David,Smith,david.smith1337@email.com,New York,NY,USA,2020-07-29 20:54:00,False
+CUST01338,Sarah,Anderson,sarah.anderson1338@email.com,San Antonio,TX,USA,2020-03-16 15:25:00,False
+CUST01339,Charles,Martin,charles.martin1339@email.com,Dallas,TX,USA,2021-04-19 22:03:00,True
+CUST01340,Charles,Taylor,charles.taylor1340@email.com,San Antonio,TX,USA,2023-02-07 02:17:00,False
+CUST01341,Sarah,Brown,sarah.brown1341@email.com,Nashville,TN,USA,2022-10-10 19:41:00,False
+CUST01342,Olivia,White,olivia.white1342@email.com,San Diego,CA,USA,2020-02-12 05:18:00,True
+CUST01343,Susan,Harris,susan.harris1343@email.com,San Diego,CA,USA,2021-04-20 16:14:00,False
+CUST01344,Lisa,Harris,lisa.harris1344@email.com,Nashville,TN,USA,2020-09-25 09:46:00,False
+CUST01345,Noah,Thomas,noah.thomas1345@email.com,San Antonio,TX,USA,2022-08-25 05:39:00,True
+CUST01346,Olivia,Williams,olivia.williams1346@email.com,Phoenix,AZ,USA,2023-09-28 15:08:00,True
+CUST01347,Jennifer,Martin,jennifer.martin1347@email.com,Houston,TX,USA,2020-07-25 13:31:00,False
+CUST01348,Michael,Johnson,michael.johnson1348@email.com,Houston,TX,USA,2020-02-07 11:56:00,False
+CUST01349,Noah,Garcia,noah.garcia1349@email.com,Philadelphia,PA,USA,2020-12-23 16:02:00,True
+CUST01350,Jessica,Brown,jessica.brown1350@email.com,Philadelphia,PA,USA,2023-06-18 07:07:00,True
+CUST01351,William,Taylor,william.taylor1351@email.com,San Diego,CA,USA,2021-12-28 01:49:00,False
+CUST01352,Robert,Brown,robert.brown1352@email.com,Nashville,TN,USA,2023-12-17 01:59:00,False
+CUST01353,Joseph,Brown,joseph.brown1353@email.com,Denver,CO,USA,2020-08-04 19:39:00,True
+CUST01354,Karen,Johnson,karen.johnson1354@email.com,Boston,MA,USA,2022-11-04 03:10:00,True
+CUST01355,Michael,Thomas,michael.thomas1355@email.com,Boston,MA,USA,2020-11-17 23:18:00,False
+CUST01356,Thomas,Martin,thomas.martin1356@email.com,Denver,CO,USA,2020-07-22 04:41:00,False
+CUST01357,Robert,Brown,robert.brown1357@email.com,Philadelphia,PA,USA,2021-02-17 14:26:00,True
+CUST01358,Sarah,Taylor,sarah.taylor1358@email.com,Houston,TX,USA,2021-08-10 16:10:00,True
+CUST01359,Susan,White,susan.white1359@email.com,Phoenix,AZ,USA,2022-01-08 20:42:00,True
+CUST01360,Ava,White,ava.white1360@email.com,Chicago,IL,USA,2021-04-12 04:51:00,False
+CUST01361,Jessica,Harris,jessica.harris1361@email.com,San Antonio,TX,USA,2022-11-23 21:23:00,True
+CUST01362,Robert,Smith,robert.smith1362@email.com,San Diego,CA,USA,2022-11-25 02:05:00,False
+CUST01363,Richard,Garcia,richard.garcia1363@email.com,Philadelphia,PA,USA,2022-06-07 01:25:00,True
+CUST01364,Emma,Jones,emma.jones1364@email.com,Austin,TX,USA,2023-03-22 01:40:00,False
+CUST01365,Richard,Anderson,richard.anderson1365@email.com,San Antonio,TX,USA,2021-10-04 11:00:00,False
+CUST01366,Thomas,Jones,thomas.jones1366@email.com,Nashville,TN,USA,2023-12-05 12:28:00,True
+CUST01367,Karen,Harris,karen.harris1367@email.com,Nashville,TN,USA,2023-11-29 11:56:00,False
+CUST01368,Michael,Anderson,michael.anderson1368@email.com,Denver,CO,USA,2020-06-21 01:34:00,False
+CUST01369,Liam,Jones,liam.jones1369@email.com,San Antonio,TX,USA,2022-12-01 17:18:00,True
+CUST01370,Thomas,Anderson,thomas.anderson1370@email.com,Los Angeles,CA,USA,2022-12-03 10:48:00,True
+CUST01371,James,Wilson,james.wilson1371@email.com,New York,NY,USA,2021-05-09 09:46:00,False
+CUST01372,Patricia,Johnson,patricia.johnson1372@email.com,Dallas,TX,USA,2022-02-02 08:40:00,False
+CUST01373,Mary,Brown,mary.brown1373@email.com,Los Angeles,CA,USA,2022-07-08 09:36:00,True
+CUST01374,David,Davis,david.davis1374@email.com,San Diego,CA,USA,2023-04-06 18:45:00,True
+CUST01375,Barbara,Anderson,barbara.anderson1375@email.com,Philadelphia,PA,USA,2023-09-27 22:36:00,True
+CUST01376,Richard,Davis,richard.davis1376@email.com,Seattle,WA,USA,2020-08-03 10:33:00,True
+CUST01377,Ava,Thomas,ava.thomas1377@email.com,Boston,MA,USA,2022-07-19 03:09:00,False
+CUST01378,Jessica,Williams,jessica.williams1378@email.com,Boston,MA,USA,2020-07-07 01:27:00,True
+CUST01379,Michael,Harris,michael.harris1379@email.com,San Diego,CA,USA,2020-06-08 11:43:00,False
+CUST01380,Karen,Jackson,karen.jackson1380@email.com,San Jose,CA,USA,2021-06-24 18:31:00,False
+CUST01381,Olivia,Martin,olivia.martin1381@email.com,San Diego,CA,USA,2022-05-03 05:09:00,True
+CUST01382,Olivia,Harris,olivia.harris1382@email.com,San Diego,CA,USA,2020-09-21 22:32:00,True
+CUST01383,Michael,Harris,michael.harris1383@email.com,Seattle,WA,USA,2022-08-27 01:47:00,True
+CUST01384,Susan,Brown,susan.brown1384@email.com,Dallas,TX,USA,2023-05-17 13:07:00,True
+CUST01385,Charles,Anderson,charles.anderson1385@email.com,Philadelphia,PA,USA,2020-03-23 16:09:00,True
+CUST01386,Barbara,Thomas,barbara.thomas1386@email.com,Philadelphia,PA,USA,2021-09-13 09:31:00,True
+CUST01387,Robert,Jones,robert.jones1387@email.com,Denver,CO,USA,2023-04-22 13:03:00,False
+CUST01388,Barbara,Miller,barbara.miller1388@email.com,Nashville,TN,USA,2021-01-09 23:31:00,True
+CUST01389,Karen,Thomas,karen.thomas1389@email.com,Los Angeles,CA,USA,2020-05-18 01:26:00,False
+CUST01390,Barbara,Harris,barbara.harris1390@email.com,San Jose,CA,USA,2021-11-22 12:30:00,True
+CUST01391,Robert,Harris,robert.harris1391@email.com,Denver,CO,USA,2022-07-10 21:28:00,True
+CUST01392,Liam,Taylor,liam.taylor1392@email.com,Boston,MA,USA,2020-07-01 19:42:00,False
+CUST01393,Linda,Jackson,linda.jackson1393@email.com,San Antonio,TX,USA,2021-11-25 17:02:00,False
+CUST01394,William,Williams,william.williams1394@email.com,Seattle,WA,USA,2020-12-05 22:01:00,False
+CUST01395,Emma,Brown,emma.brown1395@email.com,Dallas,TX,USA,2023-08-11 17:05:00,True
+CUST01396,Karen,Johnson,karen.johnson1396@email.com,San Jose,CA,USA,2023-03-13 16:12:00,False
+CUST01397,James,Brown,james.brown1397@email.com,Dallas,TX,USA,2023-09-10 17:11:00,True
+CUST01398,Michael,Davis,michael.davis1398@email.com,Phoenix,AZ,USA,2023-12-16 18:28:00,True
+CUST01399,Karen,Taylor,karen.taylor1399@email.com,Denver,CO,USA,2022-04-02 18:02:00,False
+CUST01400,James,Taylor,james.taylor1400@email.com,Boston,MA,USA,2022-06-14 05:26:00,True
+CUST01401,Thomas,Taylor,thomas.taylor1401@email.com,Boston,MA,USA,2022-02-21 08:05:00,True
+CUST01402,Karen,Garcia,karen.garcia1402@email.com,Los Angeles,CA,USA,2021-08-07 04:11:00,False
+CUST01403,John,Jones,john.jones1403@email.com,Denver,CO,USA,2021-09-20 13:43:00,True
+CUST01404,Lisa,Taylor,lisa.taylor1404@email.com,New York,NY,USA,2021-01-06 00:45:00,True
+CUST01405,Richard,Brown,richard.brown1405@email.com,Phoenix,AZ,USA,2021-10-17 04:26:00,False
+CUST01406,Richard,Brown,richard.brown1406@email.com,Phoenix,AZ,USA,2020-04-16 06:15:00,True
+CUST01407,Thomas,Jackson,thomas.jackson1407@email.com,San Diego,CA,USA,2020-08-23 08:03:00,False
+CUST01408,Karen,White,karen.white1408@email.com,San Diego,CA,USA,2020-05-14 15:01:00,False
+CUST01409,Linda,Smith,linda.smith1409@email.com,Austin,TX,USA,2021-07-05 17:37:00,True
+CUST01410,Ava,Jones,ava.jones1410@email.com,Houston,TX,USA,2021-09-15 18:26:00,False
+CUST01411,Emma,Miller,emma.miller1411@email.com,Los Angeles,CA,USA,2020-10-18 11:34:00,True
+CUST01412,Linda,White,linda.white1412@email.com,Denver,CO,USA,2023-02-10 14:02:00,True
+CUST01413,Joseph,Anderson,joseph.anderson1413@email.com,Boston,MA,USA,2023-08-30 05:00:00,True
+CUST01414,Sarah,Wilson,sarah.wilson1414@email.com,Nashville,TN,USA,2023-05-09 08:53:00,False
+CUST01415,Emma,Miller,emma.miller1415@email.com,Philadelphia,PA,USA,2023-04-13 16:18:00,True
+CUST01416,Liam,Williams,liam.williams1416@email.com,Chicago,IL,USA,2021-09-07 02:25:00,True
+CUST01417,Robert,Wilson,robert.wilson1417@email.com,Boston,MA,USA,2022-06-03 06:39:00,False
+CUST01418,Noah,Taylor,noah.taylor1418@email.com,Nashville,TN,USA,2023-07-24 08:48:00,False
+CUST01419,Linda,Taylor,linda.taylor1419@email.com,Phoenix,AZ,USA,2021-11-30 06:29:00,False
+CUST01420,Olivia,Jones,olivia.jones1420@email.com,New York,NY,USA,2023-08-16 00:38:00,False
+CUST01421,James,Garcia,james.garcia1421@email.com,New York,NY,USA,2022-04-26 17:57:00,False
+CUST01422,Richard,Williams,richard.williams1422@email.com,Denver,CO,USA,2023-08-22 20:04:00,True
+CUST01423,Noah,Harris,noah.harris1423@email.com,Nashville,TN,USA,2023-10-08 03:22:00,False
+CUST01424,Lisa,Thomas,lisa.thomas1424@email.com,Boston,MA,USA,2022-03-03 05:53:00,True
+CUST01425,Joseph,Thomas,joseph.thomas1425@email.com,Los Angeles,CA,USA,2021-01-30 14:00:00,True
+CUST01426,James,Wilson,james.wilson1426@email.com,Seattle,WA,USA,2023-10-25 22:22:00,True
+CUST01427,Lisa,Anderson,lisa.anderson1427@email.com,Los Angeles,CA,USA,2021-03-28 07:31:00,False
+CUST01428,William,Martin,william.martin1428@email.com,New York,NY,USA,2023-12-12 22:38:00,True
+CUST01429,Michael,Jackson,michael.jackson1429@email.com,New York,NY,USA,2020-08-15 08:36:00,False
+CUST01430,Karen,Miller,karen.miller1430@email.com,Chicago,IL,USA,2023-09-13 23:36:00,True
+CUST01431,Charles,Jones,charles.jones1431@email.com,Los Angeles,CA,USA,2020-05-13 04:16:00,True
+CUST01432,Thomas,Wilson,thomas.wilson1432@email.com,Nashville,TN,USA,2021-01-27 21:01:00,False
+CUST01433,Karen,Harris,karen.harris1433@email.com,Austin,TX,USA,2020-01-05 13:41:00,True
+CUST01434,David,White,david.white1434@email.com,Boston,MA,USA,2022-04-13 08:07:00,False
+CUST01435,Susan,Johnson,susan.johnson1435@email.com,San Diego,CA,USA,2021-04-04 01:17:00,False
+CUST01436,Joseph,Taylor,joseph.taylor1436@email.com,Dallas,TX,USA,2020-01-11 12:12:00,False
+CUST01437,Charles,Smith,charles.smith1437@email.com,Los Angeles,CA,USA,2021-04-07 22:27:00,True
+CUST01438,Linda,Miller,linda.miller1438@email.com,Nashville,TN,USA,2020-12-02 10:19:00,True
+CUST01439,Emma,Brown,emma.brown1439@email.com,Austin,TX,USA,2020-02-27 15:27:00,True
+CUST01440,Emma,Taylor,emma.taylor1440@email.com,San Jose,CA,USA,2021-05-27 07:06:00,False
+CUST01441,David,Johnson,david.johnson1441@email.com,Houston,TX,USA,2021-11-14 16:50:00,True
+CUST01442,Ava,Harris,ava.harris1442@email.com,Los Angeles,CA,USA,2020-07-14 20:28:00,True
+CUST01443,Mary,Johnson,mary.johnson1443@email.com,Los Angeles,CA,USA,2022-02-11 10:56:00,True
+CUST01444,Robert,Johnson,robert.johnson1444@email.com,Denver,CO,USA,2022-06-24 01:19:00,False
+CUST01445,Patricia,Johnson,patricia.johnson1445@email.com,Los Angeles,CA,USA,2023-02-19 01:18:00,False
+CUST01446,Patricia,White,patricia.white1446@email.com,San Antonio,TX,USA,2021-04-22 19:50:00,True
+CUST01447,Richard,Harris,richard.harris1447@email.com,San Diego,CA,USA,2022-05-26 19:39:00,True
+CUST01448,Emma,Smith,emma.smith1448@email.com,Philadelphia,PA,USA,2022-07-18 16:21:00,True
+CUST01449,Patricia,Smith,patricia.smith1449@email.com,Los Angeles,CA,USA,2023-05-03 22:04:00,True
+CUST01450,Charles,Jones,charles.jones1450@email.com,Nashville,TN,USA,2023-07-29 16:16:00,False
+CUST01451,Sarah,Harris,sarah.harris1451@email.com,San Antonio,TX,USA,2021-01-15 07:08:00,True
+CUST01452,Robert,Anderson,robert.anderson1452@email.com,New York,NY,USA,2023-04-12 13:32:00,False
+CUST01453,Charles,Jones,charles.jones1453@email.com,Phoenix,AZ,USA,2020-10-28 15:19:00,False
+CUST01454,Susan,Smith,susan.smith1454@email.com,Phoenix,AZ,USA,2022-11-26 18:42:00,True
+CUST01455,Linda,Johnson,linda.johnson1455@email.com,New York,NY,USA,2022-05-14 11:12:00,True
+CUST01456,Michael,Williams,michael.williams1456@email.com,Austin,TX,USA,2021-11-30 06:42:00,False
+CUST01457,Olivia,Harris,olivia.harris1457@email.com,Seattle,WA,USA,2023-05-13 22:21:00,False
+CUST01458,Barbara,White,barbara.white1458@email.com,San Jose,CA,USA,2021-11-04 05:06:00,False
+CUST01459,Mary,Martin,mary.martin1459@email.com,Nashville,TN,USA,2021-03-25 00:40:00,True
+CUST01460,Linda,Harris,linda.harris1460@email.com,Seattle,WA,USA,2023-07-01 06:15:00,False
+CUST01461,Ava,Taylor,ava.taylor1461@email.com,Seattle,WA,USA,2022-02-08 06:25:00,True
+CUST01462,James,Thomas,james.thomas1462@email.com,Boston,MA,USA,2020-01-21 02:22:00,True
+CUST01463,Patricia,Jones,patricia.jones1463@email.com,Dallas,TX,USA,2021-08-18 14:12:00,False
+CUST01464,James,Miller,james.miller1464@email.com,New York,NY,USA,2021-02-09 09:11:00,True
+CUST01465,William,Garcia,william.garcia1465@email.com,Nashville,TN,USA,2021-11-26 17:15:00,True
+CUST01466,James,Garcia,james.garcia1466@email.com,Houston,TX,USA,2021-06-20 03:01:00,True
+CUST01467,Emma,Brown,emma.brown1467@email.com,San Antonio,TX,USA,2021-11-24 06:19:00,False
+CUST01468,Susan,Thomas,susan.thomas1468@email.com,Houston,TX,USA,2023-09-15 05:33:00,False
+CUST01469,Olivia,Williams,olivia.williams1469@email.com,Nashville,TN,USA,2020-08-30 04:56:00,True
+CUST01470,Michael,Miller,michael.miller1470@email.com,Denver,CO,USA,2022-12-26 12:44:00,False
+CUST01471,Lisa,White,lisa.white1471@email.com,Philadelphia,PA,USA,2023-07-26 07:58:00,True
+CUST01472,Lisa,Miller,lisa.miller1472@email.com,Denver,CO,USA,2023-01-01 09:50:00,True
+CUST01473,Linda,Johnson,linda.johnson1473@email.com,Philadelphia,PA,USA,2023-07-13 08:55:00,True
+CUST01474,Thomas,Martin,thomas.martin1474@email.com,Boston,MA,USA,2021-03-04 23:05:00,False
+CUST01475,Noah,Williams,noah.williams1475@email.com,Denver,CO,USA,2020-12-08 16:24:00,False
+CUST01476,Thomas,Harris,thomas.harris1476@email.com,San Diego,CA,USA,2021-01-01 10:45:00,False
+CUST01477,Olivia,Martin,olivia.martin1477@email.com,Dallas,TX,USA,2022-10-10 15:17:00,False
+CUST01478,Charles,Johnson,charles.johnson1478@email.com,Austin,TX,USA,2021-02-28 07:57:00,True
+CUST01479,Linda,Jackson,linda.jackson1479@email.com,San Diego,CA,USA,2021-03-23 09:27:00,False
+CUST01480,Jennifer,Thomas,jennifer.thomas1480@email.com,San Jose,CA,USA,2021-06-05 17:05:00,True
+CUST01481,John,Anderson,john.anderson1481@email.com,Denver,CO,USA,2022-06-29 16:22:00,True
+CUST01482,Mary,Harris,mary.harris1482@email.com,San Jose,CA,USA,2022-11-15 19:21:00,False
+CUST01483,Joseph,White,joseph.white1483@email.com,San Diego,CA,USA,2022-04-17 11:51:00,False
+CUST01484,William,Jackson,william.jackson1484@email.com,Philadelphia,PA,USA,2020-02-20 05:28:00,True
+CUST01485,Emma,Williams,emma.williams1485@email.com,Phoenix,AZ,USA,2022-01-05 02:18:00,True
+CUST01486,William,Davis,william.davis1486@email.com,Denver,CO,USA,2020-07-20 03:04:00,False
+CUST01487,Karen,Miller,karen.miller1487@email.com,New York,NY,USA,2021-11-14 06:43:00,False
+CUST01488,Barbara,Wilson,barbara.wilson1488@email.com,Phoenix,AZ,USA,2021-01-25 22:38:00,True
+CUST01489,Ava,Wilson,ava.wilson1489@email.com,Boston,MA,USA,2020-01-18 09:18:00,False
+CUST01490,Richard,Jackson,richard.jackson1490@email.com,Denver,CO,USA,2023-04-02 20:00:00,False
+CUST01491,Thomas,Jones,thomas.jones1491@email.com,Austin,TX,USA,2022-03-25 07:14:00,True
+CUST01492,Linda,Harris,linda.harris1492@email.com,San Diego,CA,USA,2022-08-02 10:50:00,True
+CUST01493,Michael,White,michael.white1493@email.com,Philadelphia,PA,USA,2023-11-30 13:13:00,False
+CUST01494,Karen,Smith,karen.smith1494@email.com,San Diego,CA,USA,2022-02-06 04:36:00,True
+CUST01495,Liam,Smith,liam.smith1495@email.com,Phoenix,AZ,USA,2022-10-20 21:53:00,False
+CUST01496,Linda,White,linda.white1496@email.com,Philadelphia,PA,USA,2022-05-21 21:48:00,False
+CUST01497,Ava,Anderson,ava.anderson1497@email.com,Denver,CO,USA,2021-10-29 18:01:00,True
+CUST01498,Robert,Jones,robert.jones1498@email.com,Nashville,TN,USA,2021-11-07 18:40:00,False
+CUST01499,Michael,Jackson,michael.jackson1499@email.com,San Antonio,TX,USA,2020-05-10 17:24:00,True
+CUST01500,Patricia,Taylor,patricia.taylor1500@email.com,San Diego,CA,USA,2023-03-12 14:40:00,False
+CUST01501,Jennifer,Brown,jennifer.brown1501@email.com,Los Angeles,CA,USA,2023-10-14 17:11:00,True
+CUST01502,Olivia,Martin,olivia.martin1502@email.com,Boston,MA,USA,2020-02-24 05:12:00,True
+CUST01503,Richard,Anderson,richard.anderson1503@email.com,Nashville,TN,USA,2021-02-25 07:18:00,True
+CUST01504,Mary,Thomas,mary.thomas1504@email.com,San Diego,CA,USA,2022-11-27 00:10:00,False
+CUST01505,Jessica,Jackson,jessica.jackson1505@email.com,Boston,MA,USA,2020-11-17 03:08:00,False
+CUST01506,Liam,Williams,liam.williams1506@email.com,San Diego,CA,USA,2022-03-07 06:08:00,True
+CUST01507,Jessica,Martin,jessica.martin1507@email.com,Phoenix,AZ,USA,2020-11-21 19:36:00,False
+CUST01508,Michael,Harris,michael.harris1508@email.com,San Jose,CA,USA,2021-07-18 06:00:00,True
+CUST01509,John,Jackson,john.jackson1509@email.com,San Diego,CA,USA,2023-05-23 07:33:00,False
+CUST01510,Charles,Martin,charles.martin1510@email.com,Nashville,TN,USA,2022-07-31 14:36:00,True
+CUST01511,John,Anderson,john.anderson1511@email.com,Seattle,WA,USA,2023-08-16 14:22:00,False
+CUST01512,Lisa,Garcia,lisa.garcia1512@email.com,San Antonio,TX,USA,2022-04-30 07:11:00,False
+CUST01513,Richard,Garcia,richard.garcia1513@email.com,San Diego,CA,USA,2023-12-01 18:06:00,False
+CUST01514,Mary,Davis,mary.davis1514@email.com,Seattle,WA,USA,2020-11-19 08:56:00,False
+CUST01515,John,Miller,john.miller1515@email.com,Austin,TX,USA,2022-10-07 13:48:00,True
+CUST01516,John,Brown,john.brown1516@email.com,Philadelphia,PA,USA,2022-10-30 10:26:00,False
+CUST01517,William,Miller,william.miller1517@email.com,Chicago,IL,USA,2022-11-02 01:29:00,True
+CUST01518,Emma,Harris,emma.harris1518@email.com,Los Angeles,CA,USA,2022-02-19 10:47:00,False
+CUST01519,Michael,Jackson,michael.jackson1519@email.com,Boston,MA,USA,2020-03-18 00:16:00,True
+CUST01520,Robert,Taylor,robert.taylor1520@email.com,Seattle,WA,USA,2023-10-04 23:29:00,False
+CUST01521,John,Williams,john.williams1521@email.com,San Diego,CA,USA,2023-01-28 21:15:00,False
+CUST01522,Sarah,Wilson,sarah.wilson1522@email.com,Chicago,IL,USA,2020-11-26 05:53:00,True
+CUST01523,Patricia,Garcia,patricia.garcia1523@email.com,San Jose,CA,USA,2021-08-25 03:34:00,False
+CUST01524,John,Smith,john.smith1524@email.com,Chicago,IL,USA,2023-10-19 08:09:00,False
+CUST01525,Jennifer,Miller,jennifer.miller1525@email.com,Philadelphia,PA,USA,2020-03-11 21:34:00,True
+CUST01526,Olivia,Johnson,olivia.johnson1526@email.com,San Diego,CA,USA,2023-07-24 16:41:00,True
+CUST01527,Olivia,Anderson,olivia.anderson1527@email.com,San Antonio,TX,USA,2022-06-28 01:38:00,True
+CUST01528,Ava,Jackson,ava.jackson1528@email.com,New York,NY,USA,2021-02-17 07:23:00,True
+CUST01529,John,Smith,john.smith1529@email.com,Houston,TX,USA,2022-05-13 00:00:00,False
+CUST01530,Michael,Williams,michael.williams1530@email.com,Boston,MA,USA,2021-03-27 03:51:00,True
+CUST01531,Jennifer,Johnson,jennifer.johnson1531@email.com,Seattle,WA,USA,2022-05-01 16:06:00,False
+CUST01532,Karen,Miller,karen.miller1532@email.com,Philadelphia,PA,USA,2023-07-03 06:59:00,False
+CUST01533,Patricia,Davis,patricia.davis1533@email.com,San Antonio,TX,USA,2021-03-13 03:22:00,False
+CUST01534,James,Jackson,james.jackson1534@email.com,Chicago,IL,USA,2023-09-01 10:00:00,False
+CUST01535,Joseph,Davis,joseph.davis1535@email.com,Houston,TX,USA,2020-05-15 21:52:00,False
+CUST01536,Lisa,Thomas,lisa.thomas1536@email.com,Austin,TX,USA,2020-03-30 02:56:00,True
+CUST01537,Barbara,Martin,barbara.martin1537@email.com,San Antonio,TX,USA,2020-07-27 22:34:00,True
+CUST01538,Patricia,Taylor,patricia.taylor1538@email.com,Phoenix,AZ,USA,2023-07-16 22:24:00,True
+CUST01539,Jennifer,Taylor,jennifer.taylor1539@email.com,Philadelphia,PA,USA,2023-09-26 15:04:00,False
+CUST01540,Lisa,Harris,lisa.harris1540@email.com,New York,NY,USA,2022-02-22 16:40:00,True
+CUST01541,Charles,Smith,charles.smith1541@email.com,Dallas,TX,USA,2021-04-21 00:39:00,True
+CUST01542,Linda,White,linda.white1542@email.com,Phoenix,AZ,USA,2021-05-13 19:05:00,True
+CUST01543,Susan,Martin,susan.martin1543@email.com,Chicago,IL,USA,2021-08-30 06:09:00,False
+CUST01544,Emma,Johnson,emma.johnson1544@email.com,Houston,TX,USA,2021-05-02 23:38:00,False
+CUST01545,David,Jones,david.jones1545@email.com,Seattle,WA,USA,2021-07-23 10:41:00,True
+CUST01546,Jessica,Anderson,jessica.anderson1546@email.com,Dallas,TX,USA,2020-02-18 07:54:00,False
+CUST01547,Linda,Miller,linda.miller1547@email.com,Philadelphia,PA,USA,2023-01-09 01:58:00,True
+CUST01548,Noah,Davis,noah.davis1548@email.com,Denver,CO,USA,2023-05-30 12:33:00,False
+CUST01549,Joseph,Smith,joseph.smith1549@email.com,Chicago,IL,USA,2020-05-12 15:04:00,True
+CUST01550,Emma,Jones,emma.jones1550@email.com,New York,NY,USA,2021-02-22 04:05:00,True
+CUST01551,Karen,Miller,karen.miller1551@email.com,San Jose,CA,USA,2021-04-28 16:05:00,False
+CUST01552,Joseph,Anderson,joseph.anderson1552@email.com,Seattle,WA,USA,2020-12-02 23:12:00,True
+CUST01553,Jennifer,Davis,jennifer.davis1553@email.com,San Antonio,TX,USA,2021-09-12 09:36:00,False
+CUST01554,Michael,Wilson,michael.wilson1554@email.com,Austin,TX,USA,2022-09-12 02:23:00,False
+CUST01555,Jennifer,Martin,jennifer.martin1555@email.com,San Antonio,TX,USA,2022-06-22 13:32:00,False
+CUST01556,Robert,Martin,robert.martin1556@email.com,Denver,CO,USA,2020-02-10 12:27:00,True
+CUST01557,Barbara,Jones,barbara.jones1557@email.com,Denver,CO,USA,2023-02-06 23:11:00,False
+CUST01558,Joseph,Anderson,joseph.anderson1558@email.com,San Antonio,TX,USA,2022-07-17 09:24:00,False
+CUST01559,David,Jones,david.jones1559@email.com,Los Angeles,CA,USA,2022-08-19 06:09:00,True
+CUST01560,James,Thomas,james.thomas1560@email.com,New York,NY,USA,2022-10-03 12:59:00,False
+CUST01561,Liam,Thomas,liam.thomas1561@email.com,San Antonio,TX,USA,2022-02-25 15:19:00,True
+CUST01562,Mary,Brown,mary.brown1562@email.com,San Antonio,TX,USA,2022-02-27 18:10:00,True
+CUST01563,Jessica,Wilson,jessica.wilson1563@email.com,Denver,CO,USA,2021-12-14 16:45:00,False
+CUST01564,Olivia,Thomas,olivia.thomas1564@email.com,Austin,TX,USA,2023-11-27 01:41:00,False
+CUST01565,Jessica,Davis,jessica.davis1565@email.com,Nashville,TN,USA,2021-05-11 15:02:00,False
+CUST01566,Olivia,Smith,olivia.smith1566@email.com,Austin,TX,USA,2023-11-29 21:41:00,True
+CUST01567,Lisa,Harris,lisa.harris1567@email.com,Phoenix,AZ,USA,2023-10-26 04:16:00,True
+CUST01568,Charles,Garcia,charles.garcia1568@email.com,San Jose,CA,USA,2020-01-26 03:49:00,True
+CUST01569,Olivia,Jackson,olivia.jackson1569@email.com,Austin,TX,USA,2022-03-25 22:37:00,True
+CUST01570,Michael,White,michael.white1570@email.com,Dallas,TX,USA,2020-12-05 13:16:00,False
+CUST01571,Karen,Jackson,karen.jackson1571@email.com,Dallas,TX,USA,2023-04-15 09:46:00,False
+CUST01572,Liam,Williams,liam.williams1572@email.com,Denver,CO,USA,2020-08-11 20:36:00,False
+CUST01573,Robert,Wilson,robert.wilson1573@email.com,Boston,MA,USA,2021-03-05 23:25:00,False
+CUST01574,Jennifer,Martin,jennifer.martin1574@email.com,New York,NY,USA,2020-01-04 03:04:00,False
+CUST01575,Jessica,Anderson,jessica.anderson1575@email.com,Dallas,TX,USA,2022-06-01 05:11:00,False
+CUST01576,Olivia,Jones,olivia.jones1576@email.com,Chicago,IL,USA,2021-02-09 15:11:00,True
+CUST01577,Charles,Miller,charles.miller1577@email.com,San Diego,CA,USA,2021-01-15 06:03:00,True
+CUST01578,Ava,Miller,ava.miller1578@email.com,Denver,CO,USA,2021-06-15 13:28:00,True
+CUST01579,Emma,Garcia,emma.garcia1579@email.com,Boston,MA,USA,2020-06-12 09:05:00,False
+CUST01580,William,Williams,william.williams1580@email.com,Los Angeles,CA,USA,2021-12-01 00:37:00,True
+CUST01581,Sarah,Brown,sarah.brown1581@email.com,San Diego,CA,USA,2020-01-20 01:17:00,True
+CUST01582,Charles,Johnson,charles.johnson1582@email.com,Austin,TX,USA,2020-07-17 06:33:00,True
+CUST01583,Lisa,Wilson,lisa.wilson1583@email.com,San Antonio,TX,USA,2022-09-22 15:48:00,False
+CUST01584,Jessica,Taylor,jessica.taylor1584@email.com,San Jose,CA,USA,2022-01-29 21:56:00,False
+CUST01585,Linda,Thomas,linda.thomas1585@email.com,Philadelphia,PA,USA,2023-09-24 12:24:00,True
+CUST01586,David,Brown,david.brown1586@email.com,Philadelphia,PA,USA,2020-01-07 14:55:00,False
+CUST01587,Robert,Smith,robert.smith1587@email.com,Seattle,WA,USA,2023-05-17 03:55:00,False
+CUST01588,Ava,Davis,ava.davis1588@email.com,Seattle,WA,USA,2022-01-24 14:39:00,False
+CUST01589,Jessica,Miller,jessica.miller1589@email.com,Dallas,TX,USA,2020-01-07 20:52:00,False
+CUST01590,Emma,Thomas,emma.thomas1590@email.com,New York,NY,USA,2020-04-03 23:20:00,False
+CUST01591,Lisa,Martin,lisa.martin1591@email.com,Houston,TX,USA,2022-03-30 23:39:00,True
+CUST01592,Jessica,Martin,jessica.martin1592@email.com,Philadelphia,PA,USA,2023-09-10 22:57:00,True
+CUST01593,Richard,Anderson,richard.anderson1593@email.com,Seattle,WA,USA,2023-05-28 06:45:00,True
+CUST01594,Thomas,Johnson,thomas.johnson1594@email.com,Boston,MA,USA,2020-09-18 15:50:00,True
+CUST01595,Noah,Harris,noah.harris1595@email.com,Phoenix,AZ,USA,2020-12-10 14:07:00,False
+CUST01596,Karen,Davis,karen.davis1596@email.com,Austin,TX,USA,2021-05-13 06:10:00,True
+CUST01597,Jessica,Smith,jessica.smith1597@email.com,Los Angeles,CA,USA,2020-11-24 10:57:00,False
+CUST01598,William,Davis,william.davis1598@email.com,Denver,CO,USA,2021-06-11 21:30:00,True
+CUST01599,Robert,Martin,robert.martin1599@email.com,Austin,TX,USA,2020-07-04 22:21:00,True
+CUST01600,Charles,Williams,charles.williams1600@email.com,Nashville,TN,USA,2023-08-11 10:24:00,False
+CUST01601,Emma,White,emma.white1601@email.com,Austin,TX,USA,2021-04-22 07:16:00,True
+CUST01602,John,Brown,john.brown1602@email.com,Phoenix,AZ,USA,2020-07-01 10:47:00,True
+CUST01603,Patricia,Thomas,patricia.thomas1603@email.com,Seattle,WA,USA,2020-09-17 10:24:00,True
+CUST01604,Mary,Miller,mary.miller1604@email.com,Phoenix,AZ,USA,2022-03-05 13:20:00,False
+CUST01605,Noah,Jones,noah.jones1605@email.com,Denver,CO,USA,2022-11-30 21:38:00,True
+CUST01606,Richard,Smith,richard.smith1606@email.com,Los Angeles,CA,USA,2023-01-07 14:20:00,True
+CUST01607,Barbara,Davis,barbara.davis1607@email.com,Boston,MA,USA,2022-10-20 21:29:00,True
+CUST01608,Barbara,Jones,barbara.jones1608@email.com,San Jose,CA,USA,2023-09-24 22:02:00,False
+CUST01609,Thomas,Brown,thomas.brown1609@email.com,Phoenix,AZ,USA,2021-07-14 22:36:00,False
+CUST01610,Michael,Martin,michael.martin1610@email.com,Austin,TX,USA,2021-08-19 22:24:00,True
+CUST01611,David,Jones,david.jones1611@email.com,Denver,CO,USA,2021-03-07 23:59:00,True
+CUST01612,Liam,Johnson,liam.johnson1612@email.com,Seattle,WA,USA,2021-01-01 15:46:00,False
+CUST01613,Noah,Garcia,noah.garcia1613@email.com,Phoenix,AZ,USA,2020-02-14 17:25:00,False
+CUST01614,Noah,Martin,noah.martin1614@email.com,San Antonio,TX,USA,2021-12-14 12:25:00,True
+CUST01615,Liam,Anderson,liam.anderson1615@email.com,Dallas,TX,USA,2021-08-01 22:59:00,True
+CUST01616,Karen,Jackson,karen.jackson1616@email.com,Seattle,WA,USA,2020-07-18 04:20:00,True
+CUST01617,Olivia,Anderson,olivia.anderson1617@email.com,Boston,MA,USA,2022-07-26 20:10:00,True
+CUST01618,Olivia,Martin,olivia.martin1618@email.com,San Diego,CA,USA,2021-08-19 04:13:00,True
+CUST01619,Liam,Miller,liam.miller1619@email.com,Denver,CO,USA,2023-08-26 00:23:00,True
+CUST01620,Robert,Jackson,robert.jackson1620@email.com,Austin,TX,USA,2022-05-24 21:53:00,True
+CUST01621,Mary,Brown,mary.brown1621@email.com,Nashville,TN,USA,2021-12-29 15:11:00,True
+CUST01622,Thomas,Taylor,thomas.taylor1622@email.com,Los Angeles,CA,USA,2023-04-30 13:09:00,False
+CUST01623,Mary,Brown,mary.brown1623@email.com,Houston,TX,USA,2021-05-08 12:31:00,False
+CUST01624,Lisa,Garcia,lisa.garcia1624@email.com,Seattle,WA,USA,2023-08-29 23:24:00,True
+CUST01625,Joseph,Jackson,joseph.jackson1625@email.com,Denver,CO,USA,2021-07-17 20:41:00,False
+CUST01626,James,Brown,james.brown1626@email.com,Philadelphia,PA,USA,2020-08-26 02:07:00,False
+CUST01627,Noah,Davis,noah.davis1627@email.com,Austin,TX,USA,2020-02-17 18:36:00,False
+CUST01628,Olivia,Brown,olivia.brown1628@email.com,Phoenix,AZ,USA,2023-04-29 05:24:00,False
+CUST01629,Olivia,White,olivia.white1629@email.com,Austin,TX,USA,2021-09-03 18:08:00,True
+CUST01630,John,Garcia,john.garcia1630@email.com,Philadelphia,PA,USA,2022-04-10 22:01:00,False
+CUST01631,Karen,Martin,karen.martin1631@email.com,Dallas,TX,USA,2020-05-10 16:53:00,True
+CUST01632,Ava,Miller,ava.miller1632@email.com,Denver,CO,USA,2023-09-10 03:11:00,True
+CUST01633,Karen,Harris,karen.harris1633@email.com,New York,NY,USA,2021-10-05 03:02:00,True
+CUST01634,Michael,Garcia,michael.garcia1634@email.com,San Jose,CA,USA,2020-06-28 17:16:00,True
+CUST01635,Patricia,Anderson,patricia.anderson1635@email.com,Los Angeles,CA,USA,2022-01-14 17:10:00,False
+CUST01636,James,Davis,james.davis1636@email.com,Austin,TX,USA,2021-09-07 01:33:00,False
+CUST01637,Karen,Harris,karen.harris1637@email.com,Austin,TX,USA,2020-10-13 18:31:00,False
+CUST01638,Susan,Miller,susan.miller1638@email.com,Dallas,TX,USA,2023-11-09 03:42:00,True
+CUST01639,Mary,Miller,mary.miller1639@email.com,Houston,TX,USA,2020-10-17 09:54:00,True
+CUST01640,Lisa,Miller,lisa.miller1640@email.com,Chicago,IL,USA,2023-04-26 11:17:00,True
+CUST01641,Lisa,White,lisa.white1641@email.com,Seattle,WA,USA,2020-06-01 17:16:00,False
+CUST01642,Emma,Garcia,emma.garcia1642@email.com,San Antonio,TX,USA,2022-03-30 14:05:00,False
+CUST01643,Jessica,Jones,jessica.jones1643@email.com,Austin,TX,USA,2023-01-02 06:04:00,False
+CUST01644,Olivia,Miller,olivia.miller1644@email.com,Austin,TX,USA,2022-02-01 18:42:00,True
+CUST01645,Robert,Taylor,robert.taylor1645@email.com,San Antonio,TX,USA,2022-06-07 12:01:00,True
+CUST01646,William,Brown,william.brown1646@email.com,Los Angeles,CA,USA,2022-12-24 03:43:00,False
+CUST01647,David,Williams,david.williams1647@email.com,Los Angeles,CA,USA,2022-01-13 10:49:00,False
+CUST01648,Linda,Wilson,linda.wilson1648@email.com,Chicago,IL,USA,2020-01-21 03:24:00,True
+CUST01649,Patricia,Brown,patricia.brown1649@email.com,San Antonio,TX,USA,2020-12-25 16:46:00,False
+CUST01650,Sarah,Brown,sarah.brown1650@email.com,San Jose,CA,USA,2022-12-19 11:44:00,False
+CUST01651,William,Brown,william.brown1651@email.com,Dallas,TX,USA,2020-04-08 05:20:00,False
+CUST01652,Susan,Jackson,susan.jackson1652@email.com,Chicago,IL,USA,2022-09-03 18:08:00,False
+CUST01653,Noah,Jones,noah.jones1653@email.com,New York,NY,USA,2023-09-08 04:09:00,False
+CUST01654,Liam,Wilson,liam.wilson1654@email.com,San Jose,CA,USA,2020-04-18 23:40:00,False
+CUST01655,Ava,Davis,ava.davis1655@email.com,Seattle,WA,USA,2023-10-20 19:26:00,False
+CUST01656,Joseph,Thomas,joseph.thomas1656@email.com,Chicago,IL,USA,2022-08-17 16:18:00,False
+CUST01657,Thomas,Davis,thomas.davis1657@email.com,San Antonio,TX,USA,2021-09-17 20:54:00,True
+CUST01658,Jessica,Taylor,jessica.taylor1658@email.com,Phoenix,AZ,USA,2020-07-03 20:05:00,True
+CUST01659,Linda,Williams,linda.williams1659@email.com,Seattle,WA,USA,2020-12-04 18:03:00,True
+CUST01660,Barbara,Martin,barbara.martin1660@email.com,Seattle,WA,USA,2020-01-22 13:43:00,True
+CUST01661,Sarah,Brown,sarah.brown1661@email.com,San Diego,CA,USA,2022-04-10 00:39:00,True
+CUST01662,Liam,Smith,liam.smith1662@email.com,Nashville,TN,USA,2022-05-20 22:34:00,False
+CUST01663,Liam,Johnson,liam.johnson1663@email.com,Houston,TX,USA,2023-05-28 14:10:00,True
+CUST01664,John,Thomas,john.thomas1664@email.com,Chicago,IL,USA,2020-09-30 16:22:00,True
+CUST01665,Sarah,Jackson,sarah.jackson1665@email.com,San Antonio,TX,USA,2020-12-15 11:07:00,False
+CUST01666,Noah,Davis,noah.davis1666@email.com,Nashville,TN,USA,2023-01-09 03:18:00,False
+CUST01667,Barbara,Wilson,barbara.wilson1667@email.com,San Diego,CA,USA,2021-03-12 00:47:00,False
+CUST01668,Barbara,Johnson,barbara.johnson1668@email.com,Houston,TX,USA,2022-08-06 19:54:00,False
+CUST01669,Susan,Smith,susan.smith1669@email.com,New York,NY,USA,2023-06-14 14:21:00,False
+CUST01670,Patricia,Smith,patricia.smith1670@email.com,Philadelphia,PA,USA,2021-12-17 23:11:00,False
+CUST01671,James,Brown,james.brown1671@email.com,Philadelphia,PA,USA,2022-06-01 15:12:00,True
+CUST01672,Thomas,Jones,thomas.jones1672@email.com,Dallas,TX,USA,2022-04-21 03:58:00,False
+CUST01673,Robert,Wilson,robert.wilson1673@email.com,New York,NY,USA,2021-04-08 15:25:00,False
+CUST01674,Susan,White,susan.white1674@email.com,Phoenix,AZ,USA,2021-01-08 17:51:00,False
+CUST01675,Joseph,Harris,joseph.harris1675@email.com,Los Angeles,CA,USA,2020-11-27 04:22:00,False
+CUST01676,Susan,Miller,susan.miller1676@email.com,New York,NY,USA,2020-08-14 06:18:00,True
+CUST01677,Richard,White,richard.white1677@email.com,Chicago,IL,USA,2021-11-09 01:10:00,True
+CUST01678,Noah,Wilson,noah.wilson1678@email.com,San Diego,CA,USA,2020-08-31 13:31:00,False
+CUST01679,Noah,Jones,noah.jones1679@email.com,Denver,CO,USA,2021-10-27 12:32:00,False
+CUST01680,Patricia,Brown,patricia.brown1680@email.com,Chicago,IL,USA,2020-02-13 04:09:00,False
+CUST01681,James,Davis,james.davis1681@email.com,Dallas,TX,USA,2020-04-16 21:53:00,False
+CUST01682,Lisa,Smith,lisa.smith1682@email.com,San Antonio,TX,USA,2022-06-08 15:18:00,False
+CUST01683,John,White,john.white1683@email.com,San Diego,CA,USA,2021-05-22 19:09:00,True
+CUST01684,William,Brown,william.brown1684@email.com,Houston,TX,USA,2021-06-23 22:15:00,False
+CUST01685,Sarah,Brown,sarah.brown1685@email.com,Houston,TX,USA,2023-12-06 23:32:00,True
+CUST01686,Charles,Jones,charles.jones1686@email.com,Houston,TX,USA,2021-04-14 03:08:00,False
+CUST01687,William,Miller,william.miller1687@email.com,New York,NY,USA,2020-10-26 13:01:00,True
+CUST01688,Mary,Jackson,mary.jackson1688@email.com,Los Angeles,CA,USA,2022-04-14 16:19:00,True
+CUST01689,David,White,david.white1689@email.com,Houston,TX,USA,2022-09-08 01:32:00,False
+CUST01690,Mary,Anderson,mary.anderson1690@email.com,Austin,TX,USA,2020-08-13 08:23:00,False
+CUST01691,Olivia,White,olivia.white1691@email.com,Philadelphia,PA,USA,2021-05-20 10:57:00,True
+CUST01692,Mary,Smith,mary.smith1692@email.com,Chicago,IL,USA,2020-04-16 21:47:00,False
+CUST01693,Barbara,Martin,barbara.martin1693@email.com,Houston,TX,USA,2021-07-27 19:06:00,False
+CUST01694,William,Martin,william.martin1694@email.com,Chicago,IL,USA,2022-01-14 10:19:00,True
+CUST01695,Noah,Smith,noah.smith1695@email.com,Los Angeles,CA,USA,2023-10-30 17:49:00,True
+CUST01696,Susan,Thomas,susan.thomas1696@email.com,Philadelphia,PA,USA,2023-04-21 16:38:00,False
+CUST01697,Emma,Wilson,emma.wilson1697@email.com,Houston,TX,USA,2021-03-06 18:24:00,True
+CUST01698,Patricia,Jones,patricia.jones1698@email.com,Nashville,TN,USA,2023-07-13 23:38:00,True
+CUST01699,Charles,Miller,charles.miller1699@email.com,New York,NY,USA,2021-01-30 22:28:00,True
+CUST01700,Karen,Taylor,karen.taylor1700@email.com,Los Angeles,CA,USA,2021-09-09 23:30:00,True
+CUST01701,Liam,Jones,liam.jones1701@email.com,Dallas,TX,USA,2020-03-30 04:12:00,False
+CUST01702,Olivia,Wilson,olivia.wilson1702@email.com,Dallas,TX,USA,2023-02-21 11:57:00,False
+CUST01703,Emma,Brown,emma.brown1703@email.com,San Diego,CA,USA,2022-06-12 02:30:00,False
+CUST01704,Thomas,Smith,thomas.smith1704@email.com,Dallas,TX,USA,2020-12-07 19:17:00,True
+CUST01705,Mary,Johnson,mary.johnson1705@email.com,Phoenix,AZ,USA,2023-11-21 06:47:00,False
+CUST01706,Noah,Williams,noah.williams1706@email.com,San Diego,CA,USA,2020-12-04 14:48:00,False
+CUST01707,Ava,Jackson,ava.jackson1707@email.com,Dallas,TX,USA,2022-03-31 19:17:00,True
+CUST01708,James,Garcia,james.garcia1708@email.com,Chicago,IL,USA,2023-03-17 06:37:00,True
+CUST01709,Thomas,Harris,thomas.harris1709@email.com,Nashville,TN,USA,2022-10-28 22:46:00,False
+CUST01710,Linda,Anderson,linda.anderson1710@email.com,Phoenix,AZ,USA,2023-12-21 08:35:00,True
+CUST01711,Linda,Johnson,linda.johnson1711@email.com,Chicago,IL,USA,2022-12-28 07:18:00,True
+CUST01712,Robert,Wilson,robert.wilson1712@email.com,Austin,TX,USA,2020-09-29 08:55:00,True
+CUST01713,Linda,Miller,linda.miller1713@email.com,Austin,TX,USA,2022-12-30 03:00:00,False
+CUST01714,Lisa,Thomas,lisa.thomas1714@email.com,Austin,TX,USA,2021-10-26 02:45:00,False
+CUST01715,Robert,White,robert.white1715@email.com,Seattle,WA,USA,2023-06-06 09:20:00,True
+CUST01716,James,Thomas,james.thomas1716@email.com,Austin,TX,USA,2021-03-25 23:17:00,True
+CUST01717,James,Brown,james.brown1717@email.com,Phoenix,AZ,USA,2023-11-10 12:41:00,False
+CUST01718,Emma,Miller,emma.miller1718@email.com,Boston,MA,USA,2022-06-24 07:20:00,False
+CUST01719,Charles,Jackson,charles.jackson1719@email.com,Houston,TX,USA,2020-11-14 14:14:00,False
+CUST01720,Robert,Martin,robert.martin1720@email.com,Philadelphia,PA,USA,2020-07-10 15:11:00,False
+CUST01721,Jennifer,Miller,jennifer.miller1721@email.com,Chicago,IL,USA,2023-03-12 15:46:00,True
+CUST01722,Barbara,Smith,barbara.smith1722@email.com,Austin,TX,USA,2021-09-27 05:56:00,True
+CUST01723,Richard,Miller,richard.miller1723@email.com,Boston,MA,USA,2020-05-22 04:04:00,False
+CUST01724,Joseph,Jackson,joseph.jackson1724@email.com,Houston,TX,USA,2020-07-24 23:33:00,True
+CUST01725,Ava,Smith,ava.smith1725@email.com,Seattle,WA,USA,2023-05-20 03:24:00,False
+CUST01726,Patricia,Smith,patricia.smith1726@email.com,New York,NY,USA,2023-08-12 01:08:00,True
+CUST01727,John,Wilson,john.wilson1727@email.com,Denver,CO,USA,2020-10-19 20:38:00,True
+CUST01728,James,Brown,james.brown1728@email.com,Denver,CO,USA,2023-01-15 23:52:00,False
+CUST01729,Olivia,Williams,olivia.williams1729@email.com,Boston,MA,USA,2021-02-18 04:30:00,False
+CUST01730,Jennifer,Anderson,jennifer.anderson1730@email.com,Boston,MA,USA,2021-11-10 15:09:00,True
+CUST01731,Karen,Wilson,karen.wilson1731@email.com,New York,NY,USA,2023-07-09 17:07:00,True
+CUST01732,Mary,Brown,mary.brown1732@email.com,Boston,MA,USA,2023-01-20 09:06:00,False
+CUST01733,James,Davis,james.davis1733@email.com,Chicago,IL,USA,2020-02-19 07:27:00,False
+CUST01734,Susan,Anderson,susan.anderson1734@email.com,Chicago,IL,USA,2021-04-07 21:24:00,True
+CUST01735,Jennifer,Brown,jennifer.brown1735@email.com,San Diego,CA,USA,2021-04-04 03:18:00,False
+CUST01736,Lisa,Taylor,lisa.taylor1736@email.com,Los Angeles,CA,USA,2020-08-30 11:59:00,True
+CUST01737,Mary,Jones,mary.jones1737@email.com,Nashville,TN,USA,2020-12-30 13:33:00,False
+CUST01738,Jennifer,White,jennifer.white1738@email.com,San Jose,CA,USA,2020-11-03 21:43:00,False
+CUST01739,Barbara,Thomas,barbara.thomas1739@email.com,San Jose,CA,USA,2020-07-31 08:58:00,False
+CUST01740,Susan,Wilson,susan.wilson1740@email.com,Austin,TX,USA,2023-12-27 02:50:00,True
+CUST01741,Robert,Jones,robert.jones1741@email.com,Boston,MA,USA,2021-10-17 04:24:00,False
+CUST01742,Sarah,Williams,sarah.williams1742@email.com,Seattle,WA,USA,2020-08-19 18:27:00,False
+CUST01743,John,Taylor,john.taylor1743@email.com,Chicago,IL,USA,2020-09-18 05:49:00,False
+CUST01744,David,Martin,david.martin1744@email.com,Philadelphia,PA,USA,2022-05-18 15:44:00,False
+CUST01745,Emma,Taylor,emma.taylor1745@email.com,San Jose,CA,USA,2020-10-10 20:58:00,True
+CUST01746,Jessica,Martin,jessica.martin1746@email.com,San Antonio,TX,USA,2023-01-08 17:31:00,True
+CUST01747,John,White,john.white1747@email.com,San Antonio,TX,USA,2022-12-15 18:49:00,True
+CUST01748,John,Davis,john.davis1748@email.com,Seattle,WA,USA,2022-01-10 00:13:00,True
+CUST01749,Karen,Martin,karen.martin1749@email.com,Philadelphia,PA,USA,2020-09-30 03:03:00,False
+CUST01750,Ava,Jones,ava.jones1750@email.com,Philadelphia,PA,USA,2021-08-26 14:09:00,False
+CUST01751,Michael,Davis,michael.davis1751@email.com,Houston,TX,USA,2020-04-24 23:08:00,True
+CUST01752,Olivia,Jones,olivia.jones1752@email.com,Seattle,WA,USA,2022-02-12 23:01:00,False
+CUST01753,Mary,Brown,mary.brown1753@email.com,Philadelphia,PA,USA,2023-09-19 18:04:00,False
+CUST01754,Lisa,Garcia,lisa.garcia1754@email.com,Boston,MA,USA,2020-03-02 04:23:00,True
+CUST01755,Linda,Williams,linda.williams1755@email.com,Los Angeles,CA,USA,2020-01-26 18:53:00,False
+CUST01756,Ava,Garcia,ava.garcia1756@email.com,Chicago,IL,USA,2022-08-20 23:08:00,False
+CUST01757,Jessica,Taylor,jessica.taylor1757@email.com,San Diego,CA,USA,2022-06-28 20:44:00,True
+CUST01758,Patricia,Jones,patricia.jones1758@email.com,Phoenix,AZ,USA,2020-05-02 20:02:00,True
+CUST01759,Jennifer,Smith,jennifer.smith1759@email.com,Dallas,TX,USA,2022-03-22 13:43:00,False
+CUST01760,Olivia,Wilson,olivia.wilson1760@email.com,Dallas,TX,USA,2023-03-17 16:19:00,True
+CUST01761,Jennifer,Wilson,jennifer.wilson1761@email.com,San Antonio,TX,USA,2020-07-07 16:24:00,True
+CUST01762,Michael,Jackson,michael.jackson1762@email.com,Seattle,WA,USA,2023-06-21 01:14:00,False
+CUST01763,Liam,Williams,liam.williams1763@email.com,Chicago,IL,USA,2023-11-19 14:30:00,False
+CUST01764,Emma,Jackson,emma.jackson1764@email.com,Austin,TX,USA,2022-02-18 05:03:00,False
+CUST01765,Jessica,Miller,jessica.miller1765@email.com,Austin,TX,USA,2021-07-06 03:06:00,True
+CUST01766,Lisa,Taylor,lisa.taylor1766@email.com,Philadelphia,PA,USA,2020-02-27 07:18:00,True
+CUST01767,Patricia,Williams,patricia.williams1767@email.com,Dallas,TX,USA,2021-03-09 19:00:00,False
+CUST01768,Karen,Miller,karen.miller1768@email.com,Houston,TX,USA,2023-07-31 01:15:00,False
+CUST01769,Charles,Johnson,charles.johnson1769@email.com,Los Angeles,CA,USA,2023-02-28 15:02:00,True
+CUST01770,John,Anderson,john.anderson1770@email.com,Philadelphia,PA,USA,2020-01-18 11:48:00,False
+CUST01771,Thomas,Miller,thomas.miller1771@email.com,San Antonio,TX,USA,2021-10-06 12:46:00,False
+CUST01772,Olivia,Brown,olivia.brown1772@email.com,Chicago,IL,USA,2021-11-09 13:57:00,True
+CUST01773,Ava,Jones,ava.jones1773@email.com,Dallas,TX,USA,2020-02-18 18:50:00,False
+CUST01774,Charles,Johnson,charles.johnson1774@email.com,San Diego,CA,USA,2021-08-17 05:09:00,False
+CUST01775,Emma,Williams,emma.williams1775@email.com,Los Angeles,CA,USA,2021-04-19 06:51:00,True
+CUST01776,Olivia,Garcia,olivia.garcia1776@email.com,Denver,CO,USA,2022-10-24 16:46:00,False
+CUST01777,Robert,Taylor,robert.taylor1777@email.com,San Diego,CA,USA,2021-08-18 11:39:00,False
+CUST01778,Olivia,Jackson,olivia.jackson1778@email.com,New York,NY,USA,2021-05-04 06:39:00,True
+CUST01779,Charles,Martin,charles.martin1779@email.com,Chicago,IL,USA,2020-07-18 00:09:00,False
+CUST01780,John,Martin,john.martin1780@email.com,Dallas,TX,USA,2020-07-11 14:20:00,True
+CUST01781,Barbara,Garcia,barbara.garcia1781@email.com,Nashville,TN,USA,2020-05-19 08:36:00,False
+CUST01782,John,Williams,john.williams1782@email.com,Philadelphia,PA,USA,2021-01-01 22:49:00,False
+CUST01783,Sarah,Wilson,sarah.wilson1783@email.com,Phoenix,AZ,USA,2022-06-24 20:59:00,True
+CUST01784,Charles,Martin,charles.martin1784@email.com,Los Angeles,CA,USA,2020-03-22 11:54:00,False
+CUST01785,Jessica,Jones,jessica.jones1785@email.com,San Antonio,TX,USA,2022-06-21 11:32:00,False
+CUST01786,John,White,john.white1786@email.com,Philadelphia,PA,USA,2022-11-02 14:16:00,True
+CUST01787,Emma,Johnson,emma.johnson1787@email.com,San Jose,CA,USA,2021-05-16 22:52:00,True
+CUST01788,Patricia,Anderson,patricia.anderson1788@email.com,Chicago,IL,USA,2022-02-08 05:36:00,False
+CUST01789,John,Davis,john.davis1789@email.com,Boston,MA,USA,2022-03-06 14:42:00,True
+CUST01790,Joseph,Harris,joseph.harris1790@email.com,Philadelphia,PA,USA,2023-08-08 17:57:00,False
+CUST01791,John,Garcia,john.garcia1791@email.com,Los Angeles,CA,USA,2020-08-09 12:49:00,False
+CUST01792,Richard,Taylor,richard.taylor1792@email.com,Houston,TX,USA,2020-05-12 10:21:00,False
+CUST01793,Olivia,Martin,olivia.martin1793@email.com,Houston,TX,USA,2020-08-22 08:29:00,True
+CUST01794,Robert,Martin,robert.martin1794@email.com,Dallas,TX,USA,2020-10-25 20:13:00,False
+CUST01795,Mary,Jackson,mary.jackson1795@email.com,San Jose,CA,USA,2020-05-07 11:50:00,False
+CUST01796,Michael,Johnson,michael.johnson1796@email.com,San Diego,CA,USA,2021-03-09 00:48:00,False
+CUST01797,William,Garcia,william.garcia1797@email.com,Phoenix,AZ,USA,2020-06-20 04:04:00,False
+CUST01798,John,Anderson,john.anderson1798@email.com,San Antonio,TX,USA,2023-12-29 14:55:00,False
+CUST01799,Michael,Wilson,michael.wilson1799@email.com,Dallas,TX,USA,2021-01-11 01:05:00,False
+CUST01800,Ava,Anderson,ava.anderson1800@email.com,Philadelphia,PA,USA,2020-12-02 06:22:00,False
+CUST01801,Sarah,Garcia,sarah.garcia1801@email.com,San Diego,CA,USA,2023-11-27 13:22:00,False
+CUST01802,James,Miller,james.miller1802@email.com,Boston,MA,USA,2020-06-08 23:42:00,True
+CUST01803,Noah,Taylor,noah.taylor1803@email.com,Philadelphia,PA,USA,2020-01-30 04:57:00,False
+CUST01804,Robert,Martin,robert.martin1804@email.com,Nashville,TN,USA,2021-10-10 03:50:00,False
+CUST01805,Thomas,Smith,thomas.smith1805@email.com,Phoenix,AZ,USA,2022-07-11 04:40:00,False
+CUST01806,Charles,Brown,charles.brown1806@email.com,Austin,TX,USA,2020-03-15 06:47:00,True
+CUST01807,Olivia,Garcia,olivia.garcia1807@email.com,San Antonio,TX,USA,2023-05-15 12:13:00,False
+CUST01808,Michael,Smith,michael.smith1808@email.com,Houston,TX,USA,2022-01-28 11:01:00,False
+CUST01809,Barbara,Brown,barbara.brown1809@email.com,Nashville,TN,USA,2023-12-03 15:41:00,False
+CUST01810,Jessica,Thomas,jessica.thomas1810@email.com,San Antonio,TX,USA,2021-12-22 17:27:00,False
+CUST01811,Jennifer,Harris,jennifer.harris1811@email.com,Los Angeles,CA,USA,2022-05-27 11:11:00,True
+CUST01812,Jessica,Jackson,jessica.jackson1812@email.com,Dallas,TX,USA,2021-08-06 21:44:00,False
+CUST01813,Barbara,Brown,barbara.brown1813@email.com,Austin,TX,USA,2020-06-28 03:05:00,True
+CUST01814,Jessica,Brown,jessica.brown1814@email.com,San Jose,CA,USA,2022-10-13 23:48:00,True
+CUST01815,Joseph,Johnson,joseph.johnson1815@email.com,Austin,TX,USA,2023-09-29 09:54:00,False
+CUST01816,Linda,Harris,linda.harris1816@email.com,Houston,TX,USA,2023-02-03 12:07:00,True
+CUST01817,Sarah,Brown,sarah.brown1817@email.com,Boston,MA,USA,2021-12-19 14:26:00,False
+CUST01818,Susan,Davis,susan.davis1818@email.com,New York,NY,USA,2022-11-05 09:17:00,False
+CUST01819,Jessica,Davis,jessica.davis1819@email.com,Phoenix,AZ,USA,2020-01-09 13:02:00,True
+CUST01820,Robert,Thomas,robert.thomas1820@email.com,New York,NY,USA,2022-11-28 23:38:00,False
+CUST01821,Jennifer,White,jennifer.white1821@email.com,Philadelphia,PA,USA,2021-05-10 17:25:00,True
+CUST01822,Emma,Jackson,emma.jackson1822@email.com,San Jose,CA,USA,2020-04-15 18:27:00,True
+CUST01823,Richard,Garcia,richard.garcia1823@email.com,Austin,TX,USA,2022-04-05 10:33:00,True
+CUST01824,Linda,Brown,linda.brown1824@email.com,San Antonio,TX,USA,2023-12-25 04:32:00,True
+CUST01825,Charles,Jackson,charles.jackson1825@email.com,Austin,TX,USA,2023-07-08 08:53:00,True
+CUST01826,Michael,Williams,michael.williams1826@email.com,Philadelphia,PA,USA,2020-07-10 00:27:00,True
+CUST01827,Ava,Jones,ava.jones1827@email.com,Austin,TX,USA,2020-02-26 19:45:00,True
+CUST01828,Richard,Smith,richard.smith1828@email.com,San Jose,CA,USA,2020-09-24 14:40:00,False
+CUST01829,Linda,Davis,linda.davis1829@email.com,Chicago,IL,USA,2021-08-31 06:34:00,True
+CUST01830,Ava,Jackson,ava.jackson1830@email.com,Seattle,WA,USA,2021-06-17 21:03:00,False
+CUST01831,Robert,Smith,robert.smith1831@email.com,Los Angeles,CA,USA,2023-07-31 18:55:00,True
+CUST01832,Joseph,Brown,joseph.brown1832@email.com,Los Angeles,CA,USA,2020-08-07 04:18:00,False
+CUST01833,Jennifer,Williams,jennifer.williams1833@email.com,Nashville,TN,USA,2020-06-07 15:54:00,False
+CUST01834,Michael,Jackson,michael.jackson1834@email.com,Nashville,TN,USA,2020-07-25 15:50:00,True
+CUST01835,John,Martin,john.martin1835@email.com,San Antonio,TX,USA,2023-07-05 02:13:00,False
+CUST01836,David,Harris,david.harris1836@email.com,San Antonio,TX,USA,2020-11-25 05:19:00,True
+CUST01837,Jennifer,Johnson,jennifer.johnson1837@email.com,Nashville,TN,USA,2020-08-28 10:22:00,False
+CUST01838,Lisa,Smith,lisa.smith1838@email.com,San Jose,CA,USA,2020-11-20 16:47:00,False
+CUST01839,Patricia,Miller,patricia.miller1839@email.com,Nashville,TN,USA,2023-05-26 00:34:00,True
+CUST01840,Thomas,Jones,thomas.jones1840@email.com,Dallas,TX,USA,2021-03-18 11:07:00,True
+CUST01841,David,Jones,david.jones1841@email.com,New York,NY,USA,2021-03-26 02:46:00,True
+CUST01842,William,Martin,william.martin1842@email.com,Phoenix,AZ,USA,2021-02-12 02:22:00,False
+CUST01843,Liam,Martin,liam.martin1843@email.com,San Diego,CA,USA,2022-06-12 16:25:00,True
+CUST01844,Jennifer,Miller,jennifer.miller1844@email.com,Phoenix,AZ,USA,2023-11-08 22:17:00,False
+CUST01845,Charles,Anderson,charles.anderson1845@email.com,Los Angeles,CA,USA,2020-12-05 06:46:00,False
+CUST01846,Joseph,White,joseph.white1846@email.com,San Antonio,TX,USA,2023-05-06 23:17:00,False
+CUST01847,Patricia,Jackson,patricia.jackson1847@email.com,San Jose,CA,USA,2022-05-29 06:36:00,False
+CUST01848,Emma,Williams,emma.williams1848@email.com,Philadelphia,PA,USA,2022-07-09 05:56:00,True
+CUST01849,William,White,william.white1849@email.com,Dallas,TX,USA,2021-08-24 19:52:00,False
+CUST01850,James,Brown,james.brown1850@email.com,San Antonio,TX,USA,2021-01-03 10:27:00,True
+CUST01851,Linda,Williams,linda.williams1851@email.com,Philadelphia,PA,USA,2021-03-16 21:23:00,False
+CUST01852,Ava,Taylor,ava.taylor1852@email.com,Chicago,IL,USA,2020-09-07 00:20:00,True
+CUST01853,David,Miller,david.miller1853@email.com,Seattle,WA,USA,2022-08-11 18:50:00,False
+CUST01854,Linda,Williams,linda.williams1854@email.com,Nashville,TN,USA,2022-02-28 09:38:00,True
+CUST01855,Michael,Brown,michael.brown1855@email.com,Dallas,TX,USA,2023-02-22 08:45:00,True
+CUST01856,Emma,White,emma.white1856@email.com,San Jose,CA,USA,2023-10-29 13:20:00,False
+CUST01857,Michael,Johnson,michael.johnson1857@email.com,Houston,TX,USA,2022-10-08 15:02:00,False
+CUST01858,Patricia,Brown,patricia.brown1858@email.com,San Antonio,TX,USA,2022-07-16 05:38:00,False
+CUST01859,Richard,Davis,richard.davis1859@email.com,San Jose,CA,USA,2023-03-26 00:18:00,True
+CUST01860,Charles,Smith,charles.smith1860@email.com,Austin,TX,USA,2022-08-03 09:08:00,False
+CUST01861,Karen,Johnson,karen.johnson1861@email.com,New York,NY,USA,2021-11-21 20:01:00,True
+CUST01862,Patricia,White,patricia.white1862@email.com,San Diego,CA,USA,2021-09-08 08:20:00,False
+CUST01863,John,Taylor,john.taylor1863@email.com,San Antonio,TX,USA,2022-10-08 19:03:00,False
+CUST01864,Olivia,Harris,olivia.harris1864@email.com,Phoenix,AZ,USA,2022-10-07 20:58:00,True
+CUST01865,Susan,Brown,susan.brown1865@email.com,Boston,MA,USA,2020-02-29 07:03:00,True
+CUST01866,Patricia,Taylor,patricia.taylor1866@email.com,Chicago,IL,USA,2023-11-09 23:27:00,True
+CUST01867,John,Miller,john.miller1867@email.com,Chicago,IL,USA,2022-01-25 17:00:00,True
+CUST01868,Mary,Brown,mary.brown1868@email.com,Phoenix,AZ,USA,2020-04-08 09:04:00,False
+CUST01869,Olivia,Jackson,olivia.jackson1869@email.com,Philadelphia,PA,USA,2021-07-06 22:10:00,True
+CUST01870,Joseph,Brown,joseph.brown1870@email.com,San Jose,CA,USA,2020-09-15 10:55:00,True
+CUST01871,Charles,White,charles.white1871@email.com,Denver,CO,USA,2023-07-28 14:42:00,True
+CUST01872,Thomas,Davis,thomas.davis1872@email.com,Dallas,TX,USA,2023-03-29 15:42:00,False
+CUST01873,David,Martin,david.martin1873@email.com,Phoenix,AZ,USA,2021-04-07 02:16:00,False
+CUST01874,John,Thomas,john.thomas1874@email.com,Seattle,WA,USA,2023-02-17 07:42:00,True
+CUST01875,John,Williams,john.williams1875@email.com,Seattle,WA,USA,2022-10-09 01:13:00,True
+CUST01876,Michael,Harris,michael.harris1876@email.com,Austin,TX,USA,2022-02-27 06:31:00,True
+CUST01877,Michael,Taylor,michael.taylor1877@email.com,Philadelphia,PA,USA,2021-09-30 22:29:00,True
+CUST01878,Thomas,Brown,thomas.brown1878@email.com,Boston,MA,USA,2020-09-23 07:58:00,False
+CUST01879,Joseph,Miller,joseph.miller1879@email.com,San Antonio,TX,USA,2022-03-30 06:04:00,False
+CUST01880,Jennifer,Anderson,jennifer.anderson1880@email.com,San Antonio,TX,USA,2023-03-28 20:06:00,True
+CUST01881,Patricia,Brown,patricia.brown1881@email.com,San Diego,CA,USA,2021-05-07 00:57:00,False
+CUST01882,William,Smith,william.smith1882@email.com,Chicago,IL,USA,2022-09-02 21:33:00,False
+CUST01883,William,Brown,william.brown1883@email.com,Philadelphia,PA,USA,2023-02-01 02:22:00,False
+CUST01884,Robert,Jackson,robert.jackson1884@email.com,Houston,TX,USA,2022-10-25 13:32:00,False
+CUST01885,Joseph,Wilson,joseph.wilson1885@email.com,New York,NY,USA,2022-01-27 03:03:00,False
+CUST01886,Jessica,Miller,jessica.miller1886@email.com,Seattle,WA,USA,2021-08-25 06:25:00,True
+CUST01887,William,Martin,william.martin1887@email.com,San Jose,CA,USA,2022-11-28 13:06:00,True
+CUST01888,Linda,Brown,linda.brown1888@email.com,Austin,TX,USA,2021-03-25 03:03:00,True
+CUST01889,William,Davis,william.davis1889@email.com,San Jose,CA,USA,2020-05-14 17:06:00,False
+CUST01890,Lisa,Jackson,lisa.jackson1890@email.com,Houston,TX,USA,2022-03-13 12:06:00,True
+CUST01891,Olivia,Wilson,olivia.wilson1891@email.com,Seattle,WA,USA,2022-10-11 06:10:00,True
+CUST01892,Emma,Anderson,emma.anderson1892@email.com,Philadelphia,PA,USA,2023-12-16 19:18:00,True
+CUST01893,Jennifer,Martin,jennifer.martin1893@email.com,Los Angeles,CA,USA,2021-09-17 22:15:00,True
+CUST01894,Noah,Williams,noah.williams1894@email.com,Philadelphia,PA,USA,2020-12-07 05:21:00,False
+CUST01895,James,Martin,james.martin1895@email.com,Chicago,IL,USA,2022-05-26 10:01:00,True
+CUST01896,John,Garcia,john.garcia1896@email.com,Phoenix,AZ,USA,2023-10-23 00:38:00,False
+CUST01897,Charles,Smith,charles.smith1897@email.com,San Diego,CA,USA,2022-09-27 07:30:00,True
+CUST01898,James,Anderson,james.anderson1898@email.com,New York,NY,USA,2021-04-12 16:32:00,True
+CUST01899,Robert,Brown,robert.brown1899@email.com,Denver,CO,USA,2020-07-23 09:51:00,False
+CUST01900,Sarah,Thomas,sarah.thomas1900@email.com,San Diego,CA,USA,2023-01-22 08:42:00,False
+CUST01901,Susan,Harris,susan.harris1901@email.com,Phoenix,AZ,USA,2020-01-28 11:19:00,False
+CUST01902,Thomas,Martin,thomas.martin1902@email.com,Nashville,TN,USA,2020-08-18 08:43:00,True
+CUST01903,Jessica,Davis,jessica.davis1903@email.com,Chicago,IL,USA,2023-09-12 04:22:00,False
+CUST01904,Linda,White,linda.white1904@email.com,New York,NY,USA,2022-01-06 06:47:00,True
+CUST01905,Richard,Brown,richard.brown1905@email.com,Houston,TX,USA,2021-07-14 20:43:00,False
+CUST01906,Thomas,Garcia,thomas.garcia1906@email.com,Nashville,TN,USA,2021-06-27 21:22:00,False
+CUST01907,Charles,White,charles.white1907@email.com,San Antonio,TX,USA,2021-07-19 09:12:00,True
+CUST01908,Thomas,Taylor,thomas.taylor1908@email.com,San Jose,CA,USA,2023-06-08 03:27:00,False
+CUST01909,Susan,Anderson,susan.anderson1909@email.com,San Jose,CA,USA,2020-08-13 00:31:00,True
+CUST01910,Noah,Jones,noah.jones1910@email.com,San Diego,CA,USA,2022-12-07 09:39:00,True
+CUST01911,Sarah,Anderson,sarah.anderson1911@email.com,Phoenix,AZ,USA,2020-05-12 09:00:00,False
+CUST01912,Michael,Anderson,michael.anderson1912@email.com,New York,NY,USA,2023-04-29 03:03:00,False
+CUST01913,James,White,james.white1913@email.com,Phoenix,AZ,USA,2021-12-22 21:53:00,True
+CUST01914,William,Jones,william.jones1914@email.com,New York,NY,USA,2021-12-18 09:50:00,True
+CUST01915,Olivia,Wilson,olivia.wilson1915@email.com,Los Angeles,CA,USA,2020-10-19 23:12:00,False
+CUST01916,John,Anderson,john.anderson1916@email.com,San Jose,CA,USA,2021-03-24 01:30:00,False
+CUST01917,Noah,Jackson,noah.jackson1917@email.com,Houston,TX,USA,2022-05-15 12:57:00,True
+CUST01918,William,Anderson,william.anderson1918@email.com,Nashville,TN,USA,2023-05-07 09:11:00,False
+CUST01919,David,Jones,david.jones1919@email.com,Austin,TX,USA,2023-10-31 06:16:00,True
+CUST01920,Karen,Miller,karen.miller1920@email.com,San Antonio,TX,USA,2021-09-08 09:05:00,False
+CUST01921,Emma,Harris,emma.harris1921@email.com,San Jose,CA,USA,2023-01-22 05:24:00,False
+CUST01922,Robert,Harris,robert.harris1922@email.com,Los Angeles,CA,USA,2023-11-22 10:32:00,False
+CUST01923,Susan,White,susan.white1923@email.com,San Diego,CA,USA,2022-08-13 13:26:00,False
+CUST01924,Karen,Smith,karen.smith1924@email.com,New York,NY,USA,2022-05-12 02:48:00,True
+CUST01925,Barbara,Davis,barbara.davis1925@email.com,San Jose,CA,USA,2023-04-03 16:23:00,True
+CUST01926,Karen,Anderson,karen.anderson1926@email.com,San Jose,CA,USA,2020-04-19 12:08:00,False
+CUST01927,James,Harris,james.harris1927@email.com,Austin,TX,USA,2022-11-26 14:53:00,True
+CUST01928,Mary,Wilson,mary.wilson1928@email.com,Los Angeles,CA,USA,2023-08-23 03:21:00,True
+CUST01929,Barbara,Martin,barbara.martin1929@email.com,Boston,MA,USA,2023-11-15 10:55:00,True
+CUST01930,Liam,Johnson,liam.johnson1930@email.com,Los Angeles,CA,USA,2023-12-07 06:33:00,True
+CUST01931,Liam,Martin,liam.martin1931@email.com,Dallas,TX,USA,2020-10-06 07:57:00,True
+CUST01932,Emma,Anderson,emma.anderson1932@email.com,Phoenix,AZ,USA,2020-01-14 15:39:00,True
+CUST01933,John,Smith,john.smith1933@email.com,Los Angeles,CA,USA,2020-11-09 19:56:00,True
+CUST01934,Patricia,Davis,patricia.davis1934@email.com,Dallas,TX,USA,2021-02-22 03:30:00,True
+CUST01935,Thomas,Harris,thomas.harris1935@email.com,Boston,MA,USA,2022-03-11 01:59:00,True
+CUST01936,Richard,Martin,richard.martin1936@email.com,Phoenix,AZ,USA,2021-01-11 07:53:00,False
+CUST01937,Lisa,Harris,lisa.harris1937@email.com,Boston,MA,USA,2023-09-09 19:07:00,False
+CUST01938,Emma,Smith,emma.smith1938@email.com,Chicago,IL,USA,2021-01-13 04:52:00,True
+CUST01939,Thomas,Miller,thomas.miller1939@email.com,Chicago,IL,USA,2022-09-02 15:18:00,False
+CUST01940,Patricia,Martin,patricia.martin1940@email.com,Austin,TX,USA,2022-01-22 21:17:00,False
+CUST01941,Olivia,Brown,olivia.brown1941@email.com,San Antonio,TX,USA,2022-08-08 13:52:00,False
+CUST01942,James,Anderson,james.anderson1942@email.com,Chicago,IL,USA,2022-07-25 03:36:00,False
+CUST01943,Charles,Anderson,charles.anderson1943@email.com,New York,NY,USA,2020-03-10 20:41:00,False
+CUST01944,Susan,Jones,susan.jones1944@email.com,New York,NY,USA,2022-08-16 23:29:00,False
+CUST01945,Jennifer,Thomas,jennifer.thomas1945@email.com,New York,NY,USA,2022-10-22 16:13:00,False
+CUST01946,Olivia,Jackson,olivia.jackson1946@email.com,Nashville,TN,USA,2022-11-16 02:11:00,True
+CUST01947,Emma,Taylor,emma.taylor1947@email.com,Philadelphia,PA,USA,2022-07-30 22:54:00,True
+CUST01948,Ava,Anderson,ava.anderson1948@email.com,Phoenix,AZ,USA,2022-03-17 02:58:00,False
+CUST01949,Sarah,Garcia,sarah.garcia1949@email.com,San Antonio,TX,USA,2023-03-25 22:59:00,False
+CUST01950,Olivia,Taylor,olivia.taylor1950@email.com,Chicago,IL,USA,2023-04-20 18:22:00,False
+CUST01951,Mary,Smith,mary.smith1951@email.com,Los Angeles,CA,USA,2020-11-21 07:06:00,True
+CUST01952,Noah,Martin,noah.martin1952@email.com,San Diego,CA,USA,2021-10-24 07:49:00,True
+CUST01953,Jennifer,Jackson,jennifer.jackson1953@email.com,Los Angeles,CA,USA,2022-05-10 02:03:00,False
+CUST01954,Mary,Williams,mary.williams1954@email.com,Los Angeles,CA,USA,2022-06-23 11:38:00,True
+CUST01955,Jennifer,Taylor,jennifer.taylor1955@email.com,Nashville,TN,USA,2020-08-08 22:28:00,False
+CUST01956,Emma,Miller,emma.miller1956@email.com,Chicago,IL,USA,2021-02-04 08:31:00,False
+CUST01957,Barbara,Davis,barbara.davis1957@email.com,Austin,TX,USA,2021-02-16 23:10:00,False
+CUST01958,Thomas,Miller,thomas.miller1958@email.com,Boston,MA,USA,2020-06-25 18:01:00,True
+CUST01959,Mary,Jones,mary.jones1959@email.com,Houston,TX,USA,2020-01-11 11:49:00,False
+CUST01960,Karen,Williams,karen.williams1960@email.com,San Jose,CA,USA,2021-11-28 05:43:00,False
+CUST01961,Michael,Martin,michael.martin1961@email.com,Houston,TX,USA,2022-10-22 11:22:00,True
+CUST01962,John,Harris,john.harris1962@email.com,Denver,CO,USA,2022-05-25 20:24:00,True
+CUST01963,John,Jones,john.jones1963@email.com,San Jose,CA,USA,2022-11-25 09:06:00,True
+CUST01964,Linda,Johnson,linda.johnson1964@email.com,San Diego,CA,USA,2023-05-16 17:21:00,True
+CUST01965,Barbara,Wilson,barbara.wilson1965@email.com,Houston,TX,USA,2022-03-10 22:22:00,True
+CUST01966,Jennifer,Anderson,jennifer.anderson1966@email.com,Boston,MA,USA,2020-06-02 17:36:00,True
+CUST01967,Thomas,Anderson,thomas.anderson1967@email.com,Boston,MA,USA,2022-03-28 19:03:00,True
+CUST01968,Sarah,Wilson,sarah.wilson1968@email.com,San Jose,CA,USA,2023-08-30 00:02:00,False
+CUST01969,William,Miller,william.miller1969@email.com,San Antonio,TX,USA,2021-11-16 01:08:00,True
+CUST01970,Liam,Taylor,liam.taylor1970@email.com,Dallas,TX,USA,2023-09-20 01:15:00,False
+CUST01971,Charles,Johnson,charles.johnson1971@email.com,Los Angeles,CA,USA,2021-12-09 02:26:00,True
+CUST01972,Karen,Martin,karen.martin1972@email.com,Nashville,TN,USA,2020-09-22 08:46:00,True
+CUST01973,Mary,Martin,mary.martin1973@email.com,Los Angeles,CA,USA,2022-11-05 07:41:00,False
+CUST01974,Sarah,Anderson,sarah.anderson1974@email.com,San Antonio,TX,USA,2021-04-11 00:59:00,True
+CUST01975,Ava,Miller,ava.miller1975@email.com,New York,NY,USA,2022-12-30 19:55:00,False
+CUST01976,Noah,Smith,noah.smith1976@email.com,Austin,TX,USA,2023-02-05 15:03:00,False
+CUST01977,Richard,Jones,richard.jones1977@email.com,Denver,CO,USA,2022-05-30 22:27:00,True
+CUST01978,Joseph,Brown,joseph.brown1978@email.com,Los Angeles,CA,USA,2023-06-14 11:22:00,True
+CUST01979,Jessica,Johnson,jessica.johnson1979@email.com,Philadelphia,PA,USA,2021-05-02 07:05:00,True
+CUST01980,Jessica,Johnson,jessica.johnson1980@email.com,Houston,TX,USA,2020-01-31 23:15:00,True
+CUST01981,Mary,Jones,mary.jones1981@email.com,Los Angeles,CA,USA,2022-06-17 05:18:00,True
+CUST01982,Susan,Davis,susan.davis1982@email.com,Philadelphia,PA,USA,2021-08-21 04:38:00,False
+CUST01983,Noah,Brown,noah.brown1983@email.com,San Diego,CA,USA,2023-09-06 02:04:00,False
+CUST01984,Michael,Martin,michael.martin1984@email.com,Dallas,TX,USA,2023-12-15 23:52:00,False
+CUST01985,Linda,Harris,linda.harris1985@email.com,Nashville,TN,USA,2023-12-31 09:23:00,False
+CUST01986,Emma,Davis,emma.davis1986@email.com,Boston,MA,USA,2022-12-14 08:20:00,True
+CUST01987,Susan,White,susan.white1987@email.com,New York,NY,USA,2023-12-15 19:31:00,False
+CUST01988,Michael,Jones,michael.jones1988@email.com,Los Angeles,CA,USA,2022-12-02 07:19:00,True
+CUST01989,Susan,Jones,susan.jones1989@email.com,Los Angeles,CA,USA,2020-03-14 07:44:00,False
+CUST01990,Ava,Harris,ava.harris1990@email.com,Austin,TX,USA,2020-08-21 00:31:00,True
+CUST01991,William,Jackson,william.jackson1991@email.com,Phoenix,AZ,USA,2021-09-07 02:03:00,False
+CUST01992,Lisa,Jackson,lisa.jackson1992@email.com,Boston,MA,USA,2022-10-11 00:55:00,False
+CUST01993,Joseph,Johnson,joseph.johnson1993@email.com,San Antonio,TX,USA,2021-04-04 06:24:00,True
+CUST01994,Jessica,Johnson,jessica.johnson1994@email.com,Austin,TX,USA,2023-09-14 09:02:00,False
+CUST01995,James,Taylor,james.taylor1995@email.com,Nashville,TN,USA,2021-06-21 18:13:00,True
+CUST01996,Liam,White,liam.white1996@email.com,Philadelphia,PA,USA,2022-05-25 23:59:00,True
+CUST01997,Patricia,Jackson,patricia.jackson1997@email.com,Denver,CO,USA,2023-10-20 09:54:00,False
+CUST01998,Charles,Wilson,charles.wilson1998@email.com,San Antonio,TX,USA,2020-11-28 12:29:00,True
+CUST01999,James,Wilson,james.wilson1999@email.com,Chicago,IL,USA,2023-10-29 08:05:00,True
+CUST02000,Karen,Anderson,karen.anderson2000@email.com,Denver,CO,USA,2021-11-22 18:25:00,True

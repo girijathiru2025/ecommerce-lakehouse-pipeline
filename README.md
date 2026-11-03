@@ -1,11 +1,13 @@
 # E-Commerce Lakehouse Pipeline
 
-End-to-end Databricks ETL project using **Auto Loader → Delta Live Tables → Medallion Architecture (Bronze / Silver / Gold)**.
+End-to-end Databricks ETL project using **Auto Loader, Delta Lake, and PySpark** with the **Medallion Architecture (Bronze / Silver / Gold)**.
+
+Built as a self-directed learning project on synthetic data. The pipeline runs as three notebooks (Bronze, Silver, Gold). An alternative Delta Live Tables version is included but has not been run (see "Optional: Delta Live Tables version" below).
 
 ## Architecture
 
 ```
-CSV files (DBFS)
+CSV files (Unity Catalog Volume)
       │
       ▼
  Auto Loader          ← incremental ingest, schema evolution
@@ -14,35 +16,32 @@ CSV files (DBFS)
  Bronze Layer         ← raw append-only Delta tables + ingest metadata
       │
       ▼
- Silver Layer         ← cleaned, typed, deduplicated, DLT expectations
+ Silver Layer         ← MERGE upserts, deduplication, null checks, derived columns
       │
       ▼
  Gold Layer           ← 5 business-ready aggregate tables
-      │
-      ▼
- SQL Warehouse        ← BI / ad-hoc queries
 ```
 
 ## Dataset
 
-Synthetic e-commerce data (generated, no external dependency):
+Synthetic e-commerce data, generated locally with no external dependency:
 
-| File              | Rows   | Description                        |
-|-------------------|--------|------------------------------------|
-| customers.csv     | 2,000  | Customer profiles                  |
-| products.csv      | 200    | Product catalog                    |
-| orders.csv        | 15,000 | Order headers                      |
-| order_items.csv   | ~50,000| Order line items                   |
+| File            | Rows    | Description       |
+|-----------------|---------|-------------------|
+| customers.csv   | 2,000   | Customer profiles |
+| products.csv    | 200     | Product catalog   |
+| orders.csv      | 15,000  | Order headers     |
+| order_items.csv | ~50,000 | Order line items  |
 
 ## Gold Tables
 
-| Table                     | Description                                    |
-|---------------------------|------------------------------------------------|
-| `daily_sales_summary`     | Revenue & orders by day × channel              |
-| `category_performance`    | Revenue & margin by category × month           |
-| `customer_lifetime_value` | CLV, order frequency, segment (High/Mid/Low)   |
-| `order_funnel`            | Order counts by status                         |
-| `top_products`            | Top 20 products by revenue                     |
+| Table                     | Description                                  |
+|---------------------------|----------------------------------------------|
+| `daily_sales_summary`     | Revenue & orders by day x channel            |
+| `category_performance`    | Revenue & margin by category x month         |
+| `customer_lifetime_value` | CLV, order frequency, segment (High/Mid/Low) |
+| `order_funnel`            | Order counts by status                       |
+| `top_products`            | Top 20 products by revenue                   |
 
 ## Project Structure
 
@@ -53,57 +52,49 @@ ecommerce-lakehouse-pipeline/
 ├── data/                         # generated CSVs (gitignored)
 ├── notebooks/
 │   ├── 00_setup.py               # create Unity Catalog schemas, verify data
-│   ├── 01_bronze_ingestion.py    # Auto Loader → bronze Delta tables
-│   ├── 02_silver_transforms.py   # clean/dedupe/validate → silver (MERGE upsert)
-│   └── 03_gold_aggregates.py     # business aggregates → gold
+│   ├── 01_bronze_ingestion.py    # Auto Loader -> bronze Delta tables
+│   ├── 02_silver_transforms.py   # clean/dedupe/validate -> silver (MERGE upsert)
+│   └── 03_gold_aggregates.py     # business aggregates -> gold
 └── dlt_pipeline/
-    └── ecommerce_dlt_pipeline.py # full pipeline as Delta Live Tables
+    └── ecommerce_dlt_pipeline.py # optional Delta Live Tables version (not yet run)
 ```
 
 ## Setup & Run
 
-### Step 1 — Generate sample data
+### Step 1: Generate sample data
 
-```bash
+```
 cd ecommerce-lakehouse-pipeline
 python data_generator/generate_sample_data.py
 ```
 
-### Step 2 — Upload to DBFS
+### Step 2: Upload the CSVs to your Databricks workspace
 
-```bash
-# Install Databricks CLI first: pip install databricks-cli
-databricks configure --token
-databricks fs mkdirs dbfs:/FileStore/ecommerce/raw
-databricks fs cp -r data/ dbfs:/FileStore/ecommerce/raw/
-```
+Upload the files in `data/` to a Unity Catalog Volume in your workspace.
 
-### Step 3 — Create Unity Catalog
+### Step 3: Create the catalog
 
-In Databricks UI → Data → Create Catalog → name it `ecommerce_lakehouse`
+In Databricks UI -> Data -> Create Catalog -> name it `ecommerce_lakehouse`
 
-### Step 4 — Run notebooks in order
+### Step 4: Run the notebooks in order
 
-Import all notebooks from `notebooks/` into your Databricks workspace and run:
+Import all notebooks from `notebooks/` into your workspace and run:
+
 1. `00_setup.py`
 2. `01_bronze_ingestion.py`
 3. `02_silver_transforms.py`
 4. `03_gold_aggregates.py`
 
-### Step 5 (optional) — Run as Delta Live Tables pipeline
+## Optional: Delta Live Tables version
 
-1. Go to **Workflows → Delta Live Tables → Create Pipeline**
-2. Point to `dlt_pipeline/ecommerce_dlt_pipeline.py`
-3. Set pipeline config: `raw_path` = `dbfs:/FileStore/ecommerce/raw`
-4. Click **Start**
+`dlt_pipeline/ecommerce_dlt_pipeline.py` implements the same pipeline as a Delta Live Tables pipeline with inline `@dlt.expect` data-quality rules. **I have written this version but not run it yet**, so it is untested.
 
-The DLT pipeline does everything notebooks 01–03 do, but with built-in data quality metrics visible in the UI.
+To try it: Workflows -> Delta Live Tables -> Create Pipeline, point it at the file, set the `raw_path` config to your Volume path, and start it.
 
-## Key Databricks Concepts Demonstrated
+## Databricks Concepts Used
 
-- **Auto Loader** (`cloudFiles`) — incremental file ingestion with schema evolution
-- **Delta Live Tables** — declarative pipeline with `@dlt.expect` data quality rules
-- **Delta Lake** — ACID transactions, MERGE upserts, time travel
-- **Medallion Architecture** — Bronze / Silver / Gold layering
-- **Unity Catalog** — catalog + schema governance
-- **SQL Warehouse** — query gold tables from BI tools
+- **Auto Loader** (`cloudFiles`): incremental file ingestion with schema evolution
+- **Delta Lake**: ACID transactions and MERGE upserts
+- **Medallion Architecture**: Bronze / Silver / Gold layering
+- **Unity Catalog**: catalog and schema organization
+- **PySpark**: transformations and aggregations

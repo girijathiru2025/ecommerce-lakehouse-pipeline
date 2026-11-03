@@ -5,7 +5,7 @@
 # MAGIC %md
 # MAGIC # 01 · Bronze Layer — Auto Loader Ingestion
 # MAGIC
-# MAGIC Reads raw CSVs incrementally from DBFS using **Auto Loader** (`cloudFiles`) and writes
+# MAGIC Reads raw CSVs incrementally from a Unity Catalog Volume using **Auto Loader** (`cloudFiles`) and writes
 # MAGIC append-only Delta tables in the bronze schema.  No business logic — raw data lands as-is,
 # MAGIC plus ingest metadata columns for lineage.
 # MAGIC

@@ -68,13 +68,18 @@ cd ecommerce-lakehouse-pipeline
 python data_generator/generate_sample_data.py
 ```
 
-### Step 2: Upload the CSVs to your Databricks workspace
+### Step 2: Create the catalog, schema, and volume
 
-Upload the files in `data/` to a Unity Catalog Volume in your workspace.
+In Databricks, create a catalog named `ecommerce_lakehouse`, a schema named `bronze`, and a volume named `raw_data`. The notebooks read from:
 
-### Step 3: Create the catalog
+```
+/Volumes/ecommerce_lakehouse/bronze/raw_data
+```
 
-In Databricks UI -> Data -> Create Catalog -> name it `ecommerce_lakehouse`
+### Step 3: Upload the CSVs
+
+Upload the files in `data/` to that volume.
+
 
 ### Step 4: Run the notebooks in order
 
